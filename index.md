@@ -1,5 +1,6 @@
 # Overview
 
-* <ab3c8ea8>
+This is my [Zettelkasten](https://de.wikipedia.org/wiki/Zettelkasten). Let's see if I'll actually maintain this. 😄
 
-## <4da5049f>
+## Topics
+- <4da5049f>
