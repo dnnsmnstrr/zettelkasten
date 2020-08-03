@@ -1,0 +1,12 @@
+{
+  "name": "zettelkasten",
+  "version": "1.0.0",
+  "description": "A zettelkasten for @dnnsmnstrr",
+  "main": "index.js",
+  "author": "Dennis Muensterer <dennismuensterer@gmail.com>",
+  "license": "MIT",
+  "private": true,
+  "scripts": {
+    "start": "neuron open && neuron rib -wS"
+  }
+}
