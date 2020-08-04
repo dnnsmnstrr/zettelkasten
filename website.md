@@ -1,7 +1,7 @@
 ---
 date: 2020-08-04
 tags:
-  - website
+  - web
   - pages
 ---
 
@@ -13,3 +13,5 @@ It is hosted using Github Pages and built using Jekyll
 
 <ef250743>
 <iframe src="https://muensterer.xyz" title="Current website" width='100%' height='60%'></iframe>
+
+<social>
