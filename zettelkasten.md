@@ -5,16 +5,15 @@ tags:
   - learning
 ---
 
-# [Zettelkasten](https://zettelkasten.de/)
+# [Zettelkasten](https://de.wikipedia.org/wiki/Zettelkasten)
+
+(https://zettelkasten.de/)
 
 - <80ac7e39>
 https://medium.com/@davidbclear/zettelkasten-wie-ein-deutscher-gelehrter-so-unglaublich-produktiv-war-b3d29385f103
 
-## [Neuron](https://neuron.zettel.page/)
-New Zettel: `neuron new Title`
+- <neuron>
 
-Start web interface:
-`neuron rib -wS`
-
-
-`neuron open`
+## Resources
+- https://zk.zettel.page/
+<z:zettels?tag=zettelkasten>

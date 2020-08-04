@@ -7,6 +7,6 @@
   "license": "MIT",
   "private": true,
   "scripts": {
-    "start": "neuron open && neuron rib -wS"
+    "start": "neuron rib -wS"
   }
 }
