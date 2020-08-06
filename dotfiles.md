@@ -5,6 +5,12 @@ tags:
   - overview
 ---
 
-# Dotfiles
+# [Dotfiles](https://github.com/dnnsmnstrr/dotfiles)
 
-[Strap](https://macos-strap.herokuapp.com/)
+I keep my dotfiles in version control using <git>.
+
+## External links
+
+- [Strap](https://macos-strap.herokuapp.com/)
+
+<iframe width='100%' height='80%' src="https://muensterer.xyz/dotfiles" title="My dotfiles documentation"></iframe>
