@@ -7,3 +7,7 @@ tags:
 ---
 
 # Alfred
+
+A customizable version of the macOS Spotlight tool.
+
+## <workflows>

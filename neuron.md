@@ -15,4 +15,7 @@ Start web interface:
 
 `neuron open`
 
+Show other tagged:
+`<z:zettels?tag=zettelkasten>`
+
 ### <5d82d359>

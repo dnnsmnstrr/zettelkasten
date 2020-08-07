@@ -14,6 +14,8 @@ https://medium.com/@davidbclear/zettelkasten-wie-ein-deutscher-gelehrter-so-ungl
 
 - <neuron>
 
+- Where this all started: <helloworld>
 ## Resources
-- https://zk.zettel.page/
+- [r/zettelkasten](https://zk.zettel.page/)
+
 <z:zettels?tag=zettelkasten>

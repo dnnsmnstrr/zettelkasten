@@ -1,8 +1,7 @@
 ---
 date: 2020-08-06
 tags:
-  - git
-  - version control
+  - dev
 ---
 
 # Git
