@@ -18,4 +18,4 @@ Start web interface:
 Show other tagged:
 `<z:zettels?tag=zettelkasten>`
 
-### <5d82d359>
+# [[pages]]
