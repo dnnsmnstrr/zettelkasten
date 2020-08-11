@@ -6,4 +6,4 @@ tags:
 
 # Hello World
 
-This is my first neuron zettelkasten note
+This is my first [[neuron]] [[zettelkasten]] note.

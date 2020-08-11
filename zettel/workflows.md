@@ -1,9 +1,7 @@
 ---
 date: 2020-08-04
 tags:
-  - alfred
-  - workflow
+  - workflow/alfred
 ---
 
-# Alfred Workflows
-https://github.com/dnnsmnstrr/workflows
+# [[alfred]] [Workflows](https://github.com/dnnsmnstrr/workflows)

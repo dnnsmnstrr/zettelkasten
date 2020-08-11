@@ -9,12 +9,12 @@ tags:
 
 (https://zettelkasten.de/)
 
-- <80ac7e39>
+- [[80ac7e39]]
 https://medium.com/@davidbclear/zettelkasten-wie-ein-deutscher-gelehrter-so-unglaublich-produktiv-war-b3d29385f103
 
-- <neuron>
+- [[neuron]]
 
-- Where this all started: <helloworld>
+- Where this all started: [[helloworld]]
 ## Resources
 - [r/zettelkasten](https://zk.zettel.page/)
 

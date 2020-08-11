@@ -6,4 +6,4 @@ tags:
 ---
 
 # Music
-I love music. Check out my <spotify> playlists!
+I love music. Check out my [[spotify]] playlists!

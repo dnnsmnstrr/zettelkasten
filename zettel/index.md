@@ -1,9 +1,9 @@
 # Overview
 
-This is my <zettelkasten>. Let's see if I'll actually maintain this. 😄
+This is my [[zettelkasten]]. Let's see if I'll actually maintain this. 😄
 
 <z:zettels?tag=overview>
 
 ## Contact
-<social>
+[[social]]
 [Email](mailto:dennismuensterer@gmail.com)
