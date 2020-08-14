@@ -7,5 +7,5 @@
 , aliases =
     [ "home:index" ]
 , editUrl =
-    Some "https://github.com/dnnsmnstrr/zettelkasten/edit/master/zettel/"
+    Some "https://github.com/dnnsmnstrr/zettelkasten/edit/master/"
 }
