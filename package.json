@@ -7,8 +7,8 @@
   "license": "MIT",
   "private": true,
   "scripts": {
-    "start": "neuron rib -wS -d zettel",
-    "new": "neuron -d zettel new",
-    "search": "neuron -d zettel search"
+    "start": "neuron rib -wS",
+    "new": "neuron new",
+    "search": "neuron search"
   }
 }
