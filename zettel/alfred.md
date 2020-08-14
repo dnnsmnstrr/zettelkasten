@@ -8,5 +8,5 @@ tags:
 # Alfred
 
 A customizable version of the macOS Spotlight tool.
-
+I've symlinked the alfred preferences to my [[dotfiles]].
 ## [[workflows]]
