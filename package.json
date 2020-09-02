@@ -9,6 +9,7 @@
   "scripts": {
     "start": "neuron rib -wS",
     "new": "neuron new",
-    "search": "neuron search"
+    "search": "neuron search",
+    "mft": "dotnet exec .mft/mft.dll ."
   }
 }
