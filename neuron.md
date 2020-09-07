@@ -15,6 +15,8 @@ Start web interface:
 
 `neuron open`
 
+Update neuron:
+`nix-env -if https://github.com/srid/neuron/archive/master.tar.gz`
 Show other tagged:
 `<z:zettels?tag=zettelkasten>`
 
