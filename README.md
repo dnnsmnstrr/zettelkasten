@@ -18,4 +18,4 @@ Description of a project.
 ---
 
 # [Neuron](https://github.com/srid/neuron)
-My Zettelkasten is managed using `neuron`. It can be edited locally, [here](./README.md) in GitHub or with [Cerveau](https://www.cerveau.app/-/dnnsmnstrr/zettelkasten)
+My Zettelkasten is managed using [`neuron`](https://neuron.zettel.page). It can be edited locally, [here](./README.md) in GitHub or with [Cerveau](https://www.cerveau.app/-/dnnsmnstrr/zettelkasten)
