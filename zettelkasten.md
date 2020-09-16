@@ -17,6 +17,8 @@ I put my zettel in my [Zettelkasten](https://zettelkasten.de/). My personal slip
 
 - Where this all started: [[helloworld]]
 
+## Digital Garden
+This is also a form of [digital garden](https://joelhooks.com/digital-garden) to me
 ## Resources
 - [r/zettelkasten](https://zk.zettel.page/)
 

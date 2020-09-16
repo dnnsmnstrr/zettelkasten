@@ -14,7 +14,10 @@ tags:
 
 ## Tools
 - Atom [[ide]]
-###
 
+## [JSFuck](http://www.jsfuck.com/)
+```js
+([][[]]+[])[!+[]+!+[]]+(!![]+[])[!+[]+!+[]+!+[]]+([][[]]+[])[+!+[]]+([][[]]+[])[+!+[]]+([![]]+[][[]])[+!+[]+[+[]]]+(![]+[])[!+[]+!+[]+!+[]] // dennis
+```
 ## Resources
 - [freeCodeCamp](https://www.freecodecamp.org/learn)

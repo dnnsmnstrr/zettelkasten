@@ -45,6 +45,11 @@ Using [workflow²](), you can search for built-in icons in `/System/Library/Core
 
 #### Icons for Apps
 ```json
+icon: {
+    type: 'fileicon',
+    path: '/Applications/APPNAME.app'
+},
+
 "icon": {
   "path": "/Applications/APPNAME.app/Contents/Resources/APP_ICON.icns"
 }

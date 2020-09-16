@@ -9,9 +9,13 @@ tags:
 
 # [Dotfiles](https://github.com/dnnsmnstrr/dotfiles)
 
-I keep my dotfiles in version control using [[git]].
-They include setup scripts for easily getting a new dev environment running exactly the way I want it. There are configuration files for various shells, with aliases to make navigating the [[cli]] more efficient or fun.
-There is also my [[bettertouchtool]] preset, [HydroTouch](https://github.com/dnnsmnstrr/HydroTouch).
+I keep my dotfiles in version control using [[git]] and [dotbot](https://github.com/anishathalye/dotbot).
+
+They include setup scripts for easily getting a new dev environment running exactly the way I want it.
+
+There are configuration files for various shells, with aliases to make navigating the [[cli]] more efficient or fun.
+
+Some folders are submodules, such as my [[bettertouchtool]] preset, [HydroTouch](https://github.com/dnnsmnstrr/HydroTouch) or my [[alfred]] workflows.
 
 ## External links
 
