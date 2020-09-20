@@ -9,6 +9,10 @@
   "scripts": {
     "start": "neuron rib -wS",
     "new": "neuron new",
-    "search": "neuron search"
+    "search": "neuron search",
+    "mft": "dotnet exec .mft/mft.dll .",
+    "update": "nix-env -if https://github.com/srid/neuron/archive/master.tar.gz",
+    "docker": "docker run --rm -i -p 8080:8080 -v ~/zettelkasten:/zettelkasten sridca/neuron neuron rib -ws 0.0.0.0:8080",
+    "live": "reload -b -d ~/zettelkasten/.neuron/output"
   }
 }
