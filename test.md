@@ -6,4 +6,4 @@ tags:
 
 # Test
 
-This is a test note. It was created to see if my [[alfred]]-[[zettelkasten]] workflow works as expected
+This is a test note. It was created to see if my [[alfred]]-[[zettelkasten]] workflow works as expected.

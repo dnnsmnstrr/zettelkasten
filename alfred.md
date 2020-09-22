@@ -3,12 +3,13 @@ date: 2020-08-04
 tags:
   - overview
   - workflow/alfred
+  - mac
 ---
 
 # [Alfred](https://www.alfredapp.com)
 
 A customizable version of the macOS Spotlight tool.
-I keep my Alfred preferences symlinked within the [[dotfiles]] directory.
+I keep my Alfred preferences symlinked within the [[[dotfiles]]] directory.
 
 ## [Workflows](https://github.com/dnnsmnstrr/workflows)
 - [[alfred]]-[[zettelkasten]]

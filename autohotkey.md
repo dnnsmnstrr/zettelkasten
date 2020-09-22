@@ -5,6 +5,6 @@ tags:
   - windows
 ---
 
-# [Autohotkey](https://www.autohotkey.com/())
+# [Autohotkey](https://www.autohotkey.com/)
 
-A powerful automation tool for windows. I use it to disable the 
+A powerful automation tool for windows. I use it to disable the
