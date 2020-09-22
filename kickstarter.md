@@ -22,9 +22,10 @@ Did the creator deliver on previous projects?
 - Turtle Shells (ODT)
 - Bomber Barrel
 - Playbulbs
+- Creality CR6-SE
+- [Orba](https://www.kickstarter.com/projects/artiphon/orba-by-artiphon-an-instrument-designed-for-your-hands)
 
 ## Still waiting...
-- [Orba](https://www.kickstarter.com/projects/artiphon/orba-by-artiphon-an-instrument-designed-for-your-hands)
 - [HyperDisk](https://www.kickstarter.com/projects/hyperdisk/hyperdisk-probably-the-smallest-and-fastest-portable-ssd)
 
 ![waiting](https://media1.giphy.com/media/26BRuo6sLetdllPAQ/giphy.gif?cid=e1bb72fftt42r7rurh93gzbc0ayzu41uketmg0wllu0xuv5k&rid=giphy.gif)
