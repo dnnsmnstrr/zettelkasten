@@ -11,3 +11,5 @@ tags:
 My favorite preset: [AquaTouch](https://community.folivora.ai/t/1704)
 
 My own customizations: [HydroTouch](https://github.com/dnnsmnstrr/HydroTouch)
+
+Album Artwork path: `~/Library/Application Support/BetterTouchTool/spotify_cover.png`

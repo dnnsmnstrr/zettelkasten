@@ -2,7 +2,6 @@
 date: 2020-09-09
 tags:
 - organisation
-- mindfulness
 ---
 
 # Organisation
