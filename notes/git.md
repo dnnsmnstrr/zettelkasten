@@ -8,6 +8,9 @@ tags:
 
 Git is my preferred vcs.
 
+# Troubleshooting
+
+
 # External Links
 
 - [Flight Rules](https://github.com/k88hudson/git-flight-rules)

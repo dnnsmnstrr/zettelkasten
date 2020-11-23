@@ -55,3 +55,7 @@ icon: {
   "path": "/Applications/APPNAME.app/Contents/Resources/APP_ICON.icns"
 }
 ```
+
+# External Links
+- [Cheatsheet](https://www.alfredapp.com/help/getting-started/cheatsheet/)
+- [Script Filter JSON API](https://www.alfredapp.com/help/workflows/inputs/script-filter/json/)
