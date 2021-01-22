@@ -11,4 +11,6 @@ I make a new playlist every season [🌸](https://open.spotify.com/playlist/68z1
 
 Also documented on https://dnnsmnstrr.onuniverse.com/playlists (pretty slow, there's a [[gif]] for every playlist)
 
-My [current playlist]() is available via my [[api]]
+The [current playlist](http://api.muensterer.xyz/playlist/current) I'm curating is available via my [[api]]
+
+<script src="https://gist.github.com/dnnsmnstrr/6d09e7d0d8696eb87460c7d5370bd079.js"></script>

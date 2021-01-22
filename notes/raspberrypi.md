@@ -17,8 +17,11 @@ My Pi Collection
 - Tetris
 - Super Mario Kart
 
-## Octopi
+## [OctoPi](https://github.com/guysoft/OctoPi)
 Used for [[3DPrinting]]
+
+
+
 
 
 

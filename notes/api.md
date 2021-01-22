@@ -4,9 +4,9 @@ tags:
 - dev
 ---
 
-# API
+# [API](https://github.com/dnnsmnstrr/api)
 
-My personal api is available at `api.muensterer.xyz` or [next.muensterer.xyz/api](https://next.muensterer.xyz/api).
+My personal api is available at `api.muensterer.xyz` (redirects to [next.muensterer.xyz/api](https://next.muensterer.xyz/api))
 The available routes are:
 | Route | Description |
 | :------------- | :------------- |

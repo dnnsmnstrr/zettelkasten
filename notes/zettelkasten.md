@@ -7,7 +7,9 @@ tags:
 
 # [Zettelkasten](https://de.wikipedia.org/wiki/Zettelkasten)
 
-I put my zettel in my [Zettelkasten](https://zettelkasten.de/). My personal slip box.
+My personal slip box.
+
+> I put my Zettel in my [`Zettelkasten`](https://zettelkasten.de/).
 
 ![slip box](https://media4.giphy.com/media/ge91zAgmwUqLMqiH2c/giphy.gif?cid=e1bb72ffpcvcbkvqi068930dca8vu10rmrvlh9eilyijdryy&rid=giphy.gif)
 
