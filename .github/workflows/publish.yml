@@ -3,6 +3,8 @@ on:
   push:
     branches:
       - master
+      - main
+
 jobs:
   neuron:
     runs-on: ubuntu-latest
@@ -18,9 +20,9 @@ jobs:
         ./neuron --version  # This extracts the bundle; should take a while
     - name: Build neuron site 🔧
       run: |
-        ./neuron -d $PWD rib
+        ./neuron -d $PWD/notes rib
     - name: Deploy to gh-pages 🚀
       uses: peaceiris/actions-gh-pages@v3
       with:
         github_token: ${{ secrets.GITHUB_TOKEN }}
-        publish_dir: .neuron/output/
+        publish_dir: notes/.neuron/output/

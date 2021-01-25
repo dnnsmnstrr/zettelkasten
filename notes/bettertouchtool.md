@@ -18,3 +18,8 @@ Album Artwork path: `~/Library/Application Support/BetterTouchTool/spotify_cover
 
 - [Import duplicate presets](https://community.folivora.ai/t/cant-import-a-preset-without-replacing/10455/4)
   `defaults write com.hegenberg.BetterTouchTool BTTImportDuplicatePresets YES`
+
+## Troubleshooting
+
+- [Presets gone after update](https://community.folivora.ai/t/how-can-i-restore-my-presets/14976/2)
+  - BTT -> Help -> Restore Settings from Backup -> Second-most recent option in the dropdown

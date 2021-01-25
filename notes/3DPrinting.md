@@ -6,12 +6,11 @@ tags:
 
 # 3D-Printing
 
-## My Printers
-- Anycubic Photon - resin printer
+## My Printer
 - Creality CR6-SE - got it from [[kickstarter]]
 
 ## [Octoprint](https://octoprint.org/)
-Runs on my [[raspberrypi]].
+Runs on a [Raspberry Pi](./raspberrypi.md) and lets me control my printer via wifi.
 
 ### Plugins
 
@@ -19,3 +18,7 @@ Runs on my [[raspberrypi]].
 - IKEA Hooks (Skadis, Tertial, Tisken)
 - Tube Squeezer
 - Cable Clips
+- [Polypanels](https://www.makeanything.design/polypanels) (shoutout @ [makeanything]() - one of my favorite makers on [[youtube]])
+
+## Software
+For quick sketches and simple models I prefer [TinkerCAD](https://tinkercad.com)

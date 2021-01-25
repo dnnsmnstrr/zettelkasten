@@ -2,3 +2,4 @@
 .obsidian
 *.log
 .mft
+/node_modules

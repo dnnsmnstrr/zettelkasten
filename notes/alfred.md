@@ -23,7 +23,25 @@ I mainly use this framework, as it allows me to create workflows using [[js]]
 `npx alfred-link`
 ~~Link current directory to workflows directory: `ln -s "$(pwd)" ~/.dotfiles/alfred/workflows`~~
 
-### Modifiers
+#### [Script filters](https://www.alfredapp.com/help/workflows/inputs/script-filter/json/)
+
+```json
+{"items": [
+    {
+        "uid": "desktop",
+        "type": "file",
+        "title": "Desktop",
+        "subtitle": "~/Desktop",
+        "arg": "~/Desktop",
+        "autocomplete": "Desktop",
+        "icon": {
+            "type": "fileicon",
+            "path": "~/Desktop"
+        }
+    }
+]}
+```
+##### Modifiers
 ```js
 "mods": {
   "cmd": {
@@ -41,11 +59,13 @@ mods: {
   }
 }
 ```
-### Icons
-
+#### Icons
 Using [workflow²](https://github.com/dnnsmnstrr/alfred-workflow), you can search for built-in icons in `/System/Library/CoreServices/CoreTypes.bundle/Contents/Resources/` and generate icon paths.
 
-#### Icons for Apps
+##### macOS icns
+Using [workflow²](), you can search for built-in icons in `/System/Library/CoreServices/CoreTypes.bundle/Contents/Resources/`
+
+##### Icons for Apps
 ```json
 // in js
 icon: {
