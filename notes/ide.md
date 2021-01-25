@@ -7,16 +7,22 @@ tags:
 # IDE
 
 I've coded in multiple dev environments, including Clion, Eclipse, Xcode, IntelliJ, Racket, VSCode, ...
-⬇️Among these, Atom is definitely my favorite
+Among these, Atom is definitely my favorite ⬇️
 
 ## [Atom](https://atom.io)
-My IDE of choice. As you can see in my [sync-settings](https://atom.io/packages/sync-settings) backup, I use a ton of plugins. Honorable mentions include:
+My IDE of choice. As you can see in my [sync-settings](https://atom.io/packages/sync-settings) backup, I use a ton of plugins. Notable mentions include:
+- atom-notes
+- quokka
+- markdown-preview-enhanced
+- project-manager
+- script
 - Platformio Terminal
+- wakatime
 
 ### [Snippets](https://gist.github.com/dnnsmnstrr/92968648b5ea54edbee216e87e52c15e#file-snippets-cson)
 The Backup also contains a bunch of custom snippets. Here are some of my most used:
 
-#### [[JS]]
+#### [[js]]
 ```cson
   'Arrow function':
     'prefix': 'ar'
