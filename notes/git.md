@@ -6,8 +6,12 @@ tags:
 
 # Git
 
-Git is my preferred vcs.
+Git gud
 
+```sh
+# commit
+git commit -am "message"
+```
 # Troubleshooting
 
 
