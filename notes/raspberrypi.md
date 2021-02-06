@@ -11,6 +11,7 @@ My Pi Collection
 - Pi 2B
 - Pi Zero W
 - Pi 4 (4GB)
+- [Pico](https://www.raspberrypi.org/products/raspberry-pi-pico/) (Microcontroller)
 
 ## [RetroPie](https://retropie.org.uk/)
 
@@ -21,9 +22,10 @@ My Pi Collection
 Used for [[3DPrinting]]
 
 
+## Pico
 
-
-
+- [MicroPython](https://datasheets.raspberrypi.org/pico/raspberry-pi-pico-python-sdk.pdf)
+  - Connect from [[macos]]: `screen /dev/tty.usbmodem` + tab-complete
 
 
 

@@ -10,3 +10,7 @@ tags:
 
 ## Web
 - using [[iframe]]
+
+## Collections
+- https://code.nikitavoloboev.xyz/
+- https://www.joshwcomeau.com/snippets/

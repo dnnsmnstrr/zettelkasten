@@ -21,7 +21,8 @@ My personal slip box.
 
 ## Digital Garden
 This is also a form of [digital garden](https://joelhooks.com/digital-garden) to me
+
 ## Resources
 - [r/zettelkasten](https://zk.zettel.page/)
-
+- https://wiki.nikitavoloboev.xyz/other/wiki-workflow#links
 <z:zettels?tag=zettelkasten>
