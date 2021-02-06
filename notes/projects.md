@@ -15,6 +15,7 @@ My main projects, which are under continuous development include:
 - [[website]]
 - [[dotfiles]]
 - [[zettelkasten]]
+- [[makerer]]
 
 This gist includes some other projects and is embedded on my homepage.
 <script src="https://gist.github.com/dnnsmnstrr/c9aa3e56d323d3ea7b061376e38eaee8.js"></script>

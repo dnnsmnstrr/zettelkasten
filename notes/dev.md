@@ -7,4 +7,4 @@ tags:
 
 # Developer
 
-[[[z:zettels?tag=dev/*]]]
+[[z:zettels?tag=dev/*]]
