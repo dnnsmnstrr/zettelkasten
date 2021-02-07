@@ -1,0 +1,12 @@
+version: 1
+vaults:
+    -
+        fsPath: notes
+useFMTitle: true
+site:
+    copyAssets: true
+    siteHierarchies:
+        - root
+    siteRootDir: docs
+    usePrettyRefs: true
+    title: Zettelkasten (Dendron)
