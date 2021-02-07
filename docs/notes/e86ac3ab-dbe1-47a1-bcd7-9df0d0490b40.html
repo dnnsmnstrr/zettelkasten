@@ -1,0 +1,240 @@
+<!DOCTYPE html>
+
+<html lang="en-US"><head>
+  <meta charset="UTF-8" />
+  <meta http-equiv="X-UA-Compatible" content="IE=Edge" />
+  
+  <title>Quickstart - Zettelkasten (Dendron)</title>
+  
+
+  <link
+    rel="shortcut icon"
+    href="https://dnnsmnstrr.github.io/zettelkasten/favicon.ico"
+    type="image/x-icon"
+  />
+  <link
+    rel="stylesheet"
+    href="https://dnnsmnstrr.github.io/zettelkasten/assets/css/just-the-docs-default.css"
+  />
+  <script
+    type="text/javascript"
+    src="https://dnnsmnstrr.github.io/zettelkasten/assets/js/just-the-docs.js"
+  ></script>
+  <link
+    rel="stylesheet"
+    href="https://cdnjs.cloudflare.com/ajax/libs/prism/1.22.0/themes/prism.min.css"
+  />
+  <link
+    rel="stylesheet"
+    href="https://cdn.jsdelivr.net/npm/katex@0.12.0/dist/katex.min.css"
+    integrity="sha384-AfEj0r4/OFrOo5t7NnNe46zW/tFgW6x/bCJG8FqQCEo3+Aro6EYUG4+cU+KJWu/X"
+    crossorigin="anonymous"
+  />
+  <script
+    type="text/javascript"
+    src="https://dnnsmnstrr.github.io/zettelkasten/assets/js/vendor/lunr.min.js"
+  ></script>
+  
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+   
+  
+<meta name="description" content="">
+<meta name="author" content="">
+
+<link rel="canonical" href="https://dnnsmnstrr.github.io/notes/e86ac3ab-dbe1-47a1-bcd7-9df0d0490b40.html">
+
+<meta property="og:type" content="article">
+<meta property="og:url" content="https://dnnsmnstrr.github.io/notes/e86ac3ab-dbe1-47a1-bcd7-9df0d0490b40.html">
+<meta property="og:description" content="">
+<meta property="og:image" content="https://dnnsmnstrr.github.ioundefined">
+
+<meta name="twitter:card" content="summary">
+
+<meta name="twitter:url" content="https://dnnsmnstrr.github.io/notes/e86ac3ab-dbe1-47a1-bcd7-9df0d0490b40.html">
+<meta name="twitter:description" content="">
+<meta name="twitter:image" content="https://dnnsmnstrr.github.ioundefined">
+
+
+  <meta property="og:title" content="Quickstart - Zettelkasten (Dendron)" />
+  <meta name="twitter:title" content="Quickstart - Zettelkasten (Dendron)" />
+  
+</head>
+
+
+<body style="">
+    <svg xmlns="http://www.w3.org/2000/svg" style="display: none;">
+      <symbol id="svg-link" viewBox="0 0 24 24">
+        <title>Link</title>
+        <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="feather feather-link">
+          <path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path>
+        </svg>
+      </symbol>
+      <symbol id="svg-search" viewBox="0 0 24 24">
+        <title>Search</title>
+        <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="feather feather-search">
+          <circle cx="11" cy="11" r="8"></circle><line x1="21" y1="21" x2="16.65" y2="16.65"></line>
+        </svg>
+      </symbol>
+      <symbol id="svg-menu" viewBox="0 0 24 24">
+        <title>Menu</title>
+        <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="feather feather-menu">
+          <line x1="3" y1="12" x2="21" y2="12"></line><line x1="3" y1="6" x2="21" y2="6"></line><line x1="3" y1="18" x2="21" y2="18"></line>
+        </svg>
+      </symbol>
+      <symbol id="svg-arrow-right" viewBox="0 0 24 24">
+        <title>Expand</title>
+        <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="feather feather-chevron-right">
+          <polyline points="9 18 15 12 9 6"></polyline>
+        </svg>
+      </symbol>
+      <symbol id="svg-doc" viewBox="0 0 24 24">
+        <title>Document</title>
+        <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="feather feather-file">
+          <path d="M13 2H6a2 2 0 0 0-2 2v16a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2V9z"></path><polyline points="13 2 13 9 20 9"></polyline>
+        </svg>
+      </symbol>
+    </svg>
+  
+    <div class="side-bar">
+      <div class="site-header">
+        <a href="https://dnnsmnstrr.github.io/zettelkasten" class="site-title lh-tight">
+  Zettelkasten (Dendron)
+
+ </a>
+        <a href="#" id="menu-button" class="site-button">
+          <svg viewBox="0 0 24 24" class="icon"><use xlink:href="#svg-menu"></use></svg>
+        </a>
+      </div>
+
+      <nav role="navigation" aria-label="Main" id="site-nav" class="site-nav">
+      </nav>
+      <footer class="site-footer">
+        🌱 with 💕 using <a href="https://www.dendron.so/"> Dendron 🌲 </a>
+      </footer>
+    </div>
+    <div class="main" id="top">
+        <div id="main-header" class="main-header">
+          
+            <div class="search">
+              <div class="search-input-wrap">
+                <input type="text" id="search-input" class="search-input" tabindex="0" placeholder="Search Zettelkasten (Dendron)" aria-label="Search Zettelkasten (Dendron)" autocomplete="off">
+                <label for="search-input" class="search-label"><svg viewBox="0 0 24 24" class="search-icon"><use xlink:href="#svg-search"></use></svg></label>
+              </div>
+              <div id="search-results" class="search-results"></div>
+            </div>
+          
+          
+    </div>
+    <div id="main-content-wrap" class="main-content-wrap">
+      
+        
+          <nav aria-label="Breadcrumb" class="breadcrumb-nav">
+            <ol class="breadcrumb-nav-list"><li class="breadcrumb-nav-list-item"><a href="https://dnnsmnstrr.github.io/zettelkasten">root</a></li><li class="breadcrumb-nav-list-item">Quickstart</li></ol>
+          </nav>
+        
+      
+      <div id="main-content" class="main-content" role="main">
+
+        
+        
+  
+        
+
+        
+
+<div id="main" role="main">
+
+  <article class="page" itemscope itemtype="https://schema.org/CreativeWork">
+    <meta itemprop="headline" content="Quickstart">
+    
+    <meta itemprop="datePublished" content="2020-07-19T16:48:16+00:00">
+    <meta itemprop="dateModified" content="2021-02-07T01:14:17+00:00">
+
+    <div class="page__inner-wrap">
+      
+      
+
+      <section class="page__content" itemprop="text">
+
+        
+
+        <h1 id="quickstart"><a aria-hidden="true" class="anchor-heading" href="#quickstart"><svg aria-hidden="true" viewBox="0 0 16 16"><use xlink:href="#svg-link"></use></svg></a>Quickstart</h1>
+<p>Welcome to Dendron! This guide will help get you started with your knowledge base.</p>
+<h2 id="the-trail-🥾"><a aria-hidden="true" class="anchor-heading" href="#the-trail-🥾"><svg aria-hidden="true" viewBox="0 0 16 16"><use xlink:href="#svg-link"></use></svg></a>The Trail 🥾</h2>
+<p>This section covers the basics of Dendron. Get started on the right foot and start growing your knowledge base.</p>
+<ul class="contains-task-list">
+<li class="task-list-item"><input type="checkbox" checked disabled> Go through Dendron's basic <a href="https://www.dendron.so/notes/c6fd6bc4-7f75-4cbb-8f34-f7b99bfe2d50.html">concepts</a></li>
+<li class="task-list-item"><input type="checkbox" checked disabled> Do your first <a href="https://www.dendron.so/notes/a7c3a810-28c8-4b47-96a6-8156b1524af3.html#lookup-menu">lookup</a> - a better way to find your notes</li>
+<li class="task-list-item"><input type="checkbox" disabled> Learn about <a href="https://www.dendron.so/notes/c5e5adde-5459-409b-b34d-a0d75cbb1052.html#schemas">schemas</a> - a flexible type system for all your notes</li>
+<li class="task-list-item"><input type="checkbox" disabled> Use a <a href="https://www.dendron.so/notes/9eca1992-7540-4d9d-97fb-328b27748b2c.html">snippet</a></li>
+<li class="task-list-item"><input type="checkbox" disabled> Insert an <a href="https://www.dendron.so/notes/a91fd8da-6895-49fe-8164-a17acd8d9a17.html">image</a></li>
+<li class="task-list-item"><input type="checkbox" disabled> Create some <a href="https://www.dendron.so/notes/3472226a-ff3c-432d-bf5d-10926f39f6c2.html">links</a></li>
+<li class="task-list-item"><input type="checkbox" disabled> Explore additional features from <a href="https://www.dendron.so/notes/301e4129-6933-4be7-a4bd-8125171360d8.html">Dendron's bundled extensions</a></li>
+<li class="task-list-item"><input type="checkbox" disabled> <a href="https://www.dendron.so/notes/73d395c9-5041-4d0d-9db7-080d9586136e.html">Publish</a> your vault</li>
+<li class="task-list-item"><input type="checkbox" disabled> Join us on <a href="https://discord.com/invite/6j85zNX">discord</a> and discuss all things knowledge management with your fellow trail blazers.</li>
+</ul>
+<h2 id="the-woods-"><a aria-hidden="true" class="anchor-heading" href="#the-woods-"><svg aria-hidden="true" viewBox="0 0 16 16"><use xlink:href="#svg-link"></use></svg></a>The Woods 🌲</h2>
+<p>This section covers advanced functionality in Dendron. Become a seasoned backpacker by mastering these trails.</p>
+<ul class="contains-task-list">
+<li class="task-list-item"><input type="checkbox" disabled> Check out our <a href="https://www.dendron.so/notes/34ee4bcf-60e9-4031-a4c0-26113b5acb80.html">case studies</a></li>
+<li class="task-list-item"><input type="checkbox" disabled> Read our <a href="https://www.dendron.so/notes/683740e3-70ce-4a47-a1f4-1f140e80b558.html">FAQ</a></li>
+<li class="task-list-item"><input type="checkbox" disabled> Explore the <a href="https://www.dendron.so/notes/587e6d62-3c5b-49b0-aedc-02f62f0448e6.html">graph view</a></li>
+<li class="task-list-item"><input type="checkbox" disabled> Execute custom <a href="https://www.dendron.so/notes/eea2b078-1acc-4071-a14e-18299fc28f47.html">Dendron commands</a></li>
+<li class="task-list-item"><input type="checkbox" disabled> Understand <a href="https://www.dendron.so/notes/ffec2853-c0e0-4165-a368-339db12c8e4b.html">frontmatter</a></li>
+<li class="task-list-item"><input type="checkbox" disabled> Adopt a <a href="https://www.dendron.so/notes/66727a39-d0a7-449b-a10d-f6c438185d7f.html">pod</a></li>
+<li class="task-list-item"><input type="checkbox" disabled> Create a <a href="https://www.dendron.so/notes/5c213aa6-e4ba-49e8-85c5-1bdcb33ce202.html">special note</a></li>
+</ul>
+<h2 id="the-wilderness-️"><a aria-hidden="true" class="anchor-heading" href="#the-wilderness-️"><svg aria-hidden="true" viewBox="0 0 16 16"><use xlink:href="#svg-link"></use></svg></a>The Wilderness ⛰️</h2>
+<p>This section covers additional topics and the wider ecosystem around Dendron.</p>
+<ul class="contains-task-list">
+<li class="task-list-item"><input type="checkbox" disabled> Find <a href="https://www.dendron.so/notes/401c5889-20ae-4b3a-8468-269def4b4865.html">recipes</a> to common operations (or contribute your own)</li>
+<li class="task-list-item"><input type="checkbox" disabled> Found an issue or want to submit a feature request? Do so on <a href="https://github.com/dendronhq/dendron/issues">GitHub</a></li>
+<li class="task-list-item"><input type="checkbox" disabled> See and vote on what's coming next by checking out our <a href="https://github.com/orgs/dendronhq/projects/1">public roadmap</a></li>
+<li class="task-list-item"><input type="checkbox" disabled> Get familiar with <a href="https://code.visualstudio.com/docs/editor/codebasics">editing</a> in VS Code, the editor that Dendron is built upon</li>
+<li class="task-list-item"><input type="checkbox" disabled> Stay tuned for more wilderness coming soon!</li>
+</ul><span id="navId" data="e86ac3ab-dbe1-47a1-bcd7-9df0d0490b40"></span>
+<hr>
+<h2 class="text-delta">Table of contents</h2>
+<ul>
+</ul>
+
+
+                
+      </section>
+
+      
+    </div>
+
+    
+  </article>
+
+  
+  
+</div>
+
+
+        
+          <hr>
+          <footer>
+            
+            
+
+            
+              <div class="d-flex mt-2">
+                
+                
+              </div>
+            
+          </footer>
+        
+    </div>
+</div>
+
+
+  
+
+  <div class="search-overlay"></div>
+
+</div>
+</body>
+</html>

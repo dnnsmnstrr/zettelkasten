@@ -10,3 +10,5 @@ site:
     siteRootDir: docs
     usePrettyRefs: true
     title: Zettelkasten (Dendron)
+    assetsPrefix: zettelkasten
+    siteUrl: https://dnnsmnstrr.github.io
