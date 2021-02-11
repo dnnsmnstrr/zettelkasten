@@ -12,12 +12,16 @@ My favorite preset: [AquaTouch](https://community.folivora.ai/t/1704)
 
 My own customizations: [HydroTouch](https://github.com/dnnsmnstrr/HydroTouch)
 
-Album Artwork path: `~/Library/Application Support/BetterTouchTool/spotify_cover.png`
 
 ## Setup
 
 - [Import duplicate presets](https://community.folivora.ai/t/cant-import-a-preset-without-replacing/10455/4)
   `defaults write com.hegenberg.BetterTouchTool BTTImportDuplicatePresets YES`
+
+## Development
+
+- most of my named triggers use AppleScript, slowly migrating to JavaScript where possible
+- Album Artwork path: `~/Library/Application Support/BetterTouchTool/spotify_cover.png`
 
 ## Troubleshooting
 

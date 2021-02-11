@@ -15,7 +15,7 @@ They include setup scripts for easily getting a new dev environment running exac
 
 There are configuration files for various shells, with aliases to make navigating the [[[cli]]] more efficient or fun.
 
-Some folders are submodules, such as my [[[bettertouchtool]]] preset, [HydroTouch](https://github.com/dnnsmnstrr/HydroTouch) or my [[[alfred]]] workflows.
+Some folders are submodules, such as my [[bettertouchtool]] preset, [HydroTouch](https://github.com/dnnsmnstrr/HydroTouch) or my [[alfred]] workflows.
 
 ## External links
 

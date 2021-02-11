@@ -9,10 +9,11 @@ tags:
 # [Alfred](https://www.alfredapp.com)
 
 A customizable version of the macOS Spotlight tool.
-I keep my Alfred preferences symlinked within the [[[dotfiles]]] directory.
+I keep my Alfred preferences symlinked within the [[dotfiles]] directory.
 
 ## [Workflows](https://github.com/dnnsmnstrr/workflows)
-- [[alfred]]-[[zettelkasten]]
+- [alfred](https://github.com/dnnsmnstrr/alfred-zettelkasten)-[[zettelkasten]]
+- [workflow-workflow](https://github.com/dnnsmnstrr/alfred-workflow-workflow)
 
 ## Development
 

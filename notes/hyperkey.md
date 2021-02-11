@@ -9,7 +9,7 @@ tags:
 
 > Who needs <kbd>⇪ Caps lock</kbd> anyway?
 
-[<kbd>hyper</kbd>-key](https://medium.com/macoclock/solve-shortcut-hell-in-macos-building-a-hyper-key-1cb8838bf521) is a remapping of caps lock to a combination of all modifier keys (⌃,⌥,⌘,⇧), enabling an additional layer of shortcuts. ~~This is done using [Karabiner Elements](https://karabiner-elements.pqrs.org/).~~ Now built directly into BTT.
+[<kbd>hyper</kbd>-key](https://medium.com/macoclock/solve-shortcut-hell-in-macos-building-a-hyper-key-1cb8838bf521) is a remapping of caps lock to a combination of all modifier keys (⌃,⌥,⌘,⇧), enabling an additional layer of shortcuts. ~~This is done using [Karabiner Elements](https://karabiner-elements.pqrs.org/).~~ Now built directly into [BTT](./bettertouchtool.md).
 
 My favorite use is to trigger [[alfred]] using <kbd>hyper</kbd> + <kbd>a</kbd>. This is way more convenient and allows triggering a [[bettertouchtool]] action at the same time.
 BTT also enables my [HyperKey](https://github.com/dnnsmnstrr/HydroTouch/blob/main/HyperKey.bttpreset) shortcut preset, which includes these keymaps:

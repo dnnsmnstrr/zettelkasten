@@ -7,7 +7,7 @@ tags:
 # [API](https://github.com/dnnsmnstrr/api)
 
 My personal api is available at `api.muensterer.xyz` (redirects to [next.muensterer.xyz/api](https://next.muensterer.xyz/api))
-The available routes are:
+Available routes are:
 | Route | Description |
 | :------------- | :------------- |
 | [`/dennis`](https://next.muensterer.xyz/api/dennis) | Returns information about me |
@@ -16,6 +16,7 @@ The available routes are:
 | `/social/` + (`facebook`, `twitter`, `instagram`, `linkedin`, `github`, `youtube`, `spotify`, `telegram`) | Gets a redirect to the given profile page |
 | [`/playlist`](https://next.muensterer.xyz/api/playlist) | Returns a json of my [[spotify]] playlists |
 | `/playlist/` + ([`current`](https://next.muensterer.xyz/api/playlist/current)) | Gets a redirect to a specific playlist |
+| [`/playlist/random`](https://next.muensterer.xyz/api/playlist/random) | Redirects to a random playlist |
 
 Much of the data made available through this api is stored in [gists](https://gist.github.com/dnnsmnstrr).
 
