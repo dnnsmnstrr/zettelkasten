@@ -6,9 +6,18 @@ tags:
 ---
 
 # Ideas
-
 A list of things I want to make. Some of them might become [[projects]].
 
 - [Humble Key](https://www.humblebundle.com/home/keys) Distributor
 
 - [Gist](https://developer.github.com/v3/gists/) API generator
+
+## I.D.E.A.
+Four Steps of intuitive thinking by [Zach Freedman](https://youtu.be/6r8-o2WpoCA?t=655)
+
+- **I**nspiration
+- **D**owntime
+- **E**xploration
+- **A**ction
+
+>

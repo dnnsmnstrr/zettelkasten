@@ -18,3 +18,7 @@ tags:
 > [Never be the smartest person in the room](https://www.executiveforum.com/never-be-the-smartest-person-in-the-room/#:~:text=%E2%80%9CIf%20you're%20the%20smartest,who%20are%20smarter%20than%20you.)
 
 ---
+
+> If I had eight hours to chop down a tree, I'd spend six sharpening my axe
+
+Abraham Lincoln
