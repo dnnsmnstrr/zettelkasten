@@ -7,8 +7,15 @@ tags:
 
 # Projects
 
-<script src="https://gist.github.com/dnnsmnstrr/c9aa3e56d323d3ea7b061376e38eaee8.js"></script>
+By working on random, seemingly useless projects, I apply the [project-based]() [[learning]] methodology.
+Regardless of how pointless these [[ideas]] might seem, there is always something to learn while executing a project.
+For instance, my personal [[api]] or [[spotify]] [playlist-sorting-app](https://muensterer.xyz/sortify) may very well be unnecessary, but I undoubtedly learned some valuable lessons while working on them, such as [[pages]] deployment, documentation or authenticating with third-party APIs.
 
+My main projects, which are under continuous development include:
 - [[website]]
 - [[dotfiles]]
+- [[zettelkasten]]
 - [[makerer]]
+
+This gist includes some other projects and is embedded on my homepage.
+<script src="https://gist.github.com/dnnsmnstrr/c9aa3e56d323d3ea7b061376e38eaee8.js"></script>

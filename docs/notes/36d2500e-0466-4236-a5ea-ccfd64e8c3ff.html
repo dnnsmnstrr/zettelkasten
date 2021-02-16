@@ -1,0 +1,273 @@
+<!DOCTYPE html>
+
+<html lang="en-US"><head>
+  <meta charset="UTF-8" />
+  <meta http-equiv="X-UA-Compatible" content="IE=Edge" />
+  
+  <title>Alfred - Zettelkasten (Dendron)</title>
+  
+
+  <link
+    rel="shortcut icon"
+    href="http://localhost:8080/favicon.ico"
+    type="image/x-icon"
+  />
+  <link
+    rel="stylesheet"
+    href="http://localhost:8080/assets/css/just-the-docs-default.css"
+  />
+  <script
+    type="text/javascript"
+    src="http://localhost:8080/assets/js/just-the-docs.js"
+  ></script>
+  <link
+    rel="stylesheet"
+    href="https://cdnjs.cloudflare.com/ajax/libs/prism/1.22.0/themes/prism.min.css"
+  />
+  <link
+    rel="stylesheet"
+    href="https://cdn.jsdelivr.net/npm/katex@0.12.0/dist/katex.min.css"
+    integrity="sha384-AfEj0r4/OFrOo5t7NnNe46zW/tFgW6x/bCJG8FqQCEo3+Aro6EYUG4+cU+KJWu/X"
+    crossorigin="anonymous"
+  />
+  <script
+    type="text/javascript"
+    src="http://localhost:8080/assets/js/vendor/lunr.min.js"
+  ></script>
+  
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+   
+  
+<meta name="description" content="">
+<meta name="author" content="">
+
+<link rel="canonical" href="/notes/36d2500e-0466-4236-a5ea-ccfd64e8c3ff.html">
+
+<meta property="og:type" content="article">
+<meta property="og:url" content="/notes/36d2500e-0466-4236-a5ea-ccfd64e8c3ff.html">
+<meta property="og:description" content="">
+
+
+<meta name="twitter:card" content="summary">
+
+<meta name="twitter:url" content="/notes/36d2500e-0466-4236-a5ea-ccfd64e8c3ff.html">
+<meta name="twitter:description" content="">
+
+
+
+  <meta property="og:title" content="Alfred - Zettelkasten (Dendron)" />
+  <meta name="twitter:title" content="Alfred - Zettelkasten (Dendron)" />
+  
+</head>
+
+
+<body style="">
+    <svg xmlns="http://www.w3.org/2000/svg" style="display: none;">
+      <symbol id="svg-link" viewBox="0 0 24 24">
+        <title>Link</title>
+        <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="feather feather-link">
+          <path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path>
+        </svg>
+      </symbol>
+      <symbol id="svg-search" viewBox="0 0 24 24">
+        <title>Search</title>
+        <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="feather feather-search">
+          <circle cx="11" cy="11" r="8"></circle><line x1="21" y1="21" x2="16.65" y2="16.65"></line>
+        </svg>
+      </symbol>
+      <symbol id="svg-menu" viewBox="0 0 24 24">
+        <title>Menu</title>
+        <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="feather feather-menu">
+          <line x1="3" y1="12" x2="21" y2="12"></line><line x1="3" y1="6" x2="21" y2="6"></line><line x1="3" y1="18" x2="21" y2="18"></line>
+        </svg>
+      </symbol>
+      <symbol id="svg-arrow-right" viewBox="0 0 24 24">
+        <title>Expand</title>
+        <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="feather feather-chevron-right">
+          <polyline points="9 18 15 12 9 6"></polyline>
+        </svg>
+      </symbol>
+      <symbol id="svg-doc" viewBox="0 0 24 24">
+        <title>Document</title>
+        <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="feather feather-file">
+          <path d="M13 2H6a2 2 0 0 0-2 2v16a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2V9z"></path><polyline points="13 2 13 9 20 9"></polyline>
+        </svg>
+      </symbol>
+    </svg>
+  
+    <div class="side-bar">
+      <div class="site-header">
+        <a href="http://localhost:8080/" class="site-title lh-tight">
+  Zettelkasten (Dendron)
+
+ </a>
+        <a href="#" id="menu-button" class="site-button">
+          <svg viewBox="0 0 24 24" class="icon"><use xlink:href="#svg-menu"></use></svg>
+        </a>
+      </div>
+
+      <nav role="navigation" aria-label="Main" id="site-nav" class="site-nav">
+      </nav>
+      <footer class="site-footer">
+        🌱 with 💕 using <a href="https://www.dendron.so/"> Dendron 🌲 </a>
+      </footer>
+    </div>
+    <div class="main" id="top">
+        <div id="main-header" class="main-header">
+          
+            <div class="search">
+              <div class="search-input-wrap">
+                <input type="text" id="search-input" class="search-input" tabindex="0" placeholder="Search Zettelkasten (Dendron)" aria-label="Search Zettelkasten (Dendron)" autocomplete="off">
+                <label for="search-input" class="search-label"><svg viewBox="0 0 24 24" class="search-icon"><use xlink:href="#svg-search"></use></svg></label>
+              </div>
+              <div id="search-results" class="search-results"></div>
+            </div>
+          
+          
+    </div>
+    <div id="main-content-wrap" class="main-content-wrap">
+      
+        
+          <nav aria-label="Breadcrumb" class="breadcrumb-nav">
+            <ol class="breadcrumb-nav-list"><li class="breadcrumb-nav-list-item"><a href="http://localhost:8080/">root</a></li><li class="breadcrumb-nav-list-item">Alfred</li></ol>
+          </nav>
+        
+      
+      <div id="main-content" class="main-content" role="main">
+
+        
+        
+  
+        
+
+        
+
+<div id="main" role="main">
+
+  <article class="page" itemscope itemtype="https://schema.org/CreativeWork">
+    <meta itemprop="headline" content="Alfred">
+    
+    <meta itemprop="datePublished" content="2021-02-07T01:42:35+00:00">
+    <meta itemprop="dateModified" content="2021-02-07T01:42:35+00:00">
+
+    <div class="page__inner-wrap">
+      
+      
+
+      <section class="page__content" itemprop="text">
+
+        
+
+        <h1 id="alfred"><a aria-hidden="true" class="anchor-heading" href="#alfred"><svg aria-hidden="true" viewBox="0 0 16 16"><use xlink:href="#svg-link"></use></svg></a>Alfred</h1>
+<h1 id="alfred-1"><a aria-hidden="true" class="anchor-heading" href="#alfred-1"><svg aria-hidden="true" viewBox="0 0 16 16"><use xlink:href="#svg-link"></use></svg></a><a href="https://www.alfredapp.com">Alfred</a></h1>
+<p>A customizable version of the macOS Spotlight tool.
+I keep my Alfred preferences symlinked within the <a href="http://localhost:8080/notes/403.html">[dotfiles</a>] directory.</p>
+<h2 id="workflows"><a aria-hidden="true" class="anchor-heading" href="#workflows"><svg aria-hidden="true" viewBox="0 0 16 16"><use xlink:href="#svg-link"></use></svg></a><a href="https://github.com/dnnsmnstrr/workflows">Workflows</a></h2>
+<ul>
+<li><a href="http://localhost:8080/notes/36d2500e-0466-4236-a5ea-ccfd64e8c3ff.html">alfred</a>-<a href="http://localhost:8080/notes/e0ad8ca8-337b-4c6c-9094-33a880246010.html">zettelkasten</a></li>
+</ul>
+<h2 id="development"><a aria-hidden="true" class="anchor-heading" href="#development"><svg aria-hidden="true" viewBox="0 0 16 16"><use xlink:href="#svg-link"></use></svg></a>Development</h2>
+<h3 id="alfy"><a aria-hidden="true" class="anchor-heading" href="#alfy"><svg aria-hidden="true" viewBox="0 0 16 16"><use xlink:href="#svg-link"></use></svg></a><a href="https://github.com/sindresorhus/alfy">Alfy</a></h3>
+<p>I mainly use this framework, as it allows me to create workflows using <a href="http://localhost:8080/notes/fc1a4ddb-33ac-425d-8c05-bba671fad9ac.html">js</a></p>
+<h3 id="symlinking"><a aria-hidden="true" class="anchor-heading" href="#symlinking"><svg aria-hidden="true" viewBox="0 0 16 16"><use xlink:href="#svg-link"></use></svg></a>Symlinking</h3>
+<p><code>npx alfred-link</code>
+<del>Link current directory to workflows directory: <code>ln -s "$(pwd)" ~/.dotfiles/alfred/workflows</code></del></p>
+<h4 id="script-filters"><a aria-hidden="true" class="anchor-heading" href="#script-filters"><svg aria-hidden="true" viewBox="0 0 16 16"><use xlink:href="#svg-link"></use></svg></a><a href="https://www.alfredapp.com/help/workflows/inputs/script-filter/json/">Script filters</a></h4>
+<pre class="language-json"><code class="language-json"><span class="token punctuation">{</span><span class="token property">"items"</span><span class="token operator">:</span> <span class="token punctuation">[</span>
+    <span class="token punctuation">{</span>
+        <span class="token property">"uid"</span><span class="token operator">:</span> <span class="token string">"desktop"</span><span class="token punctuation">,</span>
+        <span class="token property">"type"</span><span class="token operator">:</span> <span class="token string">"file"</span><span class="token punctuation">,</span>
+        <span class="token property">"title"</span><span class="token operator">:</span> <span class="token string">"Desktop"</span><span class="token punctuation">,</span>
+        <span class="token property">"subtitle"</span><span class="token operator">:</span> <span class="token string">"~/Desktop"</span><span class="token punctuation">,</span>
+        <span class="token property">"arg"</span><span class="token operator">:</span> <span class="token string">"~/Desktop"</span><span class="token punctuation">,</span>
+        <span class="token property">"autocomplete"</span><span class="token operator">:</span> <span class="token string">"Desktop"</span><span class="token punctuation">,</span>
+        <span class="token property">"icon"</span><span class="token operator">:</span> <span class="token punctuation">{</span>
+            <span class="token property">"type"</span><span class="token operator">:</span> <span class="token string">"fileicon"</span><span class="token punctuation">,</span>
+            <span class="token property">"path"</span><span class="token operator">:</span> <span class="token string">"~/Desktop"</span>
+        <span class="token punctuation">}</span>
+    <span class="token punctuation">}</span>
+<span class="token punctuation">]</span><span class="token punctuation">}</span>
+</code></pre>
+<h5 id="modifiers"><a aria-hidden="true" class="anchor-heading" href="#modifiers"><svg aria-hidden="true" viewBox="0 0 16 16"><use xlink:href="#svg-link"></use></svg></a>Modifiers</h5>
+<pre class="language-js"><code class="language-js"><span class="token string">"mods"</span><span class="token operator">:</span> <span class="token punctuation">{</span>
+  <span class="token string">"cmd"</span><span class="token operator">:</span> <span class="token punctuation">{</span>
+    <span class="token string">"valid"</span><span class="token operator">:</span> <span class="token boolean">true</span><span class="token punctuation">,</span>
+    <span class="token string">"arg"</span><span class="token operator">:</span> <span class="token string">""</span><span class="token punctuation">,</span>
+    <span class="token string">"subtitle"</span><span class="token operator">:</span> <span class="token string">""</span>
+  <span class="token punctuation">}</span>
+<span class="token punctuation">}</span>
+
+mods<span class="token operator">:</span> <span class="token punctuation">{</span>
+  alt<span class="token operator">:</span> <span class="token punctuation">{</span>
+    valid<span class="token operator">:</span> <span class="token boolean">true</span><span class="token punctuation">,</span>
+    arg<span class="token operator">:</span> <span class="token template-string"><span class="token template-punctuation string">`</span><span class="token interpolation"><span class="token interpolation-punctuation punctuation">${</span>alfy<span class="token punctuation">.</span><span class="token property-access">input</span><span class="token interpolation-punctuation punctuation">}</span></span><span class="token template-punctuation string">`</span></span><span class="token punctuation">,</span>
+    subtitle<span class="token operator">:</span> <span class="token template-string"><span class="token template-punctuation string">`</span><span class="token interpolation"><span class="token interpolation-punctuation punctuation">${</span>alfy<span class="token punctuation">.</span><span class="token property-access">input</span><span class="token interpolation-punctuation punctuation">}</span></span><span class="token template-punctuation string">`</span></span>
+  <span class="token punctuation">}</span>
+<span class="token punctuation">}</span>
+</code></pre>
+<h4 id="icons"><a aria-hidden="true" class="anchor-heading" href="#icons"><svg aria-hidden="true" viewBox="0 0 16 16"><use xlink:href="#svg-link"></use></svg></a>Icons</h4>
+<p>Using <a href="https://github.com/dnnsmnstrr/alfred-workflow">workflow²</a>, you can search for built-in icons in <code>/System/Library/CoreServices/CoreTypes.bundle/Contents/Resources/</code> and generate icon paths.</p>
+<h5 id="macos-icns"><a aria-hidden="true" class="anchor-heading" href="#macos-icns"><svg aria-hidden="true" viewBox="0 0 16 16"><use xlink:href="#svg-link"></use></svg></a>macOS icns</h5>
+<p>Using <a href="">workflow²</a>, you can search for built-in icons in <code>/System/Library/CoreServices/CoreTypes.bundle/Contents/Resources/</code></p>
+<h5 id="icons-for-apps"><a aria-hidden="true" class="anchor-heading" href="#icons-for-apps"><svg aria-hidden="true" viewBox="0 0 16 16"><use xlink:href="#svg-link"></use></svg></a>Icons for Apps</h5>
+<pre class="language-json"><code class="language-json"><span class="token comment">// in js</span>
+icon<span class="token operator">:</span> <span class="token punctuation">{</span>
+    type<span class="token operator">:</span> 'fileicon'<span class="token punctuation">,</span>
+    path<span class="token operator">:</span> '/Applications/APPNAME.app'
+<span class="token punctuation">}</span><span class="token punctuation">,</span>
+
+<span class="token comment">// hardcoded</span>
+<span class="token property">"icon"</span><span class="token operator">:</span> <span class="token punctuation">{</span>
+  <span class="token property">"path"</span><span class="token operator">:</span> <span class="token string">"/Applications/APPNAME.app/Contents/Resources/APP_ICON.icns"</span>
+<span class="token punctuation">}</span>
+</code></pre>
+<h3 id="environment-variables"><a aria-hidden="true" class="anchor-heading" href="#environment-variables"><svg aria-hidden="true" viewBox="0 0 16 16"><use xlink:href="#svg-link"></use></svg></a>Environment Variables</h3>
+<pre class="language-js"><code class="language-js"><span class="token keyword">const</span> <span class="token punctuation">{</span> <span class="token constant">VARIABLE</span> <span class="token punctuation">}</span> <span class="token operator">=</span> process<span class="token punctuation">.</span><span class="token property-access">env</span><span class="token punctuation">;</span>
+</code></pre>
+<h1 id="external-links"><a aria-hidden="true" class="anchor-heading" href="#external-links"><svg aria-hidden="true" viewBox="0 0 16 16"><use xlink:href="#svg-link"></use></svg></a>External Links</h1>
+<ul>
+<li><a href="https://www.alfredapp.com/help/getting-started/cheatsheet/">Cheatsheet</a></li>
+<li><a href="https://www.alfredapp.com/help/workflows/inputs/script-filter/json/">Script Filter JSON API</a></li>
+</ul><span id="navId" data="36d2500e-0466-4236-a5ea-ccfd64e8c3ff"></span>
+
+
+
+                
+      </section>
+
+      
+    </div>
+
+    
+  </article>
+
+  
+  
+</div>
+
+
+        
+          <hr>
+          <footer>
+            
+            
+
+            
+              <div class="d-flex mt-2">
+                
+                
+              </div>
+            
+          </footer>
+        
+    </div>
+</div>
+
+
+  
+
+  <div class="search-overlay"></div>
+
+</div>
+</body>
+</html>

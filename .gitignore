@@ -1,5 +1,8 @@
 .neuron
 .obsidian
-*.log
+.dendron.*
 .mft
-/node_modules
+*.log
+node_modules
+build
+repos

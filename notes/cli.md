@@ -6,6 +6,8 @@ tags:
 
 # Command Line interface
 
-Some things can be done better in the terminal. Plus you get to feel like hackerman ![HACKERMAN](https://media.giphy.com/media/RyXVu4ZW454IM/source.gif)
+Some things can be done better in the terminal. Plus you get to feel like hackerman
+
+![HACKERMAN](https://media.giphy.com/media/RyXVu4ZW454IM/source.gif)
 
 My personal cli: `npx dnnsmnstrr`

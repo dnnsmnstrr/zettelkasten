@@ -8,8 +8,7 @@ tags:
 
 Description of a project.
 
-> This project contains a so called [zettelkasten](https://muensterer.xyz/zettelkasten/zettelkasten).
-
+> This project contains a so called [zettelkasten](https://muensterer.xyz/zettelkasten/zettelkasten). <!-- not a relative link, so it shows up in the readme on github  -->
 ## Resources
 - [Awesome-Readme](https://github.com/matiassingers/awesome-readme)
 - [Example Readme](https://gist.github.com/fvcproductions/1bfc2d4aecb01a834b46)

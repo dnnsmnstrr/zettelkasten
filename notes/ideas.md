@@ -12,6 +12,8 @@ A list of things I want to make. Some of them might become [[projects]].
 
 - [Gist](https://developer.github.com/v3/gists/) API generator
 
+- Spotify sort playlist by album cover colors/darkness
+
 ## I.D.E.A.
 Four Steps of intuitive thinking by [Zach Freedman](https://youtu.be/6r8-o2WpoCA?t=655)
 
@@ -19,5 +21,3 @@ Four Steps of intuitive thinking by [Zach Freedman](https://youtu.be/6r8-o2WpoCA
 - **D**owntime
 - **E**xploration
 - **A**ction
-
->
