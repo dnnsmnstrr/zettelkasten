@@ -14,6 +14,10 @@ A list of things I want to make. Some of them might become [[projects]].
 
 - Spotify sort playlist by album cover colors/darkness
 
+- Custom Font
+
+- E-paper Status Display
+
 ## I.D.E.A.
 Four Steps of intuitive thinking by [Zach Freedman](https://youtu.be/6r8-o2WpoCA?t=655)
 
