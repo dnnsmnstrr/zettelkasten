@@ -19,8 +19,9 @@ A project I started in the beginning of 2021. The goal is to share (at least) 1 
 | [Vertical Plotter](https://www.tiktok.com/@dennis.makerer/video/6924422038841052421) | CNC drawing robot, based on the [polargraph-software](http://www.polargraph.co.uk/) | Layering multiple 3d-Prints at once |
 | [ThereMIDI](https://vm.tiktok.com/ZMedVtnFB/) | A [theremin-like](https://gitHub.com/dnnsmnstrr/theremidi) midi-controller utilising ultrasound for distance detection | Transferring patches between MainStage and Logic |
 | [Meme Generator](https://www.tiktok.com/@dennis.makerer/video/6929274142013345029) | An [[alfred]] workflow that uses [memegen.link](https:/memegen.link) to generate custom memes| Alfy Workflow creation (caching, API get/post requests), macOS screenrecording  |
-| [Cable Management](https://www.tiktok.com/@dennis.makerer/video/6932186627842362629) | Overview of some [[cablemanagement]] solutions I have developed / useß | [[3dPrinting]] cable ties |
+| [Cable Management](https://www.tiktok.com/@dennis.makerer/video/6932186627842362629) | Overview of some [[cablemanagement]] solutions I have developed / use | [[3dPrinting]] cable ties |
 | [Playlistify](https://www.tiktok.com/@dennis.makerer/video/6934832824415538437) | Turn-based collaborative playlist creation | [Expo](https://expo.io) authentication, notications and deep linking |
+| [Polygrid](https://www.tiktok.com/@dennis.makerer/video/6939996033472597253) | A grid-system based on [Polypanels](https://www.makeanything.design/polypanels) | Parametric design with [OpenSCAD](https://www.openscad.org/) |
 
 ## Tools
 In my projects, I use a variety of tools.
