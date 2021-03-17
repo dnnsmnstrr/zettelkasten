@@ -19,6 +19,9 @@ I also created a [web-application](https://github.com/dnnsmnstrr/sortify) that l
 
 ### Curated Playlists
 > Lists by other people I like
+
 - [Fidi & Bumsi](https://open.spotify.com/playlist/37i9dQZF1DX11WWTNSp4Dq?si=zT0A2SJFTjmkFwv6xGbYSw)
 - [Homegirls Playlist](https://open.spotify.com/playlist/5l1GQyvVoq4Srf0tjfcnsK?si=VwmcyWW5R0qsRSb1XdwLQA)
 - [Fridl's Favs](https://open.spotify.com/playlist/33vCplTPGsGXm2k5GhM3tb?si=OEuS_AhARryCD30M6yr4VA)
+
+- [Discover Together](https://discover-together.com/): https://discover-together.com/shared/54a5685e8a2b48d7bf998507c0dedc22
