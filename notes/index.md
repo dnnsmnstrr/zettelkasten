@@ -1,9 +1,3 @@
----
-date: 2021-03-24
-tags:
-  - overview
----
-
 # Overview
 
 This is my [[zettelkasten]]#. Here I keep notes on [stuff I made](./makerer.md) or like, mainly so I can quickly reference it in the future.
@@ -11,7 +5,7 @@ This is my [[zettelkasten]]#. Here I keep notes on [stuff I made](./makerer.md) 
 [[z:zettels?tag=overview]]
 
 ## Contact
-[[social]] | [email](mailto:dennismuensterer@gmail.com) | [imprint](https://dnnsmnstrr.github.io/impressum)
+[[social]] | [email](mailto:dennismuensterer@gmail.com) | [imprint](https://dnnsmnstrr.github.io/imprint)
 
-|[<-- To my Homepage](https://dnnsmnstrr.github.io)|
+|[Back To Homepage](https://dnnsmnstrr.github.io)|
 |---|

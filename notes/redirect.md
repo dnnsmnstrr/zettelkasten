@@ -4,10 +4,14 @@ tags:
 - dev
 ---
 
-# Redirects
+# Redirecting
 
-While working on my #[[api]], I figured out a way to set up a system of dynamic redirects with alias matching. This means I can define multiple links that all redirect to a specific URL, for example [/instagram](http://muensterer.link/instagram), [/ig](http://muensterer.link/ig) and [/insta](http://muensterer.link/insta) all redirect to my [instagram profile](https://www.instagram.com/dnnsmnstrr/)
+While working on my #[[api]], I figured out a way to set up a system of dynamic redirects with alias matching.
+This means I can define multiple links that all redirect to a specific URL, for example [/instagram](http://muensterer.link/instagram), [/ig](http://muensterer.link/ig) and [/insta](http://muensterer.link/insta) all redirect to my [instagram profile](https://www.instagram.com/dnnsmnstrr/)
+
 This was made possible by setting up a second domain ([muensterer.link](http://muensterer.link)), that forwards requests to the `/redirect` route of my [[api]]. I also modified the 404 page on my homepage to automatically attempt a redirect if the page does not exist.
+
+It even passes on the rest of the URL, so instead of going https://github.com/dnnsmnstrr/dotfiles I can just type [muensterer.link/gh/dotfiles](http://muensterer.link/gh/dotfiles).
 
 There are different ways to access these redirects:
 
@@ -19,5 +23,3 @@ There are different ways to access these redirects:
   - forwards to the api url
 - 404 on [muensterer.xyz](https://muensterer.xyz)
   - If a page is not found, there is an automatic redirect attempt with a `noReturn` parameter to avoid infinite loops back to the 404 page
-
-It even passes on the rest of the URL, so instead of going https://github.com/dnnsmnstrr/dotfiles I can just type [muensterer.link/gh/dotfiles](http://muensterer.link/gh/dotfiles).

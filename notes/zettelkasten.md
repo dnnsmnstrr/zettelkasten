@@ -15,9 +15,9 @@ My personal slip box.
 
 - [[80ac7e39]]
 
-- [[neuron]] - the framework I use for building and deploying my ZK
+- [[neuron]]# - the framework I use for building and deploying my ZK
 
-- Where this all started: [[helloworld]]
+- Where this all started: [[helloworld]]#
 
 ## Digital Garden
 This is also a form of [digital garden](https://joelhooks.com/digital-garden) to me
@@ -25,4 +25,5 @@ This is also a form of [digital garden](https://joelhooks.com/digital-garden) to
 ## Resources
 - [r/zettelkasten](https://zk.zettel.page/)
 - https://wiki.nikitavoloboev.xyz/other/wiki-workflow#links
+
 <z:zettels?tag=zettelkasten>
