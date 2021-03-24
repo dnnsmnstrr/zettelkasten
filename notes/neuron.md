@@ -20,4 +20,6 @@ Update neuron:
 Show other tagged:
 `<z:zettels?tag=zettelkasten>`
 
-# [[pages]]
+# Publishing with [[pages]]
+- https://github.com/srid/neuron-template
+- https://neuron.zettel.page/publishing

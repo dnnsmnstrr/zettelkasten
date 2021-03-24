@@ -7,3 +7,15 @@ tags:
 # Test
 
 This is a test note. It was created to see if my [[alfred]]-[[zettelkasten]] workflow works as expected.
+
+## Mermaid
+
+Here I am testing [mermaid]() support
+
+```{.mermaid}
+sequenceDiagram
+    Alice->>John: Hello John, how are you?
+    activate John
+    John-->>Alice: Great!
+    deactivate John
+```
