@@ -18,7 +18,7 @@ Runs on a [Raspberry Pi](./raspberrypi.md) and lets me control my printer via wi
 - IKEA Hooks (Skadis, Tertial, Tisken)
 - Tube Squeezer
 - Cable Clips
-- [Polypanels](https://www.makeanything.design/polypanels) (shoutout @ [makeanything]() - one of my favorite makers on [[youtube]])
+- [Polypanels](https://www.makeanything.design/polypanels) (shoutout @ [makeanything](https://www.youtube.com/channel/UCVc6AHfGw9b2zOE_ZGfmsnw) - one of my favorite makers on [[youtube]])
 
 ## Software
 For quick sketches and simple models I prefer [TinkerCAD](https://tinkercad.com)
