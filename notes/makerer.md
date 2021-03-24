@@ -27,7 +27,7 @@ A project I started in the beginning of 2021. The goal is to share (at least) 1 
 In my projects, I use a variety of tools.
 
 ### Hardware
-- [[3DPrinting]]
+- #[[3DPrinting]]
 - Leatherman Skeletool (my favourite multitool)
 - Dremel
 

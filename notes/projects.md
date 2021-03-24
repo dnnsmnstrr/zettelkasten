@@ -12,10 +12,10 @@ Regardless of how pointless these [[ideas]] might seem, there is always somethin
 For instance, my personal [[api]] or [[spotify]] [playlist-sorting-app](https://muensterer.xyz/sortify) may very well be unnecessary, but I undoubtedly learned some valuable lessons while working on them, such as [[pages]] deployment, documentation or authenticating with third-party APIs.
 
 My main projects, which are under continuous development include:
-- [[website]]
-- [[dotfiles]]
-- [[zettelkasten]]
-- [[makerer]]
+- [[website]]#
+- [[dotfiles]]#
+- [[zettelkasten]]#
+- [[makerer]]#
 
 This gist includes some other projects and is also embedded on my homepage:
 <script src="https://gist.github.com/dnnsmnstrr/c9aa3e56d323d3ea7b061376e38eaee8.js"></script>
