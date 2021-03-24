@@ -1,0 +1,14 @@
+# Ignore top-level dotfiles and dotdirs
+.*/**
+
+# Ignore project specific files
+README.md
+CHANGELOG.md
+LICENSE.md
+SUMMARY.md
+dendron.*
+
+# Ignore everything under sub directories 
+# (if not using dirtree plugin)
+docs/
+templates/
