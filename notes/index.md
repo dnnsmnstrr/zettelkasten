@@ -1,3 +1,9 @@
+---
+date: 2021-03-24
+tags:
+  - overview
+---
+
 # Overview
 
 This is my [[zettelkasten]]. Here I keep notes on [stuff I made](./makerer.md) or like, mainly so I can quickly reference it in the future.

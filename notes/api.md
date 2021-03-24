@@ -22,3 +22,6 @@ Available routes are:
 Much of the data made available through this api is stored in [gists](https://gist.github.com/dnnsmnstrr).
 
 <script src="https://gist.github.com/dnnsmnstrr/a36fa8e855b19e9ebddb8a2878103b04.js"></script>
+
+## Resources
+- [Sheety](https://sheety.co/) turn a spreadsheet into an API
