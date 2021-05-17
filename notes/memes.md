@@ -6,7 +6,7 @@ tags:
 
 # Memes
 
-I created an [[alfred]] [meme-workflow](https://github.com/dnnsmnstrr/alfred-meme). It allows generating memes using [memegen.link](https://memegen.link)
+I created an [[alfred]] [meme-workflow](https://github.com/dnnsmnstrr/alfred-meme). It uses an API ([memegen.link](https://memegen.link)) to generate memes from templates
 
 ![memes](https://api.memegen.link/images/buzz/MEMES/MEMES_EVERYWHERE)
 
