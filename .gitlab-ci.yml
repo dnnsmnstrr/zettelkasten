@@ -1,7 +1,7 @@
 pages:
   image: node:12.17.0
   script:
-    - npm install -g @dendronhq/dendron-cli
+    - npm install -g @dendronhq/dendron-cli @dendronhq/dendron-11ty
     - dendron buildSiteV2 --wsRoot .  --stage prod
     - mv docs public
   artifacts:
