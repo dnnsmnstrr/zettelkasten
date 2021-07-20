@@ -5,7 +5,7 @@
   <meta charset="UTF-8" />
   <meta http-equiv="X-UA-Compatible" content="IE=Edge" />
   
-  <title>This page has not yet sprouted - Zettelkasten (Dendron)</title>
+  <title>Redirect - Zettelkasten (Dendron)</title>
   
 
   <link
@@ -43,22 +43,22 @@
 <meta name="description" content="Personal knowledge space">
 <meta name="author" content="">
 
-<link rel="canonical" href="https://dnnsmnstrr.github.io/notes/403.html">
+<link rel="canonical" href="https://dnnsmnstrr.github.io/notes/8e7382ab-886c-4d08-9ba4-ddc6dd8bdb84.html">
 
 <meta property="og:type" content="article">
-<meta property="og:url" content="https://dnnsmnstrr.github.io/notes/403.html">
+<meta property="og:url" content="https://dnnsmnstrr.github.io/notes/8e7382ab-886c-4d08-9ba4-ddc6dd8bdb84.html">
 <meta property="og:description" content="Personal knowledge space">
 <meta property="og:image" content="https://dnnsmnstrr.github.ioundefined">
 
 <meta name="twitter:card" content="summary">
 <meta name="twitter:site" content="@dnnsmnstrr">
-<meta name="twitter:url" content="https://dnnsmnstrr.github.io/notes/403.html">
+<meta name="twitter:url" content="https://dnnsmnstrr.github.io/notes/8e7382ab-886c-4d08-9ba4-ddc6dd8bdb84.html">
 <meta name="twitter:description" content="Personal knowledge space">
 <meta name="twitter:image" content="https://dnnsmnstrr.github.ioundefined">
 
 
-  <meta property="og:title" content="This page has not yet sprouted - Zettelkasten (Dendron)" />
-  <meta name="twitter:title" content="This page has not yet sprouted - Zettelkasten (Dendron)" />
+  <meta property="og:title" content="Redirect - Zettelkasten (Dendron)" />
+  <meta name="twitter:title" content="Redirect - Zettelkasten (Dendron)" />
   
 </head>
 
@@ -131,6 +131,10 @@
     <div id="main-content-wrap" class="main-content-wrap">
       
         
+          <nav aria-label="Breadcrumb" class="breadcrumb-nav">
+            <ol class="breadcrumb-nav-list"><li class="breadcrumb-nav-list-item"><a href="https://dnnsmnstrr.github.io/zettelkasten">root</a></li><li class="breadcrumb-nav-list-item">Redirect</li></ol>
+          </nav>
+        
       
       <div id="main-content" class="main-content" role="main">
 
@@ -161,10 +165,10 @@
 <div id="main" role="main">
 
   <article class="page" itemscope itemtype="https://schema.org/CreativeWork">
-    <meta itemprop="headline" content="This page has not yet sprouted">
+    <meta itemprop="headline" content="Redirect">
     
-    <meta itemprop="datePublished" content="2021-07-20T20:31:55+00:00">
-    <meta itemprop="dateModified" content="2021-07-20T20:31:55+00:00">
+    <meta itemprop="datePublished" content="2021-07-20T20:31:54+00:00">
+    <meta itemprop="dateModified" content="2021-07-20T20:31:54+00:00">
 
     <div class="page__inner-wrap">
 
@@ -174,9 +178,32 @@
 
         
 
-        <h1 id="this-page-has-not-yet-sprouted"><a aria-hidden="true" class="anchor-heading" href="#this-page-has-not-yet-sprouted"><svg aria-hidden="true" viewBox="0 0 16 16"><use xlink:href="#svg-link"></use></svg></a>This page has not yet sprouted</h1>
-<p><a href="https://dendron.so/">Dendron</a> (the tool used to generate this site) lets authors selective publish content. You will see this page whenever you click on a link to an unpublished page</p>
-<p><img src="/zettelkasten/https://foundation-prod-assetspublic53c57cce-8cpvgjldwysl.s3-us-west-2.amazonaws.com/assets/images/not-sprouted.png"></p><span id="navId" data="403"></span>
+        <h1 id="redirect"><a aria-hidden="true" class="anchor-heading" href="#redirect"><svg aria-hidden="true" viewBox="0 0 16 16"><use xlink:href="#svg-link"></use></svg></a>Redirect</h1>
+<h1 id="redirecting"><a aria-hidden="true" class="anchor-heading" href="#redirecting"><svg aria-hidden="true" viewBox="0 0 16 16"><use xlink:href="#svg-link"></use></svg></a>Redirecting</h1>
+<p>While working on my #<a href="https://dnnsmnstrr.github.io/zettelkasten/notes/2ee4c764-4891-4541-9766-258f6966b3d5.html">api</a>, I figured out a way to set up a system of dynamic redirects with alias matching.
+This means I can define multiple links that all redirect to a specific URL, for example <a href="http://muensterer.link/instagram">/instagram</a>, <a href="http://muensterer.link/ig">/ig</a> and <a href="http://muensterer.link/insta">/insta</a> all redirect to my <a href="https://www.instagram.com/dnnsmnstrr/">instagram profile</a></p>
+<p>This was made possible by setting up a second domain (<a href="http://muensterer.link">muensterer.link</a>), that forwards requests to the <code>/redirect</code> route of my <a href="https://dnnsmnstrr.github.io/zettelkasten/notes/2ee4c764-4891-4541-9766-258f6966b3d5.html">api</a>. I also modified the 404 page on my homepage to automatically attempt a redirect if the page does not exist.</p>
+<p>It even passes on the rest of the URL, so instead of going <a href="https://github.com/dnnsmnstrr/dotfiles">https://github.com/dnnsmnstrr/dotfiles</a> I can just type <a href="http://muensterer.link/gh/dotfiles">muensterer.link/gh/dotfiles</a>.</p>
+<p>There are different ways to access these redirects:</p>
+<ul>
+<li><a href="https://next.muensterer.xyz/api/redirect"><code>next.muensterer.xyz/api/redirect</code></a> - the direct api url</li>
+<li><a href="http://api.muensterer.xyz/redirect"><code>http://api.muensterer.xyz/redirect</code></a> - the aliased url</li>
+<li><a href="https://muensterer.xyz/redirect"><code>https://muensterer.xyz/redirect</code></a>
+<ul>
+<li>this is possible through a <a href="https://github.com/dnnsmnstrr/redirect">repository</a> which hosts a simple HTML file via pages and redirects to <a href="http://muensterer.link">muensterer.link</a></li>
+</ul>
+</li>
+<li><a href="http://muensterer.link"><code>muensterer.link</code></a>
+<ul>
+<li>forwards to the api url</li>
+</ul>
+</li>
+<li>404 on <a href="https://muensterer.xyz">muensterer.xyz</a>
+<ul>
+<li>If a page is not found, there is an automatic redirect attempt with a <code>noReturn</code> parameter to avoid infinite loops back to the 404 page</li>
+</ul>
+</li>
+</ul><span id="navId" data="8e7382ab-886c-4d08-9ba4-ddc6dd8bdb84"></span>
 
                 
       </section>

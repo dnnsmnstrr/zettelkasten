@@ -5,7 +5,7 @@
   <meta charset="UTF-8" />
   <meta http-equiv="X-UA-Compatible" content="IE=Edge" />
   
-  <title>This page has not yet sprouted - Zettelkasten (Dendron)</title>
+  <title>API - Zettelkasten (Dendron)</title>
   
 
   <link
@@ -43,22 +43,22 @@
 <meta name="description" content="Personal knowledge space">
 <meta name="author" content="">
 
-<link rel="canonical" href="https://dnnsmnstrr.github.io/notes/403.html">
+<link rel="canonical" href="https://dnnsmnstrr.github.io/notes/2ee4c764-4891-4541-9766-258f6966b3d5.html">
 
 <meta property="og:type" content="article">
-<meta property="og:url" content="https://dnnsmnstrr.github.io/notes/403.html">
+<meta property="og:url" content="https://dnnsmnstrr.github.io/notes/2ee4c764-4891-4541-9766-258f6966b3d5.html">
 <meta property="og:description" content="Personal knowledge space">
 <meta property="og:image" content="https://dnnsmnstrr.github.ioundefined">
 
 <meta name="twitter:card" content="summary">
 <meta name="twitter:site" content="@dnnsmnstrr">
-<meta name="twitter:url" content="https://dnnsmnstrr.github.io/notes/403.html">
+<meta name="twitter:url" content="https://dnnsmnstrr.github.io/notes/2ee4c764-4891-4541-9766-258f6966b3d5.html">
 <meta name="twitter:description" content="Personal knowledge space">
 <meta name="twitter:image" content="https://dnnsmnstrr.github.ioundefined">
 
 
-  <meta property="og:title" content="This page has not yet sprouted - Zettelkasten (Dendron)" />
-  <meta name="twitter:title" content="This page has not yet sprouted - Zettelkasten (Dendron)" />
+  <meta property="og:title" content="API - Zettelkasten (Dendron)" />
+  <meta name="twitter:title" content="API - Zettelkasten (Dendron)" />
   
 </head>
 
@@ -131,6 +131,10 @@
     <div id="main-content-wrap" class="main-content-wrap">
       
         
+          <nav aria-label="Breadcrumb" class="breadcrumb-nav">
+            <ol class="breadcrumb-nav-list"><li class="breadcrumb-nav-list-item"><a href="https://dnnsmnstrr.github.io/zettelkasten">root</a></li><li class="breadcrumb-nav-list-item">API</li></ol>
+          </nav>
+        
       
       <div id="main-content" class="main-content" role="main">
 
@@ -161,10 +165,10 @@
 <div id="main" role="main">
 
   <article class="page" itemscope itemtype="https://schema.org/CreativeWork">
-    <meta itemprop="headline" content="This page has not yet sprouted">
+    <meta itemprop="headline" content="API">
     
-    <meta itemprop="datePublished" content="2021-07-20T20:31:55+00:00">
-    <meta itemprop="dateModified" content="2021-07-20T20:31:55+00:00">
+    <meta itemprop="datePublished" content="2021-07-20T20:31:54+00:00">
+    <meta itemprop="dateModified" content="2021-07-20T20:31:54+00:00">
 
     <div class="page__inner-wrap">
 
@@ -174,9 +178,26 @@
 
         
 
-        <h1 id="this-page-has-not-yet-sprouted"><a aria-hidden="true" class="anchor-heading" href="#this-page-has-not-yet-sprouted"><svg aria-hidden="true" viewBox="0 0 16 16"><use xlink:href="#svg-link"></use></svg></a>This page has not yet sprouted</h1>
-<p><a href="https://dendron.so/">Dendron</a> (the tool used to generate this site) lets authors selective publish content. You will see this page whenever you click on a link to an unpublished page</p>
-<p><img src="/zettelkasten/https://foundation-prod-assetspublic53c57cce-8cpvgjldwysl.s3-us-west-2.amazonaws.com/assets/images/not-sprouted.png"></p><span id="navId" data="403"></span>
+        <h1 id="api"><a aria-hidden="true" class="anchor-heading" href="#api"><svg aria-hidden="true" viewBox="0 0 16 16"><use xlink:href="#svg-link"></use></svg></a>API</h1>
+<h1 id="api-1"><a aria-hidden="true" class="anchor-heading" href="#api-1"><svg aria-hidden="true" viewBox="0 0 16 16"><use xlink:href="#svg-link"></use></svg></a><a href="https://github.com/dnnsmnstrr/api">API</a></h1>
+<p>My personal api is available at <code>http://api.muensterer.xyz</code> (redirects to <a href="https://next.muensterer.xyz/api">next.muensterer.xyz/api</a>)
+Available routes are:
+| Route | Description |
+| :-------------: | :------------- |
+| <a href="https://next.muensterer.xyz/api/dennis"><code>/dennis</code></a> | Returns information about me |
+| <a href="https://next.muensterer.xyz/api/events"><code>/events</code></a> | A list of events in my life (used for <a href="https://muensterer.xyz/life">muensterer.xyz/life</a>) |
+| <a href="https://next.muensterer.xyz/api/social"><code>/social</code></a> | Returns a json of my <a href="https://gist.github.com/dnnsmnstrr/09a2559a9a970de5e8e9e5c2eaf1183b">social-urls</a> |
+| <code>/social/</code> + (<code>facebook</code>, <code>twitter</code>, <code>instagram</code>, <code>linkedin</code>, <code>github</code>, <code>youtube</code>, <code>spotify</code>, <code>telegram</code>) | Gets a redirect to the given profile page |
+| <a href="https://next.muensterer.xyz/api/playlist"><code>/playlist</code></a> | Returns a json of my <a href="https://dnnsmnstrr.github.io/zettelkasten/notes/97e98cef-f556-4b2a-82d7-434bcb3f16dc.html">spotify</a> playlists |
+| <code>/playlist/</code> + (<a href="https://next.muensterer.xyz/api/playlist/current"><code>current</code></a>) | Gets a redirect to a specific playlist |
+| <a href="https://next.muensterer.xyz/api/playlist/random"><code>/playlist/random</code></a> | Redirects to a random playlist |
+| <a href="https://next.muensterer.xyz/api/redirect"><code>/redirect</code></a> | Dynamically returns a <a href="https://dnnsmnstrr.github.io/zettelkasten/notes/8e7382ab-886c-4d08-9ba4-ddc6dd8bdb84.html">redirect</a>, matched to a list of <a href="https://github.com/dnnsmnstrr/api/blob/master/pages/api/redirect/redirects.js">aliases</a> with fallback to social links and my homepage |</p>
+<p>Much of the data made available through this api is stored in <a href="https://gist.github.com/dnnsmnstrr">gists</a>.</p>
+<script src="https://gist.github.com/dnnsmnstrr/a36fa8e855b19e9ebddb8a2878103b04.js"></script>
+<h2 id="resources"><a aria-hidden="true" class="anchor-heading" href="#resources"><svg aria-hidden="true" viewBox="0 0 16 16"><use xlink:href="#svg-link"></use></svg></a>Resources</h2>
+<ul>
+<li><a href="https://sheety.co/">Sheety</a> turn a spreadsheet into an API</li>
+</ul><span id="navId" data="2ee4c764-4891-4541-9766-258f6966b3d5"></span>
 
                 
       </section>

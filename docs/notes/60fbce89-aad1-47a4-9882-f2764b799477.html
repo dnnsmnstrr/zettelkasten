@@ -5,7 +5,7 @@
   <meta charset="UTF-8" />
   <meta http-equiv="X-UA-Compatible" content="IE=Edge" />
   
-  <title>This page has not yet sprouted - Zettelkasten (Dendron)</title>
+  <title>Pages - Zettelkasten (Dendron)</title>
   
 
   <link
@@ -43,22 +43,22 @@
 <meta name="description" content="Personal knowledge space">
 <meta name="author" content="">
 
-<link rel="canonical" href="https://dnnsmnstrr.github.io/notes/403.html">
+<link rel="canonical" href="https://dnnsmnstrr.github.io/notes/60fbce89-aad1-47a4-9882-f2764b799477.html">
 
 <meta property="og:type" content="article">
-<meta property="og:url" content="https://dnnsmnstrr.github.io/notes/403.html">
+<meta property="og:url" content="https://dnnsmnstrr.github.io/notes/60fbce89-aad1-47a4-9882-f2764b799477.html">
 <meta property="og:description" content="Personal knowledge space">
 <meta property="og:image" content="https://dnnsmnstrr.github.ioundefined">
 
 <meta name="twitter:card" content="summary">
 <meta name="twitter:site" content="@dnnsmnstrr">
-<meta name="twitter:url" content="https://dnnsmnstrr.github.io/notes/403.html">
+<meta name="twitter:url" content="https://dnnsmnstrr.github.io/notes/60fbce89-aad1-47a4-9882-f2764b799477.html">
 <meta name="twitter:description" content="Personal knowledge space">
 <meta name="twitter:image" content="https://dnnsmnstrr.github.ioundefined">
 
 
-  <meta property="og:title" content="This page has not yet sprouted - Zettelkasten (Dendron)" />
-  <meta name="twitter:title" content="This page has not yet sprouted - Zettelkasten (Dendron)" />
+  <meta property="og:title" content="Pages - Zettelkasten (Dendron)" />
+  <meta name="twitter:title" content="Pages - Zettelkasten (Dendron)" />
   
 </head>
 
@@ -131,6 +131,10 @@
     <div id="main-content-wrap" class="main-content-wrap">
       
         
+          <nav aria-label="Breadcrumb" class="breadcrumb-nav">
+            <ol class="breadcrumb-nav-list"><li class="breadcrumb-nav-list-item"><a href="https://dnnsmnstrr.github.io/zettelkasten">root</a></li><li class="breadcrumb-nav-list-item">Pages</li></ol>
+          </nav>
+        
       
       <div id="main-content" class="main-content" role="main">
 
@@ -161,10 +165,10 @@
 <div id="main" role="main">
 
   <article class="page" itemscope itemtype="https://schema.org/CreativeWork">
-    <meta itemprop="headline" content="This page has not yet sprouted">
+    <meta itemprop="headline" content="Pages">
     
-    <meta itemprop="datePublished" content="2021-07-20T20:31:55+00:00">
-    <meta itemprop="dateModified" content="2021-07-20T20:31:55+00:00">
+    <meta itemprop="datePublished" content="2021-07-20T20:31:54+00:00">
+    <meta itemprop="dateModified" content="2021-07-20T20:31:54+00:00">
 
     <div class="page__inner-wrap">
 
@@ -174,9 +178,34 @@
 
         
 
-        <h1 id="this-page-has-not-yet-sprouted"><a aria-hidden="true" class="anchor-heading" href="#this-page-has-not-yet-sprouted"><svg aria-hidden="true" viewBox="0 0 16 16"><use xlink:href="#svg-link"></use></svg></a>This page has not yet sprouted</h1>
-<p><a href="https://dendron.so/">Dendron</a> (the tool used to generate this site) lets authors selective publish content. You will see this page whenever you click on a link to an unpublished page</p>
-<p><img src="/zettelkasten/https://foundation-prod-assetspublic53c57cce-8cpvgjldwysl.s3-us-west-2.amazonaws.com/assets/images/not-sprouted.png"></p><span id="navId" data="403"></span>
+        <h1 id="pages"><a aria-hidden="true" class="anchor-heading" href="#pages"><svg aria-hidden="true" viewBox="0 0 16 16"><use xlink:href="#svg-link"></use></svg></a>Pages</h1>
+<h1 id="publishing-with-pages"><a aria-hidden="true" class="anchor-heading" href="#publishing-with-pages"><svg aria-hidden="true" viewBox="0 0 16 16"><use xlink:href="#svg-link"></use></svg></a>Publishing with <a href="https://pages.github.com/">Pages</a></h1>
+<p>GitHub can host static webpages for free with their Pages-Service. This is how I host most of my websites and apps.</p>
+<h2 id="react-app"><a aria-hidden="true" class="anchor-heading" href="#react-app"><svg aria-hidden="true" viewBox="0 0 16 16"><use xlink:href="#svg-link"></use></svg></a>React App</h2>
+<p>Add the homepage url to the <code>package.json</code>. When building with a <a href="https://github.com/marketplace/actions/deploy-react-app-to-github-pages">Pages-Action</a> this will be used to generate the path to the files referenced in the <code>index.html</code></p>
+<pre class="language-json"><code class="language-json"><span class="token property">"homepage"</span><span class="token operator">:</span> <span class="token string">"https://muensterer.xyz/%repository-name%"</span><span class="token punctuation">,</span>
+</code></pre>
+<pre class="language-yml"><code class="language-yml"><span class="token comment"># ./github/workflows/pages.yml</span>
+<span class="token key atrule">name</span><span class="token punctuation">:</span> React app deployment
+
+<span class="token key atrule">on</span><span class="token punctuation">:</span>
+  <span class="token key atrule">push</span><span class="token punctuation">:</span>
+    <span class="token key atrule">branches</span><span class="token punctuation">:</span> <span class="token punctuation">[</span> main <span class="token punctuation">]</span>
+  <span class="token key atrule">pull_request</span><span class="token punctuation">:</span>
+    <span class="token key atrule">branches</span><span class="token punctuation">:</span> <span class="token punctuation">[</span> main <span class="token punctuation">]</span>
+
+<span class="token key atrule">jobs</span><span class="token punctuation">:</span>
+  <span class="token key atrule">build</span><span class="token punctuation">:</span>
+
+    <span class="token key atrule">runs-on</span><span class="token punctuation">:</span> ubuntu<span class="token punctuation">-</span>latest
+
+    <span class="token key atrule">steps</span><span class="token punctuation">:</span>
+    <span class="token punctuation">-</span> <span class="token key atrule">uses</span><span class="token punctuation">:</span> actions/checkout@v2
+
+    <span class="token punctuation">-</span> <span class="token key atrule">name</span><span class="token punctuation">:</span> Deploy react app to github pages
+      <span class="token key atrule">uses</span><span class="token punctuation">:</span> tanwanimohit/deploy<span class="token punctuation">-</span>react<span class="token punctuation">-</span>to<span class="token punctuation">-</span>ghpages@v1.0.1
+</code></pre>
+<p>Remember to activate the pages feature in the project settings!</p><span id="navId" data="60fbce89-aad1-47a4-9882-f2764b799477"></span>
 
                 
       </section>
