@@ -12,5 +12,13 @@ site:
     usePrettyRefs: true
     title: Zettelkasten (Dendron)
     assetsPrefix: zettelkasten
-    siteUrl: https://dnnsmnstrr.github.io
+    siteUrl: 'https://dnnsmnstrr.github.io'
     twitter: dnnsmnstrr
+initializeRemoteVaults: true
+journal:
+    dailyDomain: daily
+    name: journal
+    dateFormat: y.MM.dd
+    addBehavior: childOfDomain
+    firstDayOfWeek: 1
+dendronVersion: 0.50.0

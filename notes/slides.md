@@ -7,7 +7,6 @@ tags:
 
 # Slides.com
 
-
 ## Parameters
 
 - `?mouseWheel=true` - move through slides by scrolling

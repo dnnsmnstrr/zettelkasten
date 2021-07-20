@@ -1,0 +1,9 @@
+pages:
+  image: node:16
+  script:
+    - yarn
+    - npx dendron buildSite --wsRoot . --stage prod
+    - mv docs public
+  artifacts:
+    paths:
+      - public
