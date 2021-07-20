@@ -1,5 +1,13 @@
 pages:
-  image: node:16
+  image: node:12.17.0
+  script:
+    - yarn
+    - npx dendron buildSite --wsRoot . --stage prod --vault vault
+    - mv docs public
+  artifacts:
+    paths:
+      - public
+
   script:
     - yarn
     - npx dendron buildSite --wsRoot . --stage prod
