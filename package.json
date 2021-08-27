@@ -13,7 +13,7 @@
     "build": "npx dendron-cli buildSiteV2 --wsRoot .  --stage prod "
   },
   "dependencies": {
-    "@dendronhq/dendron-11ty": "^1.26.2",
+    "@dendronhq/dendron-11ty": "^1.50.0",
     "@dendronhq/dendron-cli": "^0.26.2"
   }
 }
