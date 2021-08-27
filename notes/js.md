@@ -15,7 +15,16 @@ tags:
 ## Tools
 - Atom [[ide]]
 
-## [JSFuck](http://www.jsfuck.com/)
+## Node.js
+
+### Yarn
+- New project: `yarn init`
+
+
+
+## Fun
+
+### [JSFuck](http://www.jsfuck.com/)
 ```js
 ([][[]]+[])[!+[]+!+[]]+(!![]+[])[!+[]+!+[]+!+[]]+([][[]]+[])[+!+[]]+([][[]]+[])[+!+[]]+([![]]+[][[]])[+!+[]+[+[]]]+(![]+[])[!+[]+!+[]+!+[]] // dennis
 ```
