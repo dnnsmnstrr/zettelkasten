@@ -9,11 +9,11 @@
   "scripts": {
     "start": "docker run --rm -i -p 8080:8080 -v ~/zettelkasten/notes:/zettelkasten sridca/neuron neuron rib -ws 0.0.0.0:8080",
     "live": "reload -b -d ~/zettelkasten/notes/.neuron/output",
-    "dendron": "npx dendron-cli buildSiteV2 --wsRoot .  --stage dev --serve",
-    "build": "npx dendron-cli buildSiteV2 --wsRoot .  --stage prod "
+    "dendron": "npx dendron buildSite --stage dev --serve",
+    "build": "npx dendron-cli buildSite --stage prod "
   },
   "dependencies": {
-    "@dendronhq/dendron-11ty": "^1.50.0",
-    "@dendronhq/dendron-cli": "^0.26.2"
+    "@dendronhq/dendron-11ty": "^1.57.2",
+    "@dendronhq/dendron-cli": "^0.57.2"
   }
 }
