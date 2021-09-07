@@ -13,6 +13,9 @@ My Pi Collection
 - Pi 4 (4GB)
 - [Pico](https://www.raspberrypi.org/products/raspberry-pi-pico/) (Microcontroller)
 
+## Tools
+- [PiKISS](https://github.com/jmcerrejon/PiKISS)
+
 ## [RetroPie](https://retropie.org.uk/)
 
 - Tetris
