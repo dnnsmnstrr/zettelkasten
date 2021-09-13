@@ -7,7 +7,7 @@ tags:
 
 # [Zettelkasten](https://de.wikipedia.org/wiki/Zettelkasten)
 
-My personal slip box.
+My personal slip box. An alternate version, built using [[dendron]] can be found [here](https://dnnsmnstrr.gitlab.io/zettelkasten)
 
 > I put my Zettel in my [`Zettelkasten`](https://zettelkasten.de/).
 
@@ -25,5 +25,6 @@ This is also a form of [digital garden](https://joelhooks.com/digital-garden) to
 ## Resources
 - [r/zettelkasten](https://zk.zettel.page/)
 - https://wiki.nikitavoloboev.xyz/other/wiki-workflow#links
+- https://intersect.rknight.me/
 
 <z:zettels?tag=zettelkasten>

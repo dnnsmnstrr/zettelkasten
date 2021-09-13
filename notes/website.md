@@ -1,7 +1,7 @@
 ---
 date: 2020-08-04
 tags:
-  - web
+  - dev/web
   - pages
 ---
 
@@ -18,7 +18,9 @@ Some domains I've had:
 - muensterer.xyz
 - muensterer.link
 
-I also made a personal [[api]], which provides data to some of my #[[projects]], as well as [[redirect]] service, so I don't have to remember any links.
+I also made a personal [[api]], which provides data to some of my #[[projects]], as well as [[redirect]] service with dynamic aliases, so I don't have to remember any links.
+
+Currently, I am working on an extension to the website using [kbar](https://github.com/timc1/kbar). This will enable an [[alfred]]-like interface directly within the page. Try it with <kbd>⌘</kbd> + <kbd>k</kbd>
 
 <iframe src="https://dnnsmnstrr.github.io" title="Current website" width='100%' height='60%'></iframe>
 
