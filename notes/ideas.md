@@ -8,23 +8,21 @@ tags:
 # Ideas
 A list of things I want to make. Some of them might become [[projects]].
 
-## To do
-
-- Loading... Facefilter
-- Spotify sort playlist by album cover colors/darkness
-- Location-based app to find friends at festivals
-- Capture-the-Flag with BLE-Beacons
-- AI-music-generator
-- Custom Font (https://fontforge.org/en-US/)
-- E-Cajon
-- [Gist](https://developer.github.com/v3/gists/) API generator
-- Redirect API service
-
-## In progress
-- [Humble Key](https://www.humblebundle.com/home/keys) Distributor
-- E-paper Status Display
+- [ ] Spotify sort playlist by album cover colors/darkness
+- [ ] Location-based app to find friends at festivals
+- [ ] Capture-the-Flag with BLE-Beacons
+- [ ] AI-music-generator
+- [ ] Custom Font (https://fontforge.org/en-US/)
+- [ ] [Gist](https://developer.github.com/v3/gists/) API generator
+- [ ] - [x] E-Cajon
+- [x] Redirect API service
+	- [ ] Fuzzy matching 	
+- [x] [Humble Key](https://www.humblebundle.com/home/keys) Distributor
+- [x] E-paper Status Display
+- [x] Loading... Facefilter
 
 ___
+
 ## I.D.E.A.
 Four Steps of intuitive thinking by [Zach Freedman](https://youtu.be/6r8-o2WpoCA?t=655)
 
