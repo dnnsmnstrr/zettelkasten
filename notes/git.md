@@ -8,14 +8,23 @@ tags:
 
 Git gud
 
+
+
+## Snippets
 ```sh
 # commit
 git commit -am "message"
 ```
 
-# Troubleshooting
+### Stash
+- `git stash` to save changes without commiting
+  - `list` & `apply` to show and load stashes
+- `git stash apply {n}` - go back {n} amount of stashes
 
+## Troubleshooting
 
-# External Links
+## External Links
 
-- [Flight Rules](https://github.com/k88hudson/git-flight-rules)
+- [GitHub](https://github.com/dnnsmnstrr)
+- [GitLab](https://gitlab.com/dnnsmnstrr)
+- [Git Flight Rules](https://github.com/k88hudson/git-flight-rules)
