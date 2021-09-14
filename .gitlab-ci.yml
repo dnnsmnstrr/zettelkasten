@@ -1,8 +1,8 @@
 pages:
   image: node:14
   script:
-    - npm install -g @dendronhq/dendron-cli @dendronhq/dendron-11ty
-    - dendron buildSite --stage prod
+    - npm install
+    - npm build
     - mv docs public
   artifacts:
     paths:
