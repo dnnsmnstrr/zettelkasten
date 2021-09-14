@@ -13,7 +13,6 @@ site:
     title: Zettelkasten
     assetsPrefix: zettelkasten
     siteUrl: 'https://dnnsmnstrr.gitlab.io'
-    twitter: dnnsmnstrr
 initializeRemoteVaults: true
 journal:
     dailyDomain: daily
