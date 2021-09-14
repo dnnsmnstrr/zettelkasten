@@ -3,6 +3,7 @@ noTelemetry: true
 vaults:
     - fsPath: notes
 useFMTitle: false
+mermaid: true
 site:
     copyAssets: true
     siteHierarchies:
