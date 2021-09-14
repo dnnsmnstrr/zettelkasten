@@ -21,4 +21,4 @@ Some folders are submodules, such as my [[bettertouchtool]] preset, [HydroTouch]
 
 - [Strap](https://macos-strap.herokuapp.com/)
 
-<iframe width='100%' height='80%' src="https://muensterer.xyz/dotfiles" title="My dotfiles documentation"></iframe>
+<iframe width='100%' height='80%' src="https://dnnsmnstrr.github.io/dotfiles" title="My dotfiles documentation"></iframe>

@@ -11,7 +11,6 @@ site:
     siteRootDir: docs
     usePrettyRefs: true
     title: Zettelkasten
-    assetsPrefix: zettelkasten
     siteUrl: 'https://dnnsmnstrr.gitlab.io'
 initializeRemoteVaults: true
 journal:
