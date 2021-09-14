@@ -2,7 +2,7 @@ pages:
   image: node:14
   script:
     - npm install
-    - npm build
+    - npm run build
     - mv docs public
   artifacts:
     paths:
