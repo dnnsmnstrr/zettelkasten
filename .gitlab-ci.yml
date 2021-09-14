@@ -1,5 +1,5 @@
 pages:
-  image: node:12.17.0
+  image: node:14
   script:
     - npm install -g @dendronhq/dendron-cli @dendronhq/dendron-11ty
     - dendron buildSite --stage prod
