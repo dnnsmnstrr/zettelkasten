@@ -2,14 +2,14 @@ version: 1
 noTelemetry: true
 vaults:
     - fsPath: notes
-useFMTitle: true
+useFMTitle: false
 site:
     copyAssets: true
     siteHierarchies:
         - root
     siteRootDir: docs
     usePrettyRefs: true
-    title: Zettelkasten (Dendron)
+    title: Zettelkasten
     assetsPrefix: zettelkasten
     siteUrl: 'https://dnnsmnstrr.gitlab.io'
     twitter: dnnsmnstrr
