@@ -26,5 +26,6 @@ This is also a form of [digital garden](https://joelhooks.com/digital-garden) to
 - [r/zettelkasten](https://zk.zettel.page/)
 - https://wiki.nikitavoloboev.xyz/other/wiki-workflow#links
 - https://intersect.rknight.me/
+- https://github.com/MaggieAppleton/digital-gardeners
 
 <z:zettels?tag=zettelkasten>

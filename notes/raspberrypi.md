@@ -17,17 +17,18 @@ My Pi Collection
 - [PiKISS](https://github.com/jmcerrejon/PiKISS)
 
 ## Images
-### [RetroPie](https://retropie.org.uk/)
+- [RetroPie](https://retropie.org.uk/)
+  - For retro [[gaming]]
+- [OctoPi](https://github.com/guysoft/OctoPi)
+  - Used for [[3DPrinting]]
+- [chilipie](https://github.com/futurice/chilipie-kiosk)
+  - full-screen-chrome kiosk-mode
 
-- Tetris
-- Super Mario Kart
-
-### [OctoPi](https://github.com/guysoft/OctoPi)
-Used for [[3DPrinting]]
 
 ## Docker
 - [Setup](https://dev.to/rohansawant/installing-docker-and-docker-compose-on-the-raspberry-pi-in-5-simple-steps-3mgl)
 - [Containers](https://hub.docker.com/u/hypriot)
+- run in privileged mode for GPIO-access: `docker run --device /dev/ttyAMA0:/dev/ttyAMA0 --device /dev/mem:/dev/mem --privileged -p {ports} {image}`
 
 ## Pico
 

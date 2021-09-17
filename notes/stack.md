@@ -6,16 +6,19 @@ tags:
 - overview
 ---
 
-# [Stack](https://yourstack.com/)
-My tech-stack.
+# [Stack](https://stackshare.io/dnnsmnstrr/my-stack)
+
+[My tech-stack](https://yourstack.com/).
 
 # Devices
 - iPhone
 - MacBook Pro
 - Keychron K2 (mechanical bluetooth keyboard with macOS-Layout)
 - Logitech MX Master 3
+- Oculus Quest for VR-[[gaming]]
 
 # Applications
+- Google Chrome
 - [[spotify]]
 - [[atom]]
 - [[alfred]]
