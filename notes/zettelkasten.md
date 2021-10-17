@@ -22,6 +22,10 @@ My personal slip box. An alternate version, built using [[dendron]] can be found
 ## Digital Garden
 This is also a form of [digital garden](https://joelhooks.com/digital-garden) to me
 
+
+## Mobile Workflow
+For editing notes on the go, I'm currently testing the [[ios]] version of [[obsidian]] [Mobile](https://obsidian.md/mobile) in [combination](https://help.obsidian.md/Obsidian/iOS+app) with [Working Copy](https://apps.apple.com/de/app/working-copy-git-client/id896694807?l=en) for [[git]]. 
+
 ## Resources
 - [r/zettelkasten](https://zk.zettel.page/)
 - https://wiki.nikitavoloboev.xyz/other/wiki-workflow#links
