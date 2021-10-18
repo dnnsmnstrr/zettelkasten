@@ -4,6 +4,9 @@ I recently upgraded my [[stack]] from an iPhone 6s to the 13 mini. In doing so, 
 - Automations using NFC Tags
 - Download all my liked songs on [[spotify]]
 
+## Shortcuts
+
+
 ---
 
 This text was written in [[obsidian]] on my iPhone
