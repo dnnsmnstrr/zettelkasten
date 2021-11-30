@@ -8,7 +8,11 @@ tags:
 
 Git gud
 
+## GitHub
 
+Most of my [[projects]] are open-sourced on [GitHub](https://github.com/dnnsmnstrr).
+
+An analysis of my code can be found [here](https://sourcerer.io/dnnsmnstrr)
 
 ## Snippets
 ```sh
