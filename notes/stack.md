@@ -12,7 +12,8 @@ tags:
 
 # Devices
 - iPhone
-- MacBook Pro
+- MacBook Pro 13"
+- Apple Watch Series 6
 - Keychron K2 (mechanical bluetooth keyboard with macOS-Layout)
 - Logitech MX Master 3
 - Oculus Quest for VR-[[gaming]]

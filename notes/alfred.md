@@ -11,6 +11,9 @@ tags:
 A customizable version of the macOS Spotlight tool.
 I keep my Alfred preferences symlinked within the [[dotfiles]] directory.
 
+## Snippets
+Alfred allows the creation of Snippets, which can be auto-expanded when a certain keyword is typed. Some of my favorites are `mdl` for [[markdown]] links and [[emoji]]-completion (`:emoji:`)
+
 ## [Workflows](https://github.com/dnnsmnstrr/workflows)
 - [alfred](https://github.com/dnnsmnstrr/alfred-zettelkasten)-[[zettelkasten]]
 - [workflow-workflow](https://github.com/dnnsmnstrr/alfred-workflow-workflow)
@@ -87,3 +90,4 @@ const { VARIABLE } = process.env;
 # External Links
 - [Cheatsheet](https://www.alfredapp.com/help/getting-started/cheatsheet/)
 - [Script Filter JSON API](https://www.alfredapp.com/help/workflows/inputs/script-filter/json/)
+- [Emoji Snippets](joelcalifa.com/blog/alfred-emoji-snippet-pack)

@@ -7,6 +7,9 @@ tags:
 
 # [Neuron](https://neuron.zettel.page/)
 
+The neuron version of my [[zettelkasten]] is available at https://dnnsmnstrr.github.io/zettelkasten
+
+## Commands
 New Zettel: `neuron new Title`
 
 Start web interface:
@@ -20,6 +23,6 @@ Update neuron:
 Show other tagged:
 `<z:zettels?tag=zettelkasten>`
 
-# [[pages]]
+## [[pages]]
 - https://github.com/srid/neuron-template
 - https://neuron.zettel.page/publishing

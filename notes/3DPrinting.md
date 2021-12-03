@@ -19,6 +19,7 @@ Runs on a [Raspberry Pi](./raspberrypi.md) and lets me control my printer via wi
 - Tube Squeezer
 - Cable Clips
 - [Polypanels](https://www.makeanything.design/polypanels) (shoutout @ [makeanything](https://www.youtube.com/channel/UCVc6AHfGw9b2zOE_ZGfmsnw) - one of my favorite makers on [[youtube]])
+- a MagSafe mount for my iPhone
 
 ## Software
 For quick sketches and simple models I prefer [TinkerCAD](https://tinkercad.com)
