@@ -16,7 +16,7 @@ Alfred allows the creation of Snippets, which can be auto-expanded when a certai
 
 ## [Workflows](https://github.com/dnnsmnstrr/workflows)
 - [alfred](https://github.com/dnnsmnstrr/alfred-zettelkasten)-[[zettelkasten]]
-- [workflow-workflow](https://github.com/dnnsmnstrr/alfred-workflow-workflow)
+- [workflow²](https://github.com/dnnsmnstrr/alfred-workflow-workflow)
 
 ## Development
 
@@ -83,11 +83,13 @@ icon: {
 }
 ```
 
-### Environment Variables
+#### Environment Variables
 ```js
 const { VARIABLE } = process.env;
 ```
+
 # External Links
 - [Cheatsheet](https://www.alfredapp.com/help/getting-started/cheatsheet/)
 - [Script Filter JSON API](https://www.alfredapp.com/help/workflows/inputs/script-filter/json/)
 - [Emoji Snippets](joelcalifa.com/blog/alfred-emoji-snippet-pack)
+- [My Workflows](https://github.com/dnnsmnstrr/workflows)

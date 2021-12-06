@@ -11,7 +11,7 @@ tags:
 [My tech-stack](https://yourstack.com/).
 
 # Devices
-- iPhone
+- iPhone 13 mini
 - MacBook Pro 13"
 - Apple Watch Series 6
 - Keychron K2 (mechanical bluetooth keyboard with macOS-Layout)
