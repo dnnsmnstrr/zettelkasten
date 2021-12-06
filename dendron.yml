@@ -1,7 +1,4 @@
-version: 1
-noTelemetry: true
-vaults:
-    - fsPath: notes
+version: 3
 useFMTitle: false
 mermaid: true
 site:
@@ -12,11 +9,52 @@ site:
     usePrettyRefs: true
     title: Zettelkasten
     siteUrl: 'https://dnnsmnstrr.gitlab.io/zettelkasten'
-initializeRemoteVaults: true
-journal:
-    dailyDomain: daily
-    name: journal
-    dateFormat: y.MM.dd
-    addBehavior: childOfDomain
-    firstDayOfWeek: 1
-dendronVersion: 0.50.0
+    description: Personal knowledge space
+    siteLastModified: true
+    gh_edit_branch: main
+commands:
+    lookup:
+        note:
+            selectionMode: extract
+            confirmVaultOnCreate: false
+            leaveTrace: false
+    insertNote:
+        initialValue: templates
+    insertNoteLink:
+        aliasMode: none
+        enableMultiSelect: false
+    insertNoteIndex:
+        enableMarker: false
+    randomNote: {}
+workspace:
+    dendronVersion: 0.65.0
+    vaults:
+        -
+            fsPath: notes
+    journal:
+        dailyDomain: daily
+        name: journal
+        dateFormat: y.MM.dd
+        addBehavior: childOfDomain
+    scratch:
+        name: scratch
+        dateFormat: y.MM.dd.HHmmss
+        addBehavior: asOwnDomain
+    graph:
+        zoomSpeed: 1
+    disableTelemetry: true
+    enableAutoCreateOnDefinition: false
+    enableXVaultWikiLink: false
+    enableRemoteVaultInit: true
+    workspaceVaultSyncMode: noCommit
+    enableAutoFoldFrontmatter: false
+    maxPreviewsCached: 10
+    maxNoteLength: 204800
+    enableUserTags: true
+    enableHashTags: true
+useNoteTitleForLink: true
+noLegacyNoteRef: true
+useKatex: true
+usePrettyRefs: true
+dev:
+    enablePreviewV2: true

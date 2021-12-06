@@ -10,7 +10,7 @@
     "start": "docker run --rm -i -p 8080:8080 -v ~/zettelkasten/notes:/zettelkasten sridca/neuron neuron rib -ws 0.0.0.0:8080",
     "live": "reload -b -d ~/zettelkasten/notes/.neuron/output",
     "dendron": "dendron publish build && npx next dev",
-    "build": "npx dendron publish build --dest docs",
+    "build": "npx dendron publish export --target github --yes",
     "new": "cd notes && yo zettel"
   },
   "dependencies": {

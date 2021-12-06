@@ -1,12 +1,17 @@
 ---
-date: 2021-12-06
+id: KsXi9Cmm2JOtLUP0G3k3K
+title: Workshop
+desc: ''
+updated: 1638750784691
+created: 1638750784691
 tags:
-- making
-- tools
+  - making
+  - tools
+date: '2021-12-06'
 ---
 
 # Workshop
-Since I currently can't afford more than one room, my workshop is built into my bedroom. 
+Since I currently can't afford more than one room, my workshop is built into my bedroom.
 
 It consists of an Ivar-setup from IKEA. Sort of like this:
 ![GJVQYF](./assets/workshop.png)
