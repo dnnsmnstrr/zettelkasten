@@ -16,11 +16,16 @@ My main  apps:
 - [[alfred]]
 - [[atom]] - [[ide]]
 - [[btt]]
+- [[spotify]]
 
 Some open source apps I use daily:
 - [[barrier]]
 - [[finicky]]
 - [[brew]]
+- [Mattermost](https://mattermost.com/) and [Jitsi Meet](https://github.com/jitsi/jitsi-meet-electron) for Work
+
+## Development
+- Xcode
 
 ## Tips
 - Select text within hyperlinks by [holding down](https://twitter.com/MBoffin/status/1218668903586394112) <kbd>option</kbd> while selecting 🤯
