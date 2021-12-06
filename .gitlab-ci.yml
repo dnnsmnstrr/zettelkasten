@@ -2,6 +2,7 @@ pages:
   image: node:14
   script:
     - npm install
+    - npm install -g @dendronhq/dendron-cli
     - npm run build
     - mv docs public
   artifacts:
