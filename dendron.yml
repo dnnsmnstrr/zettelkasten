@@ -29,8 +29,7 @@ commands:
 workspace:
     dendronVersion: 0.65.0
     vaults:
-        -
-            fsPath: notes
+        - fsPath: notes
     journal:
         dailyDomain: daily
         name: journal

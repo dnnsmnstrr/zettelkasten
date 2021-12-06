@@ -3,8 +3,12 @@ pages:
   script:
     - npm install
     - npm install -g @dendronhq/dendron-cli
-    - npm run build
-    - mv docs public
+    - (test -d .next) && (echo 'updating dendron next...' && cd .next && git reset --hard && git clean -f && git pull) || (echo 'init dendron next' && npx dendron publish init)
+    - cd .next && npm install && cd ..
+    - npx dendron publish build
+    - cd .next && yarn export && cd ..
+    - (test -d docs && rm -rf docs) || echo skipping
+    - cd .next && mv out ../public && touch ../docs/.nojekyll
   artifacts:
     paths:
       - public
