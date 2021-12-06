@@ -8,7 +8,7 @@ pages:
     - npx dendron publish build
     - cd .next && yarn export && cd ..
     - (test -d docs && rm -rf docs) || echo skipping
-    - cd .next && mv out ../public && touch ../docs/.nojekyll
+    - cd .next && mv out ../public
   artifacts:
     paths:
       - public
