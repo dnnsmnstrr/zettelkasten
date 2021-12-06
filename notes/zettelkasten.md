@@ -24,7 +24,15 @@ This is also a form of [digital garden](https://joelhooks.com/digital-garden) to
 
 
 ## Mobile Workflow
-For editing notes on the go, I'm currently testing the [[ios]] version of [[obsidian]] [Mobile](https://obsidian.md/mobile) in [combination](https://help.obsidian.md/Obsidian/iOS+app) with [Working Copy](https://apps.apple.com/de/app/working-copy-git-client/id896694807?l=en) for [[git]]. 
+For editing notes on the go, I'm currently testing the [[ios]] version of [[obsidian]] [Mobile](https://obsidian.md/mobile) in [combination](https://help.obsidian.md/Obsidian/iOS+app) with [Working Copy](https://apps.apple.com/de/app/working-copy-git-client/id896694807?l=en) for [[git]].
+
+## Alfred Workflow
+My [Zettelkasten-Workflow](https://github.com/dnnsmnstrr/alfred-zettelkasten) for [[alfred]] allows me to quickly search for and create new notes with tags. It also lets me open links to my notes in different ways, such as [[neuron]], [[dendron]]
+
+## Deployments
+- [[pages]] at https://dnnsmnstrr.github.io/zettelkasten
+- [[dendron]] at https://dnnsmnstrr.gitlab.io/zettelkasten/
+- [GitHub](https://github.com/dnnsmnstrr/zettelkasten)
 
 ## Resources
 - [r/zettelkasten](https://zk.zettel.page/)
