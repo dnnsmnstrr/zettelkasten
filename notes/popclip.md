@@ -2,7 +2,7 @@
 id: 9ni7IRzeaNszIctQIGPjH
 title: Popclip
 desc: ''
-updated: 1638834482529
+updated: 1638868970489
 created: 1638820744136
 ---
 
@@ -43,6 +43,19 @@ name: Redirect API
 title: Redirect
 icon: symbol:arrow.up.arrow.down.circle
 url: https://dnnsmnstrr.vercel.app/api/redirect/***
+```
+
+#### Quickly spend time for a daily on Gitlab
+```yaml
+# popclip extension to spend time on gitlab
+name: Gitlab Time Tracking
+title: Spend
+icon: symbol:clock
+javascript: |
+  popclip.pressKey('R')
+  const time = popclip.input.text.trim()
+  return '/spend ' + time
+after: paste-result
 ```
 
 ### Extension-API

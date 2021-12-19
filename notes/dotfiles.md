@@ -17,8 +17,12 @@ There are configuration files for various shells, with aliases to make navigatin
 
 Some folders are submodules, such as my [[bettertouchtool]] preset, [HydroTouch](https://github.com/dnnsmnstrr/HydroTouch) or my [[alfred]] workflows.
 
-## External links
+## Management Tools
 
+
+## External links
+- https://dotfiles.github.io/
+- https://github.com/thoughtbot/dotfiles
 - [Strap](https://macos-strap.herokuapp.com/)
 
 <iframe width='100%' height='80%' src="https://dnnsmnstrr.github.io/dotfiles" title="My dotfiles documentation"></iframe>

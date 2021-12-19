@@ -24,8 +24,40 @@ My Pi Collection
 - [chilipie](https://github.com/futurice/chilipie-kiosk)
   - full-screen-chrome kiosk-mode
 
+## Commands
+### Update
+
+```
+sudo apt-get --yes update
+sudo apt-get --yes upgrade
+```
+From [pi-tips.md](https://gist.github.com/rdmarsh/5070295)
+### Cleanup
+Remove unused apps and run cleaning functions
+
+```sh
+# http://raspberry.tips/faq/raspberry-pi-speicherplatz-voll-sd-karte-aufraeumen
+sudo apt-get purge wolfram-engine
+sudo apt-get remove --purge libreoffice*
+sudo apt-get purge --auto-remove scratch
+sudo apt-get remove --purge sonic-pi
+
+# apt cleaning
+sudo apt-get --yes autoremove
+sudo apt-get --yes autoclean
+sudo apt-get --yes clean
+
+# Remove old logs
+sudo rm -v /var/log/*.gz
+
+# Find big files
+sudo find / -type f -size +100M
+
+
+```
 
 ## Docker
+
 - [Setup](https://dev.to/rohansawant/installing-docker-and-docker-compose-on-the-raspberry-pi-in-5-simple-steps-3mgl)
 - [Containers](https://hub.docker.com/u/hypriot)
 - run in privileged mode for GPIO-access: `docker run --device /dev/ttyAMA0:/dev/ttyAMA0 --device /dev/mem:/dev/mem --privileged -p {ports} {image}`
