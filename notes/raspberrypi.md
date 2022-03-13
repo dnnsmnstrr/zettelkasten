@@ -23,6 +23,7 @@ My Pi Collection
   - Used for [[3DPrinting]]
 - [chilipie](https://github.com/futurice/chilipie-kiosk)
   - full-screen-chrome kiosk-mode
+- [HomeAssistant](https://www.home-assistant.io/)
 
 ## Commands
 ### Update

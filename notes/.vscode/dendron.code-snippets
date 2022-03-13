@@ -22,5 +22,22 @@
         "scope": "markdown,yaml",
         "body": "$CURRENT_YEAR-$CURRENT_MONTH-$CURRENT_DATE $CURRENT_HOUR:$CURRENT_MINUTE",
         "description": "time"
+    },
+    "link": {
+        "prefix": "link",
+        "scope": "markdown,yaml",
+        "body": "[${1:link-text}](${2:url})",
+        "description": "link"
+    },
+    "image": {
+        "prefix": "image",
+        "scope": "markdown,yaml",
+        "body": "![${1:alt-text}](${2:url})",
+        "description": "image"
+    },
+    "table": {
+        "prefix": "table",
+        "scope": "markdown,yaml",
+        "body": "| ${1:header} | ${2:header} |\n| --- | --- |\n| ${3:cell} | ${4:cell} |",
     }
 }
