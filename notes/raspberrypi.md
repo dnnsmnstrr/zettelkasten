@@ -14,13 +14,14 @@ My Pi Collection
 - [Pico](https://www.raspberrypi.org/products/raspberry-pi-pico/) (Microcontroller)
 
 ## [RetroPie](https://retropie.org.uk/)
-
 - Tetris
 - Super Mario Kart
 
 ## [OctoPi](https://github.com/guysoft/OctoPi)
 Used for [[3DPrinting]]
 
+## [Pi Hole](https://pi-hole.net)
+The DNS server powering my [[homelab]]. Set up using [DietPi](https://dietpi.com/), which also runs [RPi Cam Control](https://dietpi.com/docs/software/camera/#rpi-cam-control) on a Pi 3b.
 
 ## Pico
 
