@@ -7,7 +7,9 @@ tags:
 # [API](https://github.com/dnnsmnstrr/api)
 
 My personal api is available at `http://api.muensterer.xyz` (redirects to [next.muensterer.xyz/api](https://next.muensterer.xyz/api))
-Available routes are:
+
+## Available routes:
+
 | Route | Description |
 | :-------------: | :------------- |
 | [`/dennis`](https://next.muensterer.xyz/api/dennis) | Returns information about me |

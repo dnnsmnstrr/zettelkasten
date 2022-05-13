@@ -6,8 +6,18 @@ updated: 1612656857336
 created: 1595170096361
 stub: false
 nav_order: 1
+tags:
+  - notes
+  - zettelkasten
 ---
 
+# [Dendron](https://github.com/dendronhq/dendron)
+
+A personal knowledge management tool.
+
+The rest of this file was automatically generated
+
+---
 Welcome to Dendron! This guide will help get you started with your knowledge base.
 
 ## The Trail 🥾

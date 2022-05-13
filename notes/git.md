@@ -8,13 +8,27 @@ tags:
 
 Git gud
 
+## GitHub
+
+Most of my [[projects]] are open-sourced on [GitHub](https://github.com/dnnsmnstrr).
+
+An analysis of my code can be found [here](https://sourcerer.io/dnnsmnstrr)
+
+## Snippets
 ```sh
 # commit
 git commit -am "message"
 ```
-# Troubleshooting
 
+### Stash
+- `git stash` to save changes without commiting
+  - `list` & `apply` to show and load stashes
+- `git stash apply {n}` - go back {n} amount of stashes
 
-# External Links
+## Troubleshooting
 
-- [Flight Rules](https://github.com/k88hudson/git-flight-rules)
+## External Links
+
+- [GitHub](https://github.com/dnnsmnstrr)
+- [GitLab](https://gitlab.com/dnnsmnstrr)
+- [Git Flight Rules](https://github.com/k88hudson/git-flight-rules)

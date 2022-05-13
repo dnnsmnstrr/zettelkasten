@@ -23,6 +23,9 @@ My own customizations: [HydroTouch](https://github.com/dnnsmnstrr/HydroTouch)
 - most of my named triggers use AppleScript, slowly migrating to JavaScript where possible
 - Album Artwork path: `~/Library/Application Support/BetterTouchTool/spotify_cover.png`
 
+### Scripting
+Docs: https://docs.folivora.ai/docs/1106_java_script.html
+
 ## Troubleshooting
 
 - [Presets gone after update](https://community.folivora.ai/t/how-can-i-restore-my-presets/14976/2)
