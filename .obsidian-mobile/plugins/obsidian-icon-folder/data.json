@@ -4,7 +4,13 @@
     "iconPacksPath": ".obsidian/plugins/obsidian-icon-folder/icons",
     "fontSize": 16,
     "iconColor": null,
-    "recentlyUsedIcons": [],
+    "recentlyUsedIcons": [
+      "FasGraduationCap",
+      "RiFileGifLine",
+      "FasPrint",
+      "RiFileSettingsFill",
+      "FasGamepad"
+    ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
     "extraPadding": {
@@ -13,5 +19,36 @@
       "bottom": 2,
       "left": 2
     }
-  }
+  },
+  "notes": "FarNoteSticky",
+  "docs": "RiBook2Fill",
+  "notes/alfred.md": "FabRedhat",
+  "notes/brew.md": "FasBeerMugEmpty",
+  "notes/dendron.md": "FasBrain",
+  "notes/electron.md": "IbLightning",
+  "notes/festivals.md": "FasGuitar",
+  "notes/git.md": "FabGitAlt",
+  "notes/homeassistant.md": "RiHomeWifiLine",
+  "notes/homelab.md": "FasServer",
+  "notes/ios.md": "IbIphone",
+  "notes/kickstarter.md": "FabKickstarterK",
+  "notes/macos.md": "FasLaptop",
+  "notes/markdown.md": "FabMarkdown",
+  "notes/music.md": "FasMusic",
+  "notes/raspberrypi.md": "FabRaspberryPi",
+  "notes/react.md": "FabReact",
+  "notes/react-native.md": "FabReacteurope",
+  "notes/shell.md": "FasTerminal",
+  "notes/youtube.md": "FabYoutube",
+  "notes/zettelkasten.md": "FasBoxArchive",
+  "notes/workshop.md": "FasToolbox",
+  "notes/website.md": "IbWebsiteWithText",
+  "notes/spotify.md": "FabSpotify",
+  "notes/makerer.md": "RiToolsFill",
+  "notes/ideas.md": "FasLightbulb",
+  "notes/gaming.md": "FasGamepad",
+  "notes/dotfiles.md": "RiFileSettingsFill",
+  "notes/3DPrinting.md": "FasPrint",
+  "notes/gif.md": "RiFileGifLine",
+  "notes/learning.md": "FasGraduationCap"
 }
