@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "notes/obsidian.md",
-            "mode": "preview",
+            "file": "notes/festivals.md",
+            "mode": "source",
             "source": false
           }
         }
@@ -77,7 +77,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "notes/obsidian.md",
+            "file": "notes/festivals.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -94,7 +94,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "notes/obsidian.md",
+            "file": "notes/festivals.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -106,7 +106,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "notes/obsidian.md"
+            "file": "notes/festivals.md"
           }
         }
       },
@@ -123,6 +123,7 @@
   },
   "active": "7b426305638f0798",
   "lastOpenFiles": [
+    "notes/obsidian.md",
     "notes/database.md",
     "Excalidraw/Drawing 2022-08-23 00.54.17.excalidraw.md"
   ]

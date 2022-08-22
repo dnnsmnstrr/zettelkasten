@@ -2,12 +2,14 @@
 date: 2022-08-22
 tags:
 - life
+- music 
 ---
 
 # Festivals
 I go to festivals for the [[music]].
 
 Where I've been to:
+
 | Name            | Year |
 | --------------- | ---- |
 | Splash          | 2015 |
@@ -25,3 +27,4 @@ What to remember for the camping part:
 	- A rain poncho is a must
 - Make sure your tent is waterproofed before leaving to the festival area
 - Have enough dry clothes (especially socks) in a place that **will not** get wet
+- Ear plugs are a good idea in case things get too loud
