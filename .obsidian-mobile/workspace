@@ -7,8 +7,12 @@
         "id": "7b426305638f0798",
         "type": "leaf",
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "notes/obsidian.md",
+            "mode": "preview",
+            "source": false
+          }
         }
       }
     ],
@@ -73,6 +77,7 @@
         "state": {
           "type": "backlink",
           "state": {
+            "file": "notes/obsidian.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -89,6 +94,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
+            "file": "notes/obsidian.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -99,12 +105,25 @@
         "type": "leaf",
         "state": {
           "type": "outline",
+          "state": {
+            "file": "notes/obsidian.md"
+          }
+        }
+      },
+      {
+        "id": "84837b2e840c70d9",
+        "type": "leaf",
+        "state": {
+          "type": "advanced-tables-toolbar",
           "state": {}
         }
       }
     ],
-    "currentTab": 0
+    "currentTab": 3
   },
   "active": "7b426305638f0798",
-  "lastOpenFiles": []
+  "lastOpenFiles": [
+    "notes/database.md",
+    "Excalidraw/Drawing 2022-08-23 00.54.17.excalidraw.md"
+  ]
 }
