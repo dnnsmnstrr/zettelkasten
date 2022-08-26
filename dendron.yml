@@ -23,6 +23,14 @@ workspace:
     dendronVersion: 0.109.1
     vaults:
         -
+            fsPath: templates
+            seed: dendron.templates
+            name: dendron.templates
+        -
+            fsPath: vault
+            seed: dendron.tldr
+            name: dendron.tldr
+        -
             fsPath: notes
     journal:
         dailyDomain: daily
@@ -72,6 +80,12 @@ workspace:
     enableEditorDecorations: true
     enableFullHierarchyNoteTitle: false
     enableSmartRefs: false
+    seeds:
+        dendron.tldr:
+            site:
+                url: https://tldr.dendron.so
+                index: cli
+        dendron.templates: {}
 dev:
     enablePreviewV2: true
 preview:
@@ -109,3 +123,9 @@ publishing:
         editViewMode: tree
     enablePrettyLinks: true
     enableTaskNotes: true
+    duplicateNoteBehavior:
+        action: useVault
+        payload:
+            - dendron.tldr
+            - notes
+            - dendron.templates
