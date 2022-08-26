@@ -7,7 +7,7 @@ tags:
 # Redirecting
 
 While working on my #[[api]], I figured out a way to set up a system of dynamic redirects with alias matching.
-This means I can define multiple links that all redirect to a specific URL, for example [/instagram](http://muensterer.link/instagram), [/ig](http://muensterer.link/ig) and [/insta](http://muensterer.link/insta) all redirect to my [instagram profile](https://www.instagram.com/dnnsmnstrr/). The advantage of this is that I don't have to remember a specific term, any other synonym I defined will work too.
+This means I can define multiple links that all redirect to a specific URL, for example [/instagram](http://dnnsmnstrr.vercel.app/api/redirect/instagram), [/ig](https://dnnsmnstrr.vercel.app/api/redirect/ig) and [/insta](http://dnnsmnstrr.vercel.app/api/redirectinsta) all redirect to my [instagram profile](https://www.instagram.com/dnnsmnstrr/). The advantage of this is that I don't have to remember a specific term, any other synonym I defined will work too.
 
 This was made possible by setting up a second domain ([muensterer.link](http://muensterer.link)), that forwards requests to the `/redirect` route of my [[api]]. I also modified the 404 page on my homepage to automatically attempt a redirect if the page does not exist.
 
@@ -26,4 +26,3 @@ There are different ways to access these redirects:
 
 ### Ideas
 - [ ] check for fallbacks in projects and notes (Github API)
-- [ ]

@@ -50,3 +50,6 @@ Serves as a reverse proxy, which I can point URLs such as [`pi-hole`](http://pi-
 
 - https://github.com/bastienwirtz/homer
 - https://dashy.to/
+- [OliveTin](https://www.olivetin.app/) - config at `etc/OliveTin/config.yaml`
+  - `sudo nano /etc/OliveTin/config.yaml`
+  - `sudo systemctl restart OliveTin.service` after changes

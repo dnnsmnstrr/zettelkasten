@@ -51,6 +51,7 @@ Native Apps I Use:
 ```sh
 ls -1 /Applications | pbcopy
 ```
+- Get state of webcam: `log stream --predicate 'subsystem contains "com.apple.UVCExtension" and composedMessage contains "Post PowerLog"'`
 
 ## Resources
 - [`mac-cli`](https://github.com/guarinogabriel/Mac-CLI) - useful command line tools for macOS [[dev]]s

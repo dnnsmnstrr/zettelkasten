@@ -17,8 +17,9 @@ Some domains I've had:
 - muensterer.tech
 - muensterer.xyz
 - muensterer.link
+- muensterer.codes
 
-I also made a personal [[api]], which provides data to some of my #[[projects]], as well as [[redirect]] service with dynamic aliases, so I don't have to remember any links.
+I also made a personal [[api]], which provides data to some of my #[[projects]], as well as a [[redirect]] service with dynamic aliases, so I don't have to remember any links.
 
 Currently, I am working on an extension to the website using [kbar](https://github.com/timc1/kbar). This will enable an [[alfred]]-like interface directly within the page. Try it with <kbd>⌘</kbd> + <kbd>k</kbd>
 
@@ -31,10 +32,11 @@ Currently, I am working on an extension to the website using [kbar](https://gith
 Regardless of which Registrar I'm currently using, I try to keep the configuration and set up consistent and minimal. The `dennis.` subdomain directs to my [Universe Landing Page](https://dnnsmnstrr.onuniverse.com)
 
 CNAME & Redirect setup:
+
 | Host | Value |
 | :------------- | :------------- |
 | CNAME       | dnnsmnstrr.github.io       |
-| dennis       | https://dnnsmnstrr.onuniverse.com      |
+| dennis      | https://dnnsmnstrr.onuniverse.com   |
 | api       | https://dnnsmnstrr.vercel.app/api/    |
 | *       | https://dnnsmnstrr.vercel.app/api/redirect    |
 

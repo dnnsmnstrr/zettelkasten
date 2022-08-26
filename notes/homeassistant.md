@@ -22,3 +22,6 @@ apk add nano
 - Spotcast
 - https://github.com/vlebourl/shopping_list
 https://hacs.xyz/
+
+# Resources
+- https://esphome.io/index.html

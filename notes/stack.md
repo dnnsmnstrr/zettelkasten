@@ -15,8 +15,9 @@ tags:
 - MacBook Pro 13"
 - Apple Watch Series 6
 - Keychron K2 (mechanical bluetooth keyboard with macOS-Layout)
-- Logitech MX Master 3
+- Logitech [[mxmaster]] 3
 - Oculus Quest for VR-[[gaming]]
+- Steam Deck
 
 # Applications
 - Google Chrome

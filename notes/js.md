@@ -17,10 +17,10 @@ tags:
 
 ## Node.js
 
+- follow [Best Practices](https://github.com/goldbergyoni/nodebestpractices)
+
 ### Yarn
 - New project: `yarn init`
-
-
 
 ## Fun
 
@@ -28,5 +28,7 @@ tags:
 ```js
 ([][[]]+[])[!+[]+!+[]]+(!![]+[])[!+[]+!+[]+!+[]]+([][[]]+[])[+!+[]]+([][[]]+[])[+!+[]]+([![]]+[][[]])[+!+[]+[+[]]]+(![]+[])[!+[]+!+[]+!+[]] // dennis
 ```
+
+
 ## Resources
 - [freeCodeCamp](https://www.freecodecamp.org/learn)
