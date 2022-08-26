@@ -1,17 +1,4 @@
-version: 4
-useFMTitle: false
-mermaid: true
-site:
-    copyAssets: true
-    siteHierarchies:
-        - root
-    siteRootDir: docs
-    usePrettyRefs: true
-    title: Zettelkasten
-    siteUrl: 'https://dnnsmnstrr.gitlab.io/zettelkasten'
-    description: Personal knowledge space
-    siteLastModified: true
-    gh_edit_branch: main
+version: 5
 commands:
     lookup:
         note:
@@ -19,6 +6,8 @@ commands:
             confirmVaultOnCreate: false
             leaveTrace: false
             bubbleUpCreateNew: true
+            vaultSelectionModeOnCreate: smart
+            fuzzThreshold: 0.2
     insertNote:
         initialValue: templates
     insertNoteLink:
@@ -27,8 +16,11 @@ commands:
     insertNoteIndex:
         enableMarker: false
     randomNote: {}
+    copyNoteLink:
+        aliasMode: title
+    templateHierarchy: template
 workspace:
-    dendronVersion: 0.71.0
+    dendronVersion: 0.109.1
     vaults:
         -
             fsPath: notes
@@ -43,6 +35,7 @@ workspace:
         addBehavior: asOwnDomain
     graph:
         zoomSpeed: 1
+        createStub: false
     disableTelemetry: true
     enableAutoCreateOnDefinition: false
     enableXVaultWikiLink: false
@@ -73,8 +66,12 @@ workspace:
             L: low
         todoIntegration: false
         createTaskSelectionType: selection2link
-useNoteTitleForLink: true
-useKatex: true
+        taskCompleteStatus:
+            - done
+            - x
+    enableEditorDecorations: true
+    enableFullHierarchyNoteTitle: false
+    enableSmartRefs: false
 dev:
     enablePreviewV2: true
 preview:
@@ -83,3 +80,32 @@ preview:
     enableMermaid: true
     enablePrettyRefs: true
     enableKatex: true
+    enableFrontmatterTags: true
+    enableHashesForFMTags: false
+    automaticallyShowPreview: false
+publishing:
+    enableFMTitle: false
+    enableNoteTitleForLink: true
+    enableMermaid: true
+    enablePrettyRefs: true
+    enableKatex: true
+    copyAssets: true
+    siteHierarchies:
+        - root
+    enableSiteLastModified: true
+    siteRootDir: docs
+    siteUrl: https://dnnsmnstrr.gitlab.io/zettelkasten
+    enableFrontmatterTags: true
+    enableHashesForFMTags: false
+    enableRandomlyColoredTags: true
+    writeStubs: false
+    seo:
+        title: Zettelkasten
+        description: Personal knowledge space
+    github:
+        enableEditLink: true
+        editLinkText: Edit this page on GitHub
+        editBranch: main
+        editViewMode: tree
+    enablePrettyLinks: true
+    enableTaskNotes: true
