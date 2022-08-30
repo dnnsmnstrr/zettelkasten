@@ -7,7 +7,7 @@ tags:
 
 # [My website](https://dnnsmnstrr.github.io)
 
-|[muensterer.whateverdomainwascheapest](https://https://dnnsmnstrr.github.io)|
+|[muensterer.whateverdomainwascheapest](https://dnnsmnstrr.github.io)|
 |---|
 
 
@@ -17,13 +17,13 @@ Some domains I've had:
 - muensterer.tech
 - muensterer.xyz
 - muensterer.link
-- muensterer.codes
+- muensterer.codes (managed by name.com)
 
 I also made a personal [[api]], which provides data to some of my #[[projects]], as well as a [[redirect]] service with dynamic aliases, so I don't have to remember any links.
 
 Currently, I am working on an extension to the website using [kbar](https://github.com/timc1/kbar). This will enable an [[alfred]]-like interface directly within the page. Try it with <kbd>⌘</kbd> + <kbd>k</kbd>
 
-<iframe src="https://dnnsmnstrr.github.io" title="Current website" width='100%' height='60%'></iframe>
+<iframe src="https://dnnsmnstrr.github.io" title="Current website" width='100%' height='500px'></iframe>
 
 [[social]]
 
@@ -40,6 +40,7 @@ CNAME & Redirect setup:
 | api       | https://dnnsmnstrr.vercel.app/api/    |
 | *       | https://dnnsmnstrr.vercel.app/api/redirect    |
 
+Just for fun, I've set up cloudflare with
 ## Cool Websites
 
 - https://theuselessweb.com/

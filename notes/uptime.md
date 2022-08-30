@@ -6,7 +6,7 @@ tags:
 
 # Uptime
 
-My website and services are monitored using [Upptime](https://upptime.js.org/).
+My [[website]] and services are monitored using [Upptime](https://upptime.js.org/).
 
 It runs in [Github Actions](https://github.com/dnnsmnstrr/uptime) and is hosted on [Pages](https://dnnsmnstrr.github.io/uptime/).
 
