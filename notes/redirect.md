@@ -26,3 +26,6 @@ There are different ways to access these redirects:
 
 ### Ideas
 - [ ] check for fallbacks in projects and notes (Github API)
+
+## Links
+- [Edit redirects](https://github.com/dnnsmnstrr/api/blob/master/pages/api/redirect/redirects.js)

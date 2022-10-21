@@ -1,11 +1,17 @@
 ---
-date: 2022-08-22
+id: vmdumfzqepejr2m3f2eln9y
+title: Festivals
+desc: ''
+updated: 1661515842054
+created: 1661126400000
 tags:
-- life
-- music 
+  - life
+  - music
+date: '2022-08-22T00:00:00.000Z'
 ---
 
 # Festivals
+
 I go to festivals for the [[music]].
 
 Where I've been to:
@@ -20,7 +26,7 @@ Where I've been to:
 | Stadt ohne Meer | 2021 |
 | Highfield       | 2022 |
 
-## Camping Checklist 
+## Camping Checklist
 What to remember for the camping part:
 - Prepare for every type of weather (warm, wet, cold)
 	- Bring watertight shoes or crocs

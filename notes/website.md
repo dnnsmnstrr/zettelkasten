@@ -40,7 +40,7 @@ CNAME & Redirect setup:
 | api       | https://dnnsmnstrr.vercel.app/api/    |
 | *       | https://dnnsmnstrr.vercel.app/api/redirect    |
 
-Just for fun, I've set up cloudflare with
+Just for fun, I've set up the pages deployment to work with [Cloudflare](https://dash.cloudflare.com).
 ## Cool Websites
 
 - https://theuselessweb.com/
