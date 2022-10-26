@@ -12,7 +12,18 @@ A customizable version of the macOS Spotlight tool.
 I keep my Alfred preferences symlinked within the [[dotfiles]] directory.
 
 ## Snippets
-Alfred allows the creation of Snippets, which can be auto-expanded when a certain keyword is typed. Some of my favorites are `mdl` for [[markdown]] links and [[emoji]]-completion (`:emoji:`)
+Alfred allows the creation of Snippets, which can be auto-expanded when a certain keyword is typed. Some of my favorites are `mdl` for [[markdown]] links and [[emoji]]-completion (`:emoji:`). Some of my own snippets are shared at https://github.com/dnnsmnstrr/workflows#snippets
+
+## Searches
+These custom searches can be suggested when Alfred receives a query that it does not recognise (Fallback Search). There are built-in searches for common sites like Google, Wikipedia or Youtube, but here are some of my own (they can be installed by clicking on the link):
+- [GitHub](alfred://customsearch/Search%20GitHub%20for%20%27%7Bquery%7D%27/github/utf8/nospace/https%3A%2F%2Fgithub.com%2Fsearch%3Fq%3D%7Bquery%7D%26amp%3Bref%3Dopensearch)
+- [Genius](alfred://customsearch/Search%20Genius%20for%20%27%7Bquery%7D%27/genius/utf8/nospace/https%3A%2F%2Fgenius.com%2Fsearch%3Fq%3D%7Bquery%7D)
+- [Alfred Forum](alfred://customsearch/Search%20the%20Alfred%20Forum%20for%20%27%7Bquery%7D%27/forum/utf8/nospace/https%3A%2F%2Fwww.alfredforum.com%2Fsearch%2F%3Fq%3D%7Bquery%7D)
+- [[bettertouchtool]] [Forum](alfred://customsearch/Search%20the%20BTT%20Community%20for%20%27%7Bquery%7D%27/btt/utf8/nospace/https%3A%2F%2Fcommunity.folivora.ai%2Fsearch%3Fq%3D%7Bquery%7D)
+- [Know Your Meme](alfred://customsearch/Search%20Know%20Your%20Meme%20for%20%27%7Bquery%7D%27/kym/utf8/nospace/https%3A%2F%2Fknowyourmeme.com%2Fsearch%3Fq%3D%7Bquery%7D)
+- [Urban Dictionary](alfred://customsearch/Search%20Urban%20Dictionary%20for%20%27%7Bquery%7D%27/ud/utf8/nospace/https%3A%2F%2Fwww.urbandictionary.com%2Fdefine.php%3Fterm%3D%7Bquery%7)
+- [TV Tropes](alfred://customsearch/Search%20TV%20Tropes%20for%20%27%7Bquery%7D%27/trope/utf8/nospace/https%3A%2F%2Ftvtropes.org%2Fpmwiki%2Fsearch_result.php%3Fq%3D%7Bquery%7D)
+- [Snopes](alfred://customsearch/Search%20Snopes%20for%20%27%7Bquery%7D%27/snopes/utf8/nospace/https%3A%2F%2Fwww.snopes.com%2F%3Fs%3D%7Bquery%7D)
 
 ## [Workflows](https://github.com/dnnsmnstrr/workflows)
 - [alfred](https://github.com/dnnsmnstrr/alfred-zettelkasten)-[[zettelkasten]]

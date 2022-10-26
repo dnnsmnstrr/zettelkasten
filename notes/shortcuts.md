@@ -10,11 +10,20 @@ tags:
 # Shortcuts
 
 Shortcuts are supported on [[ios]], [[macos]] and Apple Watch
+
 ## Automations
 ### On Network Connection
-### On Bluetooth Connection
+- Start travel focus when connecting to `wifi@db`
 ### Location-Based
+- Shopping-focus when at common store locations (REWE, Penny, etc.)
 ### Spotify
+- Strip tracking info from shared links
+
+### Dependencies
+Some of my shortcuts rely on other apps to function.
+- Shortcutify - Airtable & Spotify API
+- Scriptable - [[js]]-Runtime
+- Data Jar - [[json]] storage
 
 ## Resources
 - [Reddit](https://www.reddit.com/r/shortcuts/comments/gzjgbr/list_of_helpful_links_for_shortcuts_information/)

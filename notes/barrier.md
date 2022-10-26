@@ -10,7 +10,7 @@ In order to use the MacBook's keyboard and mouse/trackpad on my pc, I have set u
 
 ## Config
 
-- Swap `Super` and `Ctrl` keys in mac server to use <kbd>command</kbd> key for copy-pasting etc...
+- Swap `Super` and `Ctrl` keys in mac server to use <kbd>command</kbd> key for copy-pasting etc on windows
 
 ## Alternatives
 

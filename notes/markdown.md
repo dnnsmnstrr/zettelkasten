@@ -21,6 +21,7 @@ These notes are all written in the [Markdown](https://de.wikipedia.org/wiki/Mark
 
 ## Plug-ins
 - [[mermaid]]
+
 ## External links
 - [Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
 - [devhints](https://devhints.io/markdown)

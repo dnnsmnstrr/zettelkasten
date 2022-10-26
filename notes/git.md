@@ -26,6 +26,7 @@ git commit -am "message"
 - `git stash apply {n}` - go back {n} amount of stashes
 
 ## Troubleshooting
+- Github auth: `git remote set-url origin git@github.com:dnnsmnstrr/<<REPO_NAME>>.git`
 
 ## External Links
 

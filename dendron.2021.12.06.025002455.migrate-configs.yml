@@ -1,0 +1,22 @@
+version: 1
+noTelemetry: true
+vaults:
+    - fsPath: notes
+useFMTitle: false
+mermaid: true
+site:
+    copyAssets: true
+    siteHierarchies:
+        - root
+    siteRootDir: docs
+    usePrettyRefs: true
+    title: Zettelkasten
+    siteUrl: 'https://dnnsmnstrr.gitlab.io/zettelkasten'
+initializeRemoteVaults: true
+journal:
+    dailyDomain: daily
+    name: journal
+    dateFormat: y.MM.dd
+    addBehavior: childOfDomain
+    firstDayOfWeek: 1
+dendronVersion: 0.50.0
