@@ -17,7 +17,10 @@ These Apps **have** to be on my phone for it to be usable to me.
 - Comms: WhatsApp, Telegram, Mattermost
 - Socials: Twitter, Instagram, YouTube, Reddit (duh)
 - Amazon, Kickstarter (gotta keep consuming)
-- Finance Stuff (Banking, Crypto)
+- Finance Stuff (Banking, Crypto
+    - Sparkasse
+    - Revolut
+    - Coinbase
 - Dev
   - Working Copy (for [[git]] on the go)
   - GitHub
@@ -40,6 +43,27 @@ I also enjoyed:
 - GarageBand
 - Flip
 - AutoTune
+
+## Configuration
+
+## Focus modes
+
+I have focuses set up for different situations:
+- Default (at home, entertainment and gaming)
+- Sleep (dark, minimal home screen)
+- Work (apps related to my workplace, block distractions)
+- Travel (quick access to travel related functions)
+- Shopping (activates in certain stores and shows my shopping list/wallet)
+- Coding (for [[shortcuts]] development)
+- Piano (while making [[music]])
+- Driving
+
+Each of these modes has a related lock screen and watch face, which automatically activate when the focus is turned on.
+### Control Center
+![Settings](./assets/control-center-config.jpeg)
+⬆️ This config results in this control center view ⬇️
+
+![Result](./assets/control-center.jpg)
 
 ## See also
 - [[macos]]
