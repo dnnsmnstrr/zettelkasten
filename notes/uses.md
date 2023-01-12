@@ -25,7 +25,7 @@ A list of what I use:
 - [[raycast]]
 - [Sketch](https://www.sketch.com/)
 - [Obsidian](https://obsidian.md/)
-- Bitwarden
+- [[bitwarden]]
 
 ### Dev
 - [[atom]] - [as long as it keeps working](https://github.blog/2022-06-08-sunsetting-atom/)
