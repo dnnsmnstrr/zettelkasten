@@ -19,3 +19,6 @@ sequenceDiagram
     John-->>Alice: Great!
     deactivate John
 ```
+
+## Working copy
+This is a change made in [[obsidian]] on iOS, to see if it is registered by working copy. 
