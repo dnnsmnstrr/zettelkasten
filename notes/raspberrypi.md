@@ -29,6 +29,9 @@ My Pi Collection
 - [HomeAssistant](https://www.home-assistant.io/)
 
 ## Commands
+### Config
+`raspi-config`
+
 ### Update
 
 ```
@@ -59,6 +62,19 @@ sudo rm -v /var/log/*.gz
 sudo find / -type f -size +100M
 
 
+```
+
+## Networking
+
+### Wifi Setup
+
+wpa_supplicant
+
+```
+network={
+	ssid="SSID"
+	psk=PASSWORD
+}
 ```
 
 ## Docker

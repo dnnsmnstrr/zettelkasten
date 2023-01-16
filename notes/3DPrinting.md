@@ -16,6 +16,9 @@ I tend to create modular designs using proven systems like [Polypanels](https://
 My Octoprint instance runs on a [Raspberry Pi](./raspberrypi.md) Model 3b and lets me control my printer over the local network. ([Don't just make your printer available to the public internet](https://octoprint.org/blog/2018/09/03/safe-remote-access/))
 
 ### Plugins
+- Creality Temperature Fix
+- OctoEverwhere
+
 ## Things I Printed
 - IKEA Hooks (Skadis, Tertial, Tisken)
 - Tube Squeezer
