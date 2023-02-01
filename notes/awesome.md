@@ -11,6 +11,7 @@ My own awesome list.
 ## Fun
 - [xkcd](https://xkcd.com/)
 - [reddit](https://reddit.com/)
+- [neal.fun](https://neal.fun/)
 
 ## AI
 
