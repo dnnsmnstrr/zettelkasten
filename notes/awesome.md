@@ -11,6 +11,8 @@ My own awesome list.
 ## Fun
 - [xkcd](https://xkcd.com/)
 - [reddit](https://reddit.com/)
+- [chaosweb.space](https://chaosweb.space)
+- [uselessweb.com](https://uselessweb.com/)
 
 ## AI
 

@@ -25,3 +25,8 @@ I also created a [web-application](https://github.com/dnnsmnstrr/sortify) that l
 - [Fridl's Favs](https://open.spotify.com/playlist/33vCplTPGsGXm2k5GhM3tb?si=OEuS_AhARryCD30M6yr4VA)
 
 - [Discover Together](https://discover-together.com/): [generates a playlist with combined music tastes](https://discover-together.com/shared/54a5685e8a2b48d7bf998507c0dedc22)
+
+### stats.fm
+<https://stats.fm/dennismuensterer>
+
+[[macos]] client: <https://apps.apple.com/us/app/specter-for-stats-fm/id1623301585>

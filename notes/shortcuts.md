@@ -21,9 +21,9 @@ Shortcuts are supported on [[ios]], [[macos]] and Apple Watch
 
 ### Dependencies
 Some of my shortcuts rely on other apps to function.
-- Shortcutify - Airtable & Spotify API
-- Scriptable - [[js]]-Runtime
+- [[scriptable]] - [[js]]-Runtime
 - Data Jar - [[json]] storage
+- Shortcutify - Airtable & Spotify API
 
 ## Resources
 - [Reddit](https://www.reddit.com/r/shortcuts/comments/gzjgbr/list_of_helpful_links_for_shortcuts_information/)

@@ -5,12 +5,27 @@ tags:
 - apple
 ---
 # iOS
-I recently upgraded from an iPhone 6s to the 13 mini. In doing so, I was able to try things that I've been waiting years to do:
+
+The last upgrade of my [[stack]] was from an iPhone 6s to the 13 mini. In doing so, I was able to try things that I've been waiting years to do:
 - Automations using NFC Tags
-- Tap Gestures (3 Taps for Flashlight is super useful)
+- Download all my liked songs on [[spotify]]
+- Use FaceID
+
+## Steps to reset the OS
+
+1. Update list of important apps
+2. Ensure all important data is stored to the cloud or backed up on separate device(s)
+3. Unpair Apple Watch
+4. Erase data and content
+5. Wait for device to reset
+6. Log in
+
+## See also
 
 ## Apps
+
 ### Must-Have
+
 These Apps **have** to be on my phone for it to be usable to me.
 
 - [[spotify]]
@@ -18,15 +33,16 @@ These Apps **have** to be on my phone for it to be usable to me.
 - Socials: Twitter, Instagram, YouTube, Reddit (duh)
 - Amazon, Kickstarter (gotta keep consuming)
 - Finance Stuff (Banking, Crypto
-    - Sparkasse
-    - Revolut
-    - Coinbase
+  - Sparkasse
+  - Revolut
+  - Coinbase
 - Dev
   - Working Copy (for [[git]] on the go)
   - GitHub
   - Scriptable, Data Jar, Shortcutify (dependencies for [[shortcuts]])
 
 ### Games
+
 My go-to for killing some time is Threes.
 I also enjoyed:
 
@@ -44,11 +60,12 @@ I also enjoyed:
 - Flip
 - AutoTune
 
-## Configuration
+- ## Configuration
 
 ## Focus modes
 
 I have focuses set up for different situations:
+
 - Default (at home, entertainment and gaming)
 - Sleep (dark, minimal home screen)
 - Work (apps related to my workplace, block distractions)
@@ -59,7 +76,9 @@ I have focuses set up for different situations:
 - Driving
 
 Each of these modes has a related lock screen and watch face, which automatically activate when the focus is turned on.
+
 ### Control Center
+
 ![Settings](./assets/control-center-config.jpeg)
 ⬆️ This config results in this control center view ⬇️
 
@@ -71,4 +90,4 @@ Each of these modes has a related lock screen and watch face, which automaticall
 
 ---
 
-This text was written in [[obsidian]] on my iPhone
+This file was created in [[obsidian]] on my iPhone
