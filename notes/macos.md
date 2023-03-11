@@ -26,6 +26,11 @@ Some open source apps I use daily:
 - [[brew]]
 - [Mattermost](https://mattermost.com/) and [Jitsi Meet](https://github.com/jitsi/jitsi-meet-electron) for Work
 
+Other useful apps:
+
+- [MonitorControl](https://github.com/MonitorControl/MonitorControl) - Control Brightness, Volume, Contrast, Input Source, Resolution, etc. of your external monitors
+- Genki Arcade - Connect with the [ShadowCast](https://www.genkithings.com/products/shadowcast) to view HDMI input via USB-C
+-
 ## Development
 - Xcode
 
