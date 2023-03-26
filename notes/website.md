@@ -7,11 +7,11 @@ tags:
 
 # [My website](https://dnnsmnstrr.github.io)
 
-|[muensterer.whateverdomainwascheapest](https://dnnsmnstrr.github.io)|
+|[View my homepage](https://dnnsmnstrr.github.io)|
 |---|
 
 
-Hosting on Github [[pages]] is free, but domains usually are not, so I tend to switch domains fairly regularly (whenever renewal would be too expensive).
+Hosting on Github [[pages]] is free, but domains usually are not, so I tend to switch domains fairly regularly (whenever renewal would be too expensive). Due to this reason, I usually use `<https://dnnsmnstrr.github.io>` as the url in most places, which automatically redirects to the current domain.
 
 Some domains I've had:
 - muensterer.tech
@@ -19,13 +19,11 @@ Some domains I've had:
 - muensterer.link
 - muensterer.codes (managed by name.com)
 
-I also made a personal [[api]], which provides data to some of my #[[projects]], as well as a [[redirect]] service with dynamic aliases, so I don't have to remember any links.
+## API
+I also run a personal [[api]] service on Vercel, which provides data to some of my [[projects]], as well as a [[redirect]] service with dynamic aliases, so I don't have to remember any links and can just add what I'm looking for to the url of my website.
 
-Currently, I am working on an extension to the website using [kbar](https://github.com/timc1/kbar). This will enable an [[alfred]]-like interface directly within the page. Try it with <kbd>⌘</kbd> + <kbd>k</kbd>
 
 <iframe src="https://dnnsmnstrr.github.io" title="Current website" width='100%' height='500px'></iframe>
-
-[[social]]
 
 ## DNS
 
@@ -41,6 +39,14 @@ CNAME & Redirect setup:
 | *       | https://dnnsmnstrr.vercel.app/api/redirect    |
 
 Just for fun, I've set up the pages deployment to work with [Cloudflare](https://dash.cloudflare.com).
+
+## Build configuration
+
+Initially, I used [Jekyll](https://jekyllrb.com/) to build my website, but I'm migrating to [eleventy](https://www.11ty.dev/) now.
+
+Currently, I am working on an extension to the website using [kbar](https://github.com/timc1/kbar). This will enable an [[alfred]]-like interface directly within the page. Try it with <kbd>⌘</kbd> + <kbd>k</kbd>
+Since it uses react, I have to create a bundle with webpack, which is then included in the page.
+
 ## Cool Websites
 
 - https://theuselessweb.com/

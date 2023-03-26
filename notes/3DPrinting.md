@@ -15,6 +15,10 @@ I tend to create modular designs using proven systems like [Polypanels](https://
 ## [Octoprint](https://octoprint.org/)
 My Octoprint instance runs on a [Raspberry Pi](./raspberrypi.md) Model 3b and lets me control my printer over the local network. ([Don't just make your printer available to the public internet](https://octoprint.org/blog/2018/09/03/safe-remote-access/))
 
+### Setup
+- [Octoprint on Raspberry Pi](https://community.octoprint.org/t/guide-install-octoprint-on-a-raspberry-pi-running-raspbian/2337)
+- Printer Profile: CR6-SE
+  - Bed Size: 235 x 235 x 250
 ### Plugins
 - Creality Temperature Fix
 - OctoEverwhere
