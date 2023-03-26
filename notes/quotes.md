@@ -7,6 +7,14 @@ tags:
 
 # Quotes
 
+These are some quotes I like or picked up somewhere.
+
+---
+
+> Don't be a dick
+
+[Wil Wheaton](http://www.wheatonslaw.com/)
+
 ---
 
 > The cost of perfection is infinite
@@ -22,3 +30,22 @@ tags:
 > If I had eight hours to chop down a tree, I'd spend six sharpening my axe
 
 Abraham Lincoln
+
+---
+
+>Design concerns itself with the overall formal solution to a problem [of building]
+
+George Nelson
+
+---
+
+> The best way to predict the future is to invent it
+
+Alan Kay
+
+---
+
+> Egal was du machst, mach's gut
+
+My grandpa
+

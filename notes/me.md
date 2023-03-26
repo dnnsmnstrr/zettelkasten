@@ -4,8 +4,37 @@ tags:
   - narcissism
 ---
 
-# Me
+# About Me
 
-I'm Dennis.
+I'm Dennis. I'm a 26 year old software developer and maker.
+## Infos
+- Born on 1997-06-16
+- Living in Mainz, Germany
+
+## Interests
+- Coding ([[dev]])
+- Making
+- [[music]]
+- [[gaming]]
+
+## Q&A
+
+> What do you do for a living?
+
+I'm a software developer at [hpm](https://hpm.agency/).
+
+> What do you do in your free time?
+
+Kinda the same as above, but I also like to make and watch stuff and play music or games.
+
+> What's your favorite quote or saying?
+
+Kein Backup, kein Mitleid. (No backup, no mercy.)
+
+> Do you prefer spending time indoors or outdoors?
+
+Definitely more of an indoor person.
+
 ## Videos I appear in
+
 - [Techfest 2019 Aftermovie](https://youtu.be/Xome8IQpqhI?t=21)
