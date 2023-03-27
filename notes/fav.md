@@ -33,6 +33,6 @@ Mainly german **hip hop**, but also rap and pop in german or english.
 
 💻 For coding I have my [1337 h4x0r Playlist](https://www.youtube.com/playlist?list=PLCX8_v91hH7oM7LJ7J8jjSNcf9SYGXfOt) (also on [[spotify]])
 
-## Food
+## [[food]]
 - Pizza (it's only real pizza in Naples) 🍕
 - Sushi 🍣
