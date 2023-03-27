@@ -14,6 +14,10 @@ My own awesome list.
 - [neal.fun](https://neal.fun/)
 - [chaosweb.space](https://chaosweb.space)
 - [uselessweb.com](https://uselessweb.com/)
+- [r/place visualization](https://rplace-community.github.io/visualization/)
+- https://alteredqualia.com/three/examples/webgl_pasta.html
+- https://www.autodraw.com/
+
 
 ## AI
 

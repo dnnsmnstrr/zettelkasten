@@ -23,9 +23,9 @@ Some of the things I like most. ❤️
 
 ## Books 📚
 
-- The Martian
-- Qualityland
-- Limit
+- The Martian - Andy Weir
+- Qualityland - Marc-Uwe Kling
+- Limit - Frank Schätzing 
 
 ## [[music]]
 

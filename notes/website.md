@@ -47,9 +47,7 @@ Initially, I used [Jekyll](https://jekyllrb.com/) to build my website, but I'm m
 Currently, I am working on an extension to the website using [kbar](https://github.com/timc1/kbar). This will enable an [[alfred]]-like interface directly within the page. Try it with <kbd>⌘</kbd> + <kbd>k</kbd>
 Since it uses react, I have to create a bundle with webpack, which is then included in the page.
 
-## Cool Websites
-
-- https://theuselessweb.com/
-- [r/place visualization](https://rplace-community.github.io/visualization/)
-- https://alteredqualia.com/three/examples/webgl_pasta.html
-- https://www.autodraw.com/
+## Other Domains
+- https://dnnsmnstrr.onuniverse.com/
+- https://y.at/🤖💻📱⌚🎧
+- muensterer.crypto
