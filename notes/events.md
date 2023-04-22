@@ -13,30 +13,7 @@ date: '2022-08-22T00:00:00.000Z'
 
 # Events
 
-## Festivals
-
-I go to festivals for the [[music]], not to waste time on the camping .
-
-Where I've been to:
-
-| Name            | Year |
-| --------------- | ---- |
-| Splash          | 2015 |
-| Rock am Ring    | 2016 |
-| Puls Open Air   | 2017 |
-| Kosmonaut       | 2017 |
-| Highfield       | 2017 |
-| Stadt ohne Meer | 2021 |
-| Highfield       | 2022 |
-
-### Camping Checklist
-What to remember for the camping part:
-- Prepare for every type of weather (warm, wet, cold)
-	- Bring watertight shoes or crocs
-	- A rain poncho is a must
-- Make sure your tent is waterproofed before leaving to the festival area
-- Have enough dry clothes (especially socks) in a place that **will not** get wet
-- Ear plugs are a good idea in case things get too loud
+When it's possible and I don't have to stay at home because of a pandemic, I like going to events, especially those with music. 
 
 ## Concerts
 
@@ -59,3 +36,39 @@ A list of concerts I've been to:
 | Mine | 2022-10-20 | Schlachthof Wiesbaden |
 | Casper | 2022-12-13 | Palladium, Köln |
 | Dermot Kennedy | 2023-03-15 | Jahrhunderthalle Frankfurt |
+
+## Festivals
+
+Where I've been to:
+
+| Name            | Year |
+| --------------- | ---- |
+| Splash          | 2015 |
+| Rock am Ring    | 2016 |
+| Puls Open Air   | 2017 |
+| Kosmonaut       | 2017 |
+| Highfield       | 2017 |
+| Stadt ohne Meer | 2021 |
+| Highfield       | 2022 |
+
+I go to festivals for the [[music]], not to waste time on the camping grounds. But I do enjoy camping, when I can be well prepared:
+
+### Camping Checklist
+What to remember for the camping part:
+- Prepare for every type of weather (warm, **wet**, cold)
+	- Bring watertight shoes or crocs
+	- A rain poncho is a must
+- Make sure your tent is waterproofed before leaving to the festival area
+- Have enough dry clothes (especially socks) in a place that **will not** get wet
+- Ear plugs are a good idea in case things get too loud
+
+
+## Hackathons 
+
+| Name                       | Year | Location |
+| -------------------------- | ---- | -------- |
+| Funk Hackday for Democracy | 2017 | Mainz    |
+| Techfest 17                | 2017 | Munich   |
+| [Rütüta](https://www.ruetueta.de/)                  | 2019 | Rüspel   |
+| Techfest 19                | 2019 | Munich   |
+| Medienberghack 19          | 2019 | Mainz    |

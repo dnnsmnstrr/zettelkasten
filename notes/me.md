@@ -7,6 +7,9 @@ tags:
 # About Me
 
 I'm Dennis. I'm a 26 year old software developer and maker.
+
+Find out what I'm doing [[now]]. 
+
 ## Infos
 - Born on 1997-06-16
 - Living in Mainz, Germany
@@ -37,4 +40,5 @@ Definitely more of an indoor person.
 
 ## Videos I appear in
 
-- [Techfest 2019 Aftermovie](https://youtu.be/Xome8IQpqhI?t=21)
+- [Techfest 2019 Aftermovie](https://youtu.be/Xome8IQpqhI?t=21) (0:22 on the left)
+- [Medienberghack](https://fb.watch/k3j6CB-NTd/) (1h9m)
