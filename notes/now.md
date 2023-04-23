@@ -21,5 +21,6 @@ Plan on going to the Stadt Ohne Meer and Oben Ohne Open Air festivals this summe
 I can't wait for the [Deutschlandticket](https://www.bahn.de/angebot/regio/deutschland-ticket) to launch, it will allow me to travel through Germany more. 
 
 ## Links 
+- [nownownow.com profile](https://nownownow.com/p/xPQ6)
 - [Derek Sivers - The now page movement](https://sive.rs/nowff)
 - [What is a now page?](https://nownownow.com/about)

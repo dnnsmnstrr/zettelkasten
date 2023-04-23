@@ -62,6 +62,7 @@ What to remember for the camping part:
 - Have enough dry clothes (especially socks) in a place that **will not** get wet
 - Ear plugs are a good idea in case things get too loud
 
+[Here](https://icloud.com/reminders/template/61F1478E-9A6C-4418-BBFF-8F2B34F3F712#Festival_Checklist) is a link to an iOS reminders template checklist. 
 
 ## Hackathons 
 
