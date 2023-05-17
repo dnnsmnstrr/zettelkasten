@@ -1,3 +1,10 @@
+---
+id: wwoja59vrylovpyib66ikcs
+title: Now
+desc: ''
+updated: 1684359616824
+created: 1684359616824
+---
 ## What I’m doing now 
 
 > Last updated: 2023-05-02

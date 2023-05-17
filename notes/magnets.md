@@ -1,3 +1,10 @@
+---
+id: 9nigr3dz4oi3n6gznutun2e
+title: Magnets
+desc: ''
+updated: 1684359616820
+created: 1684359616820
+---
 # Magnets
 
 As a big fan of magnets, my collection of magnetic things is ever growing. 

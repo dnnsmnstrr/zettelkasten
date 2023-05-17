@@ -1,3 +1,10 @@
+---
+id: wz2gqxnclzb8vg08nya02ci
+title: Clipboard
+desc: ''
+updated: 1684359616816
+created: 1684359616816
+---
 # Clipboard 
 
 The clipboard is one of the most important tools of a developer. Some things I have learned/routines I have started following:
