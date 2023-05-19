@@ -7,7 +7,7 @@ created: 1684359616824
 ---
 ## What I’m doing now 
 
-> Last updated: 2023-05-02
+> Last updated: 2023-05-20
 
 
 Living in: Mainz, Germany
@@ -15,6 +15,10 @@ Living in: Mainz, Germany
 Working at: [hpm GmbH](https://web.hpm.agency) 
 
 Current [theme](https://www.themesystem.com/) : `The year of documentation`
+
+In the beginning of 2023, I began [[journaling]] with Day One. My goal is to make one entry a day for at least one entire year. 
+I heard Apple might be [making their own journaling app](https://9to5mac.com/2023/04/21/apple-journaling-app/), which I'm excited for. 
+
 #### [[music]]
 Listening to: https://open.spotify.com/playlist/3T8e2O5sYOVqSERJnmTqvL
 
@@ -25,9 +29,6 @@ Listening to: https://open.spotify.com/playlist/3T8e2O5sYOVqSERJnmTqvL
 Currently reading: "Hass" by [Şeyda Kurt](https://seydakurt.de/buecher/)
 
 #### [[projects]]
-
-In the beginning of 2023, I began [[journaling]] with Day One. My goal is to make one entry a day for at least one entire year. 
-I heard Apple might be [making their own journaling app](https://9to5mac.com/2023/04/21/apple-journaling-app/), which I'm excited for. 
 
 While playing piano, I got frustrated by the Ultimate Guitar Tabs app, so I'm building my own chords app with Expo and React Native. 
 
