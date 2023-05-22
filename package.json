@@ -11,14 +11,11 @@
     "live": "reload -b -d ~/zettelkasten/notes/.neuron/output",
     "dev": "npx dendron publish dev",
     "build": "npx dendron publish export --target github --yes",
-    "new": "cd notes && yo zettel",
-    "flower": "npx flowershow"
-  },
-  "devDependencies": {
-    "dendron": "^0.18.0",
-    "next": "^13.4.3"
+    "flower": "npx flowershow install && npx flowershow export"
   },
   "dependencies": {
-    "@dendronhq/dendron-cli": "^0.122.0"
+    "@dendronhq/dendron-cli": "^0.122.0",
+    "flowershow": "^0.1.8",
+    "next": "^13.4.3"
   }
 }
