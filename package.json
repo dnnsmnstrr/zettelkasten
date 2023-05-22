@@ -11,7 +11,8 @@
     "live": "reload -b -d ~/zettelkasten/notes/.neuron/output",
     "dendron": "dendron publish build && npx next dev",
     "build": "npx dendron publish export --target github --yes",
-    "new": "cd notes && yo zettel"
+    "new": "cd notes && yo zettel",
+    "flower": "npx flowershow"
   },
   "dependencies": {
     "generator-zettel": "^0.1.3"
