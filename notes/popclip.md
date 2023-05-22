@@ -16,10 +16,28 @@ Popclip offers many [extensions](https://pilotmoon.com/popclip/extensions/), I l
 - [Formatting](https://pilotmoon.com/popclip/extensions/ext/Formatting.popclipextz)
 - [Run in Terminal](https://pilotmoon.com/popclip/extensions/ext/RunCommand.popclipextz)
 - [Sort selected Lines](https://pilotmoon.com/popclip/extensions/ext/Sort.popclipextz)
+- [ChatGPT](https://pilotmoon.com/popclip/extensions/ext/ChatGPT.popclipext) [[ai]]
 
 ### Extension Snippets
-It is possible to create extensions using code snippets. Here are some of my own creations:
+It is possible to create extensions using code [snippets](https://github.com/pilotmoon/PopClip-Extensions#snippets). Here are some of my own creations:
 
+#### Prompt
+Use this prompt with [[ChatGPT]] to quickly [create extensions](https://twitter.com/PopClipApp/status/1639020436183977986?s=20).
+
+```txt
+I want you to act as a PopClip extension creator. I will describe what the extension should do, and you should reply with the extension code, with no additional text.
+Here is an example of a PopClip extension:
+
+// #popclip
+// name: Remove Periods
+// icon: •X
+// language: javascript
+const noPeriodsText = popclip.input.text.replace (/ /g, "');
+popclip.pasteText (noPeriodsText);
+
+Note the name should be short (16 chars or less) and the icon should be one or two characters.
+As a test, please create an extension to make the text all caps.
+```
 
 #### Copy URL from address bar as markdown link with title
 ```yaml

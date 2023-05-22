@@ -32,7 +32,7 @@ In my projects, I use a variety of tools.
 - Dremel
 
 ### Software
-- Atom [[ide]]
+- VSCode as my main [[ide]]
 - [TinkerCAD](https://tinkercad.com)
 - GitHub
 - [[neuron]]

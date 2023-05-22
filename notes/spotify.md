@@ -7,7 +7,7 @@ tags:
 
 # [Spotify](https://open.spotify.com/user/dennismuensterer)
 
-I listen to a lot of #[[music]]. That's why I make a new playlist every season [🌸](https://open.spotify.com/playlist/68z163CKUImi0QB6ZpSigr?si=u5CbZui-SAuTb9udvsVK7A)[☀️](https://open.spotify.com/playlist/5wpb3PdQOzFb3jurTcVfZO?si=3C2uBhR7Svm9PSTnapgSMA)[🍂](https://open.spotify.com/playlist/22XncHS02W5RWJ1yM4lV6l?si=x9BbzrhZSY-RSzYG0-4vIQ)[❄️](https://open.spotify.com/playlist/67SvJfEofXhdIXwsuUJbCJ?si=9IJxvMugQnWxrDdG0TzCFg)
+I listen to a lot of [[music]]. That's why I make a new playlist every season [🌸](https://open.spotify.com/playlist/68z163CKUImi0QB6ZpSigr?si=u5CbZui-SAuTb9udvsVK7A)[☀️](https://open.spotify.com/playlist/5wpb3PdQOzFb3jurTcVfZO?si=3C2uBhR7Svm9PSTnapgSMA)[🍂](https://open.spotify.com/playlist/22XncHS02W5RWJ1yM4lV6l?si=x9BbzrhZSY-RSzYG0-4vIQ)[❄️](https://open.spotify.com/playlist/67SvJfEofXhdIXwsuUJbCJ?si=9IJxvMugQnWxrDdG0TzCFg)
 
 My playlists are also documented on a [Universe page](https://dnnsmnstrr.onuniverse.com/playlists) (there's a [[gif]] for every playlist)
 
@@ -27,6 +27,7 @@ I also created a [web-application](https://github.com/dnnsmnstrr/sortify) that l
 - [Discover Together](https://discover-together.com/): [generates a playlist with combined music tastes](https://discover-together.com/shared/54a5685e8a2b48d7bf998507c0dedc22)
 
 ### stats.fm
-<https://stats.fm/dennismuensterer>
 
-[[macos]] client: <https://apps.apple.com/us/app/specter-for-stats-fm/id1623301585>
+- https://stats.fm/dennismuensterer
+
+[[macos]] client: https://apps.apple.com/us/app/specter-for-stats-fm/id1623301585

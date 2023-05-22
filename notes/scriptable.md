@@ -11,6 +11,5 @@ tags:
 
 ## Resources
 
-- <https://scriptable.app/>
-- <https://www.scriptables.net/>
--
+- https://scriptable.app/
+- https://www.scriptables.net/

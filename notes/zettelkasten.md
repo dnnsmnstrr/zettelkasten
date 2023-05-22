@@ -9,7 +9,7 @@ tags:
 
 My personal slip box. An alternate version, built using [[dendron]] can be found [here](https://dnnsmnstrr.gitlab.io/zettelkasten)
 
-> I put my Zettel in my [`Zettelkasten`](https://zettelkasten.de/).
+> I put my Zettel in my [Zettelkasten](https://zettelkasten.de/).
 
 ![slip box](https://media4.giphy.com/media/ge91zAgmwUqLMqiH2c/giphy.gif?cid=e1bb72ffpcvcbkvqi068930dca8vu10rmrvlh9eilyijdryy&rid=giphy.gif)
 
@@ -39,5 +39,3 @@ My [Zettelkasten-Workflow](https://github.com/dnnsmnstrr/alfred-zettelkasten) fo
 - https://wiki.nikitavoloboev.xyz/other/wiki-workflow#links
 - https://intersect.rknight.me/
 - https://github.com/MaggieAppleton/digital-gardeners
-
-<z:zettels?tag=zettelkasten>

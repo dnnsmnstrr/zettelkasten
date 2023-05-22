@@ -99,12 +99,12 @@ icon: {
 const { VARIABLE } = process.env;
 ```
 
-- <https://www.alfredforum.com/topic/9070-handling-workflowenvironment-variables/>
+- [](https://www.alfredforum.com/topic/9070-handling-workflowenvironment-variables/)
 
 # External Links
 
 - [Alfred Gallery](https://alfred.app) - Official Workflow Gallery
-- [BTT Workflow](https://alfred.app/workflows/dnnsmnstrr/btt/) by me (<https://github.com/dnnsmnstrr/alfred-btt>)
+- [BTT Workflow](https://alfred.app/workflows/dnnsmnstrr/btt/) by me (https://github.com/dnnsmnstrr/alfred-btt)
 - [Cheatsheet](https://www.alfredapp.com/help/getting-started/cheatsheet/)
 - [Script Filter JSON API](https://www.alfredapp.com/help/workflows/inputs/script-filter/json/)
 - [Emoji Snippets](joelcalifa.com/blog/alfred-emoji-snippet-pack)
