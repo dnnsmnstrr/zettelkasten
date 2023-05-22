@@ -32,6 +32,7 @@ My [Zettelkasten-Workflow](https://github.com/dnnsmnstrr/alfred-zettelkasten) fo
 ## Deployments
 - [[pages]] at https://dnnsmnstrr.github.io/zettelkasten
 - [[dendron]] at https://dnnsmnstrr.gitlab.io/zettelkasten/
+- [Flowershow](https://flowershow.app/) at https://zettelkasten-flowershow.vercel.app/
 - [GitHub](https://github.com/dnnsmnstrr/zettelkasten)
 
 ## Resources

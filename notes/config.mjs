@@ -5,7 +5,7 @@ const title = "Dennis' Zettelkasten";
 const config = {
   title,
   description: "A digital garden for my notes and thoughts.",
-  author: firstname,
+  author: ' ' + firstname,
   domain: HOME,
   navBarTitle: {
     text: title,

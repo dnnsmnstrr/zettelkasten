@@ -18,6 +18,10 @@ My own awesome list.
 - https://alteredqualia.com/three/examples/webgl_pasta.html
 - https://www.autodraw.com/
 
+## Tech
+
+- https://win11.yashash.dev/
+- https://40-years.accel.com/
 
 ## AI
 
