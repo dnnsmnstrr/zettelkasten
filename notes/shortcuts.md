@@ -49,6 +49,6 @@ Some of my shortcuts rely on other apps to function.
 - [MacExpertGuide](https://macexpertguide.com/how-to-use-siri-shortcuts-in-the-new-ios-14/)
 
 ### Sharing
-- <https://routinehub.co/user/dnnsmnstrr>
+- https://routinehub.co/user/dnnsmnstrr
 - My first public shortcut: [Personal Links](https://routinehub.co/shortcut/14052)
 - [Prompts](https://routinehub.co/shortcut/1459) - Store and quickly access your ChatGPT prompts

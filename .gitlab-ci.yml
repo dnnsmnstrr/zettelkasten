@@ -8,7 +8,6 @@ pages:
   image: node:14
   script:
     - npm install
-    - npm install -g @dendronhq/dendron-cli
     - (test -d .next) && (echo 'updating dendron next...' && cd .next && git reset --hard && git clean -f && git pull) || (echo 'init dendron next' && npx dendron publish init)
     - cd .next && npm install && cd ..
     - npx dendron publish build

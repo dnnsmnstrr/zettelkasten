@@ -23,9 +23,6 @@ At the [Apple Developer Academy](https://www.developeracademy.unina.it/en/), we 
     - Solution Development
     - Implementation & Evaluation
 
-## Project-Based-Learning
-<!-- TODO -->
-
 ## Resources
 A big part of this repo is inspired by  [@nikitavoloboev's]() [wiki](https://wiki.nikitavoloboev.xyz)
 
