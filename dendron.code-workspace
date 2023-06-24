@@ -1,17 +1,9 @@
 {
     "folders": [
-      {
-        "name": "zettelkasten",
-        "path": "."
-      },
-      {
-        "name": "dendron.templates",
-        "path": "seeds/dendron.templates/templates"
-      },
-      {
-        "name": "dendron.tldr",
-        "path": "seeds/dendron.tldr/vault"
-      }
+        {
+            "name": "zettelkasten",
+            "path": "."
+        }
     ],
     "settings": {
         "dendron.rootDir": ".",

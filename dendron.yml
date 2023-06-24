@@ -1,4 +1,6 @@
 version: 5
+dev:
+    enablePreviewV2: true
 commands:
     lookup:
         note:
@@ -21,17 +23,6 @@ commands:
     templateHierarchy: template
 workspace:
     dendronVersion: 0.109.1
-    vaults:
-        -
-            fsPath: templates
-            seed: dendron.templates
-            name: dendron.templates
-        -
-            fsPath: vault
-            seed: dendron.tldr
-            name: dendron.tldr
-        -
-            fsPath: notes
     journal:
         dailyDomain: daily
         name: journal
@@ -80,14 +71,6 @@ workspace:
     enableEditorDecorations: true
     enableFullHierarchyNoteTitle: false
     enableSmartRefs: false
-    seeds:
-        dendron.tldr:
-            site:
-                url: https://tldr.dendron.so
-                index: cli
-        dendron.templates: {}
-dev:
-    enablePreviewV2: true
 preview:
     enableFMTitle: false
     enableNoteTitleForLink: true
@@ -100,19 +83,13 @@ preview:
 publishing:
     enableFMTitle: false
     enableNoteTitleForLink: true
-    enableMermaid: true
     enablePrettyRefs: true
     enableKatex: true
     copyAssets: true
     siteHierarchies:
         - root
-    enableSiteLastModified: true
-    siteRootDir: docs
-    siteUrl: https://dnnsmnstrr.gitlab.io/zettelkasten
-    enableFrontmatterTags: true
-    enableHashesForFMTags: false
-    enableRandomlyColoredTags: true
     writeStubs: false
+    siteRootDir: docs
     seo:
         title: Zettelkasten
         description: Personal knowledge space
@@ -121,11 +98,12 @@ publishing:
         editLinkText: Edit this page on GitHub
         editBranch: main
         editViewMode: tree
-    enablePrettyLinks: true
+    enableSiteLastModified: true
+    enableFrontmatterTags: true
+    enableHashesForFMTags: false
+    enableRandomlyColoredTags: true
     enableTaskNotes: true
-    duplicateNoteBehavior:
-        action: useVault
-        payload:
-            - dendron.tldr
-            - notes
-            - dendron.templates
+    enablePrettyLinks: true
+    searchMode: lookup
+    enableMermaid: true
+    siteUrl: https://dnnsmnstrr.gitlab.io/zettelkasten
