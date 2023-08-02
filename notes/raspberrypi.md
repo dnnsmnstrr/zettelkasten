@@ -15,6 +15,7 @@ My Pi Collection
 
 ## Tools
 - [PiKISS](https://github.com/jmcerrejon/PiKISS)
+- [SD Card Formatter](https://www.sdcard.org/downloads/formatter/) - for when you want to make an sdcard usable after burning an OS to it
 
 ## Images
 - [RetroPie](https://retropie.org.uk/)

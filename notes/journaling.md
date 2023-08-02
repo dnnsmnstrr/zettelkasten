@@ -40,3 +40,7 @@ Who was I here with?
 
 #### [[shortcuts]]
 The shortcuts integration lets me put a link to create a daily summary directly on my home screen, which I only display in my sleep [[focus]].
+
+## Gratitude Journaling
+
+- Be specific about what made you happy (daily highlight)
