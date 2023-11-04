@@ -73,9 +73,9 @@ A list of what I use:
 - AirTag and other Trackers compatible with the Find-My-Network
 
 ### Smarthome
-- Home Assistant with Zigbee-USB-Receiver
+- Home Assistant Yellow
 - Philips Hue and different compatible lights (Innr, Ledvance/Osram)
-- Amazon Alexa: some Echo Dots, a Show 5 and Flex with motion sensor
+- Amazon Alexa: some Echo Dots, an Echo Pop, a Show 5 and Flex with motion sensor
 
 ### Tools
 See also: [[makerer]]

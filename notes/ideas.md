@@ -14,7 +14,8 @@ A list of things I want to make. Some of them might become [[projects]].
 - [ ] AI-music-generator
 - [ ] Custom Font (https://fontforge.org/en-US/)
 - [ ] [Gist](https://developer.github.com/v3/gists/) API generator
-- [ ] - [x] E-Cajon
+- [ ] Digital advent calendar based on HSON config
+- [x] E-Cajon
 - [x] Redirect API service
 	- [ ] Fuzzy matching 	
 - [x] [Humble Key](https://www.humblebundle.com/home/keys) Distributor

@@ -9,11 +9,11 @@ tags:
 
 # Shortcuts
 
-Shortcuts are supported on [[ios]], [[macos]] and Apple Watch
+Shortcuts are supported on [[ios]], [[macos]] and Apple Watch. I love being able to customize my devices (to the extent that Apple allows, would obviously be great to get even more access)
 
 ## Automations
 
-I have lots of shortcuts for all kinds of categories:
+I have lots of shortcuts for all kinds of categories (each is a folder):
 - Homescreen - things to show on the Home Screen for quick access
 - Web - helpers for sharing, scraping or searching the Internet
 - Music - actions related to [[music]] (Playback, Spotify, Chords)
@@ -47,6 +47,7 @@ Some of my shortcuts rely on other apps to function.
 - [Reddit](https://www.reddit.com/r/shortcuts/comments/gzjgbr/list_of_helpful_links_for_shortcuts_information/)
 - [Apple Guide](https://support.apple.com/en-gb/guide/shortcuts/welcome/ios)
 - [MacExpertGuide](https://macexpertguide.com/how-to-use-siri-shortcuts-in-the-new-ios-14/)
+- [Action Directory](https://matthewcassinelli.com/sirishortcuts/actions/) by Matthew Cassinelli ([free shortcuts](https://matthewcassinelli.com/sirishortcuts/library/free/))
 
 ### Sharing
 - https://routinehub.co/user/dnnsmnstrr

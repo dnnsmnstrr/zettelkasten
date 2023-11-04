@@ -6,8 +6,8 @@ tags:
 
 # Homelab
 
-I run various services on an old Dell Optiplex PC, mostly in [[docker]] containers.
-For the OS I chose [Linux Mint](https://www.linuxmint.com/).
+My homelab journey started off by running various services on an old Dell Optiplex PC, mostly in [[docker]] containers. For the OS I chose [Linux Mint](https://www.linuxmint.com/).
+After noticing how high the power consumption of the old computer was, I switched to running multiple [[raspberrypi]] devices, totaling to just a portion of what the PC was using in energy. 
 
 ## Services
 

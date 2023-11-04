@@ -1,7 +1,7 @@
 ---
 date: 2020-08-07
 tags:
-  - music
+  - 
   - overview
 ---
 
@@ -16,5 +16,10 @@ I also play ukulele and collect various electronic instruments, such as Sample/D
 'Cause I'm lazy as f💤k, I stopped learning sheet music at some point, when I realized most popular songs can be played by simply [knowing 4 letters](https://www.youtube.com/watch?v=oOlDewpCfZQ). Thats why I mainly use [Ultimate-Guitar](https://www.ultimate-guitar.com/u/dnnsmnstrr) to save lyrics and chords I want to play. When there are no chords available, I resort to [Genius](https://genius.com/) and play the music by ear. 👂
 
 [Some songs I enjoy playing](https://open.spotify.com/playlist/5w86GPXC86kKEpbLSKVxFS?si=LpP47g6NQ1qlRj1K8Xr5ig)
+
+## Playlists 
+
+
+
 
 <script src="https://gist.github.com/dnnsmnstrr/6d09e7d0d8696eb87460c7d5370bd079.js"></script>

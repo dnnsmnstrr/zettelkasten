@@ -8,9 +8,10 @@ tags:
 
 # [BetterTouchTool](https://folivora.ai)
 
-My favorite preset: [AquaTouch](https://community.folivora.ai/t/1704)
+BTT is at the core of how I interact with [[macos]]. Most of the gestures and shortcuts I use are handled by this application. It also controls the touchbar and a stream deck where those are available. 
 
-My own customizations: [HydroTouch](https://github.com/dnnsmnstrr/HydroTouch)
+My favorite preset used to be [AquaTouch](https://community.folivora.ai/t/1704), which is sadly not being actively maintained anymore.  
+Instead, I have created my own customizations, inspired by AquaTouch: [HydroTouch](https://github.com/dnnsmnstrr/HydroTouch)
 
 
 ## Setup
@@ -20,8 +21,8 @@ My own customizations: [HydroTouch](https://github.com/dnnsmnstrr/HydroTouch)
 
 ## Development
 
-- most of my named triggers use AppleScript, slowly migrating to JavaScript where possible
-- Album Artwork path: `~/Library/Application Support/BetterTouchTool/spotify_cover.png`
+- most of my named triggers used AppleScript, which have mostly been migrated to JavaScript where possible
+- Album Artwork for the playing song is stored under this path: `~/Library/Application Support/BetterTouchTool/spotify_cover.png`
 
 ### Scripting
 Docs: https://docs.folivora.ai/docs/1106_java_script.html
@@ -30,3 +31,7 @@ Docs: https://docs.folivora.ai/docs/1106_java_script.html
 
 - [Presets gone after update](https://community.folivora.ai/t/how-can-i-restore-my-presets/14976/2)
   - BTT -> Help -> Restore Settings from Backup -> Second-most recent option in the dropdown
+
+## Links
+- https://community.folivora.ai/
+- https://docs.folivora.ai/
