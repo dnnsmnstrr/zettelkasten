@@ -49,3 +49,9 @@ Alan Kay
 
 My grandpa
 
+---
+
+> A thing of beauty is a joy forever
+
+Mary Poppins (taken from Endymion by John Keats)
+
