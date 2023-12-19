@@ -7,7 +7,7 @@ tags:
 
 # Gaming
 
-My [Steam](https://steamcommunity.com/id/dnnsmnstrr) library is full of games, mainly because I buy a lot of [Humble Bundles](https://humblebundle.com/). I've made some of my duplicate keys available at https://dnnsmnstrr.github.io/humblekeys/. Feel free to redeem a key if there are some unused ones, but please leave some for others. 🙏
+My [Steam](https://steamcommunity.com/id/dnnsmnstrr) library is full of games, mainly because I buy a lot of [Humble Bundles](https://humblebundle.com/). I've made some of my duplicate keys [freely available](https://dnnsmnstrr.github.io/humblekeys/). Check it out and snag some games, if there are some unused keys, but please leave some for others. 🙏
 
 ## Favorites
 Some of my favorite games:
@@ -30,3 +30,8 @@ A selection of my favorite gaming apps:
 | Name | Platform | Price |
 | - | - | - |
 | Threes | 🍎 | Free |
+
+## Humble Tips
+
+Install [this](https://greasyfork.org/en/scripts/40412-steam-game-marker-humble-bundle) user script to show which games are in your steam library directly in HumbleBundle.
+[This script](https://greasyfork.org/en/scripts/425225-redeem-steam-key-auto-accept-terms) will quickly redeem steam keys.
