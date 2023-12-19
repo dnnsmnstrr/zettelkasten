@@ -11,6 +11,12 @@ A launch bar similar to [[alfred]]. I have begun porting some of my workflows to
 
 ## Extensions
 
+I created an extension for [[bettertouchtool]]. It lets you search for and run named trigger commands within Raycast
+
+<a title="Install bettertouchtool Raycast Extension" href="https://www.raycast.com/dnnsmnstrr/bettertouchtool"><img src="https://www.raycast.com/dnnsmnstrr/bettertouchtool/install_button@2x.png?v=1.1" height="64" alt="" style="height: 64px;"></a>
+
+Below is a list of extensions I use.
+
 ### Developer Tools
 - https://www.raycast.com/tonka3000/gitlab
 - https://www.raycast.com/raycast/github
@@ -38,3 +44,6 @@ A launch bar similar to [[alfred]]. I have begun porting some of my workflows to
 ### Automation and [[homelab]]
 - https://www.raycast.com/tonka3000/homeassistant
 - https://www.raycast.com/GLaDO8/pie-for-pi-hole
+
+## Links
+- https://www.raycast.com
