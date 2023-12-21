@@ -27,9 +27,10 @@ IMO, the best games for VR are SUPERHOT and Beatsaber.
 I mainly play games on my [Steam Deck](https://www.steamdeck.com/).
 
 A selection of my favorite gaming apps:
-| Name | Platform | Price |
-| - | - | - |
-| Threes | 🍎 | Free |
+
+- Threes
+- Bloons TD 6
+- Candy Crush (only in short phases)
 
 ## Humble Tips
 

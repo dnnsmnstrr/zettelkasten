@@ -1,7 +1,5 @@
 ---
 date: 2022-07-15
-tags:
-	- markdown
 ---
 
 # [Gist](https://gist.github.com/)
