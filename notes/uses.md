@@ -17,7 +17,9 @@ date: '2023-08-15T00:00:00.000Z'
 A list of what I use:
 
 ## Software
+
 ### Applications
+
 - [[spotify]]
 - Google Chrome
 - [[raycast]]
@@ -26,35 +28,38 @@ A list of what I use:
 - [[bitwarden]]
 - [Logi Options+](https://www.logitech.com/en-us/software/logi-options-plus.html) for configuring my mouse and keyboard
 
-
-
 ### Web
+
 - GitHub and GitLab for version control with [[git]]
 - [[social]] media (Instagram, Twitter, etc.)
 
 #### Services
+
 - iCloud
 - Google Drive
 - Dropbox
 - Bitwarden
 
 ### Dev
+
 - [VS Code](https://code.visualstudio.com/)
 - [Xcode](https://developer.apple.com/xcode/)
 
 #### Languages
+
 - JavaScript
 - Swift
 - Python
 
 #### Frameworks
+
 - [[react]] & [[react-native]]
 - Svelte/SvelteKit
-
 
 ## Hardware
 
 ### Devices
+
 - iPhone 13 mini
 - MacBook Pro 13"
 - Apple Watch Series 6
@@ -65,6 +70,7 @@ A list of what I use:
 - Elgato Stream Deck
 
 ### Accessories
+
 - Logitech [[mxmaster]] 3 & [Lift vertical mouse](https://www.logitech.com/en-us/products/mice/lift-vertical-ergonomic-mouse.html)
 - Keychron K2 (mechanical bluetooth keyboard with macOS-Layout)
 - Logi MX Keys Mini
@@ -73,16 +79,20 @@ A list of what I use:
 - AirTag and other Trackers compatible with the Find-My-Network
 
 ### Smarthome
+
 - Home Assistant Yellow
 - Philips Hue and different compatible lights (Innr, Ledvance/Osram)
 - Amazon Alexa: some Echo Dots, an Echo Pop, a Show 5 and Flex with motion sensor
 
 ### Tools
+
 See also: [[makerer]]
+
 - Creality CR6-SE for [[3DPrinting]]
 - Dremel
 
 ## Resources
-- https://stackshare.io/dnnsmnstrr/my-stack
-- Check out other `/uses`: https://uses.tech/
-- https://usesthis.com/
+
+- <https://stackshare.io/dnnsmnstrr/my-stack>
+- Check out other `/uses`: <https://uses.tech/>
+- <https://usesthis.com/>
