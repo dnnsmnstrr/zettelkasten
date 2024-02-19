@@ -8,13 +8,15 @@ tags:
 
 # [Raspberry Pi](https://www.raspberrypi.org)
 My Pi Collection
-- Pi 2B
-- Pi Zero W
+- Pi 3B
+- Pi Zero W + Zero 2
 - Pi 4 (4GB)
+- CM4 (in my [[homeassistant]] yellow)
 - [Pico](https://www.raspberrypi.org/products/raspberry-pi-pico/) (Microcontroller)
 
 ## Tools
 - [PiKISS](https://github.com/jmcerrejon/PiKISS)
+- [SD Card Formatter](https://www.sdcard.org/downloads/formatter/) - for when you want to make an sdcard usable after burning an OS to it
 
 ## Images
 - [RetroPie](https://retropie.org.uk/)

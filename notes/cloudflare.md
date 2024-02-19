@@ -21,3 +21,7 @@ For namecheap: under `Domain` -> `Nameservers` select Custom DNS and enter the t
 | Type | Value |
 | NS | `kareem.ns.cloudflare.com` |
 | NS | `wally.ns.cloudflare.com` |
+
+## Zero Trust
+
+Cloudflare Zero trust can be used to set up a tunnel to services running on an internal network, like [[homeassistant]] or invidious

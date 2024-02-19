@@ -27,5 +27,6 @@ Did the creator deliver on previous projects?
 
 ## Still waiting...
 - [HyperDisk](https://www.kickstarter.com/projects/hyperdisk/hyperdisk-probably-the-smallest-and-fastest-portable-ssd)
+- [PRO30](https://www.kickstarter.com/projects/munitio/pro30-wireless-compact-high-fidelity-on-ear-headph)
 
 ![waiting](https://media1.giphy.com/media/26BRuo6sLetdllPAQ/giphy.gif?cid=e1bb72fftt42r7rurh93gzbc0ayzu41uketmg0wllu0xuv5k&rid=giphy.gif)

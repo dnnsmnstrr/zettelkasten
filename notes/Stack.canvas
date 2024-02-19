@@ -1,0 +1,10 @@
+{
+	"nodes":[
+		{"id":"0c2052872dc7b400","x":-940,"y":-300,"width":1600,"height":440,"type":"group","label":"Apps"},
+		{"id":"f3a7efe92343a492","x":-337,"y":-280,"width":400,"height":400,"type":"file","file":"bettertouchtool.md"},
+		{"id":"57465702b0743ff4","x":-920,"y":-280,"width":400,"height":400,"type":"file","file":"alfred.md"},
+		{"id":"8002adc384f2d054","x":240,"y":-280,"width":400,"height":400,"type":"file","file":"raycast.md"},
+		{"id":"9b5016bc29b35673","x":-337,"y":-800,"width":400,"height":400,"type":"file","file":"macos.md"}
+	],
+	"edges":[]
+}

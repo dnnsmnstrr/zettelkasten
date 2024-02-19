@@ -9,7 +9,7 @@ created: 1684359616816
 
 The clipboard is one of the most important tools of a developer. Some things I have learned/routines I have started following:
 
-- Never delete text that might become useful again, always cut instead
+- Never delete text that might become useful again, always cut instead (requires an active clipboard manager)
 - Before submitting a form on a website, be sure to copy the contents in case it get lost
 
 ## Clipboard managers

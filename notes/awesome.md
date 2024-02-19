@@ -17,6 +17,7 @@ My own awesome list.
 - [r/place visualization](https://rplace-community.github.io/visualization/)
 - https://alteredqualia.com/three/examples/webgl_pasta.html
 - https://www.autodraw.com/
+- https://rooms.xyz/
 
 ## Tech
 

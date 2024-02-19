@@ -10,6 +10,8 @@ tags:
 
 A customizable version of the macOS Spotlight tool. I have been transitioning to [[raycast]] as my main launcher.
 
+> Recently, I have mainly been using [[raycast]], which supports most of the main features of Alfred and has a better store, so this page is kind of outdated
+
 ## Snippets
 Alfred allows the creation of Snippets, which can be auto-expanded when a certain keyword is typed. Some of my favorites are `mdl` for [[markdown]] links and [[emoji]]-completion (`:emoji:`). Some of my own snippets are shared at https://github.com/dnnsmnstrr/workflows#snippets
 

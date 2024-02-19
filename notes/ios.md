@@ -18,9 +18,9 @@ These Apps **have** to be on my phone for it to be usable to me.
 
 - [[spotify]]
 - Comms: WhatsApp, Telegram, Mattermost
-- Socials: Twitter, Instagram, YouTube, Reddit (duh)
+- Socials: Twitter, Instagram, YouTube, ~~Reddit~~ (not since [Apollo was killed](https://www.reddit.com/r/apolloapp/s/5s1pPrgg8i))
 - Amazon, Kickstarter (gotta keep consuming)
-- Finance Stuff (Banking, Crypto
+- Finance Stuff (Banking, Crypto)
   - Sparkasse
   - Revolut
   - Coinbase
@@ -28,6 +28,7 @@ These Apps **have** to be on my phone for it to be usable to me.
   - Working Copy (for [[git]] on the go)
   - GitHub
   - Scriptable, Data Jar, Shortcutify (dependencies for [[shortcuts]])
+  - Obsidian for notes editing 
 
 ### Games
 
@@ -37,6 +38,7 @@ I also enjoyed:
 - Blackbox
 - Candy Crush (I can stop anytime!)
 - Smash Hit
+- Bloons TD-6
 ... a more detailed list is in [[gaming]]
 
 ### Making Music
@@ -70,7 +72,6 @@ I also enjoyed:
   - Smart Home
   - Organization
   - Games
-
 
 ### Focus modes
 

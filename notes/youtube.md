@@ -24,7 +24,7 @@ Some of my favorite channels:
 ## Making
 - [make anything](https://www.youtube.com/channel/UCVc6AHfGw9b2zOE_ZGfmsnw)
 - [Tested](https://www.youtube.com/user/testedcom)
-- [Fynn Kliemann](https://www.youtube.com/user/xmostimportant)
+- ~~[Fynn Kliemann](https://www.youtube.com/user/xmostimportant)~~ (cancelled)
 - [Zack Freedman](https://www.youtube.com/user/ZackFreedman)
 - [Laura Kampf](https://www.youtube.com/channel/UCRix1GJvSBNDpEFY561eSzw)
 - [William Osman](https://www.youtube.com/channel/UCfMJ2MchTSW2kWaT0kK94Yw)
