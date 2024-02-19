@@ -14,10 +14,11 @@ tags:
 Hosting on Github [[pages]] is free, but domains usually are not, so I tend to switch domains fairly regularly (whenever renewal would be too expensive). Due to this reason, I usually use `https://dnnsmnstrr.github.io` as the url in most places, which automatically redirects to the current domain.
 
 Some domains I've had:
-- muensterer.tech
+- [muensterer.tech](https://muensterer.tech)
 - muensterer.xyz
 - muensterer.link
 - muensterer.codes (managed by name.com)
+- muensterer.lol (namecheap)
 
 ## API
 I also run a personal [[api]] service on Vercel, which provides data to some of my [[projects]], as well as a [[redirect]] service with dynamic aliases, so I don't have to remember any links and can just add what I'm looking for to the url of my website.

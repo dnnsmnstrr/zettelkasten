@@ -8,8 +8,7 @@ tags:
 
 # [Alfred](https://www.alfredapp.com)
 
-A customizable version of the macOS Spotlight tool.
-I keep my Alfred preferences symlinked within the [[dotfiles]] directory.
+A customizable version of the macOS Spotlight tool. I have been transitioning to [[raycast]] as my main launcher.
 
 ## Snippets
 Alfred allows the creation of Snippets, which can be auto-expanded when a certain keyword is typed. Some of my favorites are `mdl` for [[markdown]] links and [[emoji]]-completion (`:emoji:`). Some of my own snippets are shared at https://github.com/dnnsmnstrr/workflows#snippets

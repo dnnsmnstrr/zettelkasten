@@ -58,7 +58,13 @@ ls -1 /Applications | pbcopy
 ```
 - Get state of webcam: `log stream --predicate 'subsystem contains "com.apple.UVCExtension" and composedMessage contains "Post PowerLog"'`
 
-## Hardware 
+### Text Replacement
+The following text shortcuts make my life easier across iOS and macOS:
+- `@@` -> `dennismuensterer@aol.com`
+- `@@@` -> `dennismuensterer@gmail.com`
+- `@@@@` -> `dennismuensterer@icloud.com`
+
+## Hardware
 - My first Mac: MacBook Pro 13" (early 2011)
   - [mactracker](mactracker://7100F247-2CF4-4C33-BE57-948881304DA7)
 - Touch bar: MacBook Pro 13" (2018)

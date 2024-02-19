@@ -42,4 +42,15 @@ Remember to activate the pages feature in the project settings!
 
 ## [DNS Config](https://docs.github.com/en/pages/configuring-a-custom-domain-for-your-github-pages-site/managing-a-custom-domain-for-your-github-pages-site)
 1. Add/Update [CNAME](https://github.com/dnnsmnstrr/dnnsmnstrr.github.io/blob/master/CNAME)
-1. 
+1. Add A-Records
+
+```
+185.199.108.153
+185.199.109.153
+185.199.110.153
+185.199.111.153
+```
+
+### Verification
+<https://github.com/settings/pages>
+- <https://github.com/settings/pages_verified_domains/>

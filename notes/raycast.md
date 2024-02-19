@@ -38,3 +38,8 @@ A launch bar similar to [[alfred]]. I have begun porting some of my workflows to
 ### Automation and [[homelab]]
 - https://www.raycast.com/tonka3000/homeassistant
 - https://www.raycast.com/GLaDO8/pie-for-pi-hole
+
+
+## Alternatives
+- [[alfred]], obviously
+- [Sol](https://sol.ospfranco.com/)
