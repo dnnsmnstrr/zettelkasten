@@ -5,7 +5,7 @@ cache:
     - .next/cache/
 
 pages:
-  image: node:14
+  image: node:20
   script:
     - npm install
     - (test -d .next) && (echo 'updating dendron next...' && cd .next && git reset --hard && git clean -f && git pull) || (echo 'init dendron next' && npx dendron publish init)

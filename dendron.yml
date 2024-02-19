@@ -1,28 +1,31 @@
 version: 5
 dev:
     enablePreviewV2: true
+    enableSelfContainedVaults: true
 commands:
     lookup:
         note:
             selectionMode: extract
-            confirmVaultOnCreate: false
+            confirmVaultOnCreate: true
+            vaultSelectionModeOnCreate: smart
             leaveTrace: false
             bubbleUpCreateNew: true
-            vaultSelectionModeOnCreate: smart
             fuzzThreshold: 0.2
-    insertNote:
-        initialValue: templates
+    randomNote: {}
     insertNoteLink:
         aliasMode: none
         enableMultiSelect: false
     insertNoteIndex:
         enableMarker: false
-    randomNote: {}
     copyNoteLink:
         aliasMode: title
     templateHierarchy: template
 workspace:
-    dendronVersion: 0.83.0
+    vaults:
+        -
+            fsPath: .
+            selfContained: true
+            name: zettelkasten
     journal:
         dailyDomain: daily
         name: journal
@@ -32,23 +35,10 @@ workspace:
         name: scratch
         dateFormat: y.MM.dd.HHmmss
         addBehavior: asOwnDomain
-    graph:
-        zoomSpeed: 1
-        createStub: false
-    disableTelemetry: true
-    enableAutoCreateOnDefinition: false
-    enableXVaultWikiLink: false
-    enableRemoteVaultInit: true
-    workspaceVaultSyncMode: noCommit
-    enableAutoFoldFrontmatter: false
-    maxPreviewsCached: 10
-    maxNoteLength: 204800
-    enableUserTags: true
-    enableHashTags: true
     task:
-        name: ''
-        dateFormat: ''
-        addBehavior: childOfCurrent
+        name: task
+        dateFormat: y.MM.dd
+        addBehavior: asOwnDomain
         statusSymbols:
             '': ' '
             wip: w
@@ -59,28 +49,40 @@ workspace:
             delegated: l
             dropped: d
             pending: 'y'
+        taskCompleteStatus:
+            - done
+            - x
         prioritySymbols:
             H: high
             M: medium
             L: low
         todoIntegration: false
         createTaskSelectionType: selection2link
-        taskCompleteStatus:
-            - done
-            - x
+    graph:
+        zoomSpeed: 1
+        createStub: false
+    enableAutoCreateOnDefinition: false
+    enableXVaultWikiLink: false
+    enableRemoteVaultInit: true
+    enableUserTags: true
+    enableHashTags: true
+    workspaceVaultSyncMode: noCommit
+    enableAutoFoldFrontmatter: false
     enableEditorDecorations: true
+    maxPreviewsCached: 10
+    maxNoteLength: 204800
     enableFullHierarchyNoteTitle: false
-    vaults: []
+    enablePersistentHistory: false
 preview:
-    enableFMTitle: false
+    enableFMTitle: true
     enableNoteTitleForLink: true
-    enablePrettyRefs: true
-    enableKatex: true
     enableFrontmatterTags: true
     enableHashesForFMTags: false
+    enablePrettyRefs: true
+    enableKatex: true
     automaticallyShowPreview: false
 publishing:
-    enableFMTitle: false
+    enableFMTitle: true
     enableNoteTitleForLink: true
     enablePrettyRefs: true
     enableKatex: true
@@ -91,7 +93,7 @@ publishing:
     siteRootDir: docs
     seo:
         title: Zettelkasten
-        description: Personal knowledge space
+        description: Personal Knowledge Space
     github:
         enableEditLink: true
         editLinkText: Edit this page on GitHub
@@ -103,5 +105,4 @@ publishing:
     enableRandomlyColoredTags: true
     enableTaskNotes: true
     enablePrettyLinks: true
-    searchMode: lookup
-    siteUrl: https://dnnsmnstrr.gitlab.io/zettelkasten
+    searchMode: search

@@ -1,14 +1,13 @@
+node_modules
+.dendron.*
+build
+seeds
+.next
+pods/service-connections
+
 .neuron
 .obsidian
 .dendron.*
-.mft
-*.log
-node_modules
-build
-repos
-docs
-.next
 .backup
-.flowershow
-# Ignore Smart Connections folder because embeddings file is large and updated frequently
-.smart-connections
+docs
+*.log

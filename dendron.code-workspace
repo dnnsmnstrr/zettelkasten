@@ -1,36 +1,40 @@
 {
-    "folders": [
-        {
-            "name": "zettelkasten",
-            "path": "."
-        }
-    ],
-    "settings": {
-        "dendron.rootDir": ".",
-        "files.autoSave": "onFocusChange",
-        "pasteImage.path": "${currentFileDir}/assets/images",
-        "pasteImage.prefix": "/",
-        "markdown-preview-enhanced.enableWikiLinkSyntax": true,
-        "markdown-preview-enhanced.wikiLinkFileExtension": ".md",
-        "editor.snippetSuggestions": "inline",
-        "editor.suggest.snippetsPreventQuickSuggestions": false,
-        "editor.suggest.showSnippets": true,
-        "editor.tabCompletion": "on"
+  "folders": [
+    {
+      "path": "notes",
+      "name": "zettelkasten"
     },
-    "extensions": {
-        "recommendations": [
-            "dendron.dendron-paste-image",
-            "equinusocio.vsc-material-theme",
-            "dendron.dendron-markdown-shortcuts",
-            "dendron.dendron-markdown-preview-enhanced",
-            "dendron.dendron-markdown-links",
-            "github.github-vscode-theme"
-        ],
-        "unwantedRecommendations": [
-            "dendron.dendron-markdown-notes",
-            "shd101wyy.markdown-preview-enhanced",
-            "kortina.vscode-markdown-notes",
-            "mushan.vscode-paste-image"
-        ]
+    {
+      "path": "."
     }
+  ],
+  "settings": {
+    "dendron.rootDir": ".",
+    "files.autoSave": "onFocusChange",
+    "pasteImage.path": "${currentFileDir}/assets/images",
+    "pasteImage.prefix": "/",
+    "markdown-preview-enhanced.enableWikiLinkSyntax": true,
+    "markdown-preview-enhanced.wikiLinkFileExtension": ".md",
+    "editor.snippetSuggestions": "inline",
+    "editor.suggest.snippetsPreventQuickSuggestions": false,
+    "editor.suggest.showSnippets": true,
+    "editor.tabCompletion": "on",
+    "dendron.enableSelfContainedVaultWorkspace": true
+  },
+  "extensions": {
+    "recommendations": [
+      "dendron.dendron",
+      "dendron.dendron-paste-image",
+      "dendron.dendron-markdown-shortcuts",
+      "redhat.vscode-yaml"
+    ],
+    "unwantedRecommendations": [
+      "dendron.dendron-markdown-links",
+      "dendron.dendron-markdown-notes",
+      "dendron.dendron-markdown-preview-enhanced",
+      "shd101wyy.markdown-preview-enhanced",
+      "kortina.vscode-markdown-notes",
+      "mushan.vscode-paste-image"
+    ]
+  }
 }
