@@ -10,12 +10,10 @@
     "start": "docker run --rm -i -p 8080:8080 -v ~/zettelkasten/notes:/zettelkasten sridca/neuron neuron rib -ws 0.0.0.0:8080",
     "live": "reload -b -d ~/zettelkasten/notes/.neuron/output",
     "dev": "npx dendron publish dev",
-    "build": "npx dendron publish export --target github --yes",
-    "flower": "npx flowershow preview"
+    "build": "npx dendron publish export --target github --yes"
   },
   "dependencies": {
     "@dendronhq/dendron-cli": "^0.122.0",
-    "flowershow": "^0.1.8",
     "next": "^13.4.3"
   }
 }
