@@ -90,8 +90,8 @@ publishing:
     siteHierarchies:
         - root
     writeStubs: false
-    siteUrl: https://dnnsmnstrr.gitlab.io/zettelkasten
-    assetsPrefix: zettelkasten
+    siteUrl: https://dnnsmnstrr.gitlab.io
+    assetsPrefix: /zettelkasten
     siteRootDir: docs
     seo:
         title: Zettelkasten
