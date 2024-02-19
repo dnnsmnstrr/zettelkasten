@@ -22,7 +22,7 @@ commands:
         aliasMode: title
     templateHierarchy: template
 workspace:
-    dendronVersion: 0.109.1
+    dendronVersion: 0.83.0
     journal:
         dailyDomain: daily
         name: journal
@@ -70,11 +70,10 @@ workspace:
             - x
     enableEditorDecorations: true
     enableFullHierarchyNoteTitle: false
-    enableSmartRefs: false
+    vaults: []
 preview:
     enableFMTitle: false
     enableNoteTitleForLink: true
-    enableMermaid: true
     enablePrettyRefs: true
     enableKatex: true
     enableFrontmatterTags: true
@@ -105,5 +104,4 @@ publishing:
     enableTaskNotes: true
     enablePrettyLinks: true
     searchMode: lookup
-    enableMermaid: true
     siteUrl: https://dnnsmnstrr.gitlab.io/zettelkasten
