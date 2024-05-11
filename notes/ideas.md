@@ -4,7 +4,6 @@ tags:
   - ideas
   - overview
 ---
-
 # Ideas
 A list of things I want to make. Some of them might become [[projects]].
 

@@ -4,7 +4,6 @@ tags:
   - overview
   - dev
 ---
-
 # Projects
 
 By working on random, seemingly useless projects, I apply the [Project-Based](https://dnnsmnstrr.github.io/projects)-[[learning]] methodology.
