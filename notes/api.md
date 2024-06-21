@@ -3,7 +3,6 @@ date: 2021-01-01
 tags:
 - dev
 ---
-
 # [API](https://github.com/dnnsmnstrr/api)
 
 My personal api is available at `https://dnnsmnstrr.vercel.app/api/`

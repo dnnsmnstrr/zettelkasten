@@ -3,7 +3,6 @@ date: 2020-08-25
 tags:
   - web
 ---
-
 # [Kickstarter](https://www.kickstarter.com/profile/dennismuensterer)
 
 > [Delayed gratification](https://en.wikipedia.org/wiki/Delayed_gratification#:~:text=Delayed%20gratification%2C%20or%20deferred%20gratification,preference%20for%20a%20later%20reward.), or deferred gratification, describes the process that the subject undergoes when the subject resists the temptation of an immediate reward in preference for a later reward

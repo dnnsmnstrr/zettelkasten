@@ -3,11 +3,13 @@ date: 2021-12-19
 tags:
 - storage
 ---
-
 # Network Attached Storage
 
-## Things I want to store
+I took the risk and gave the Ugreen [NASync](https://nas.ugreen.com/de/) DXP 4800 Plus a chance on [[kickstarter]]. The software still needs much work, but I've been positively surprised with the quality of the hardware and found it quite easy to upgrade.
+
+## Things I store
 - personal / family photos & videos
+- important documents
 - music (stuff that isn't available on [[spotify]])
 - favorite movies
 
