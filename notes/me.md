@@ -6,7 +6,7 @@ tags:
 
 # About Me
 
-I'm Dennis. I'm a 26 year old software developer and maker.
+I'm Dennis. I'm a 27 year old software developer and maker.
 
 Find out what I'm doing [[now]]. 
 
@@ -24,7 +24,7 @@ Find out what I'm doing [[now]].
 
 > What do you do for a living?
 
-I'm a software developer at [hpm](https://hpm.agency/).
+I'm a software developer.
 
 > What do you do in your free time?
 

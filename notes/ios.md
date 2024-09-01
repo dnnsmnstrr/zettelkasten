@@ -56,7 +56,7 @@ I also enjoyed:
 - The first page of my home screen is mostly made up of siri-suggestion widgets, which display my most (recently) used apps
 - Depending on the current focus, the next page will display relevant apps for that mode (work, travel, ...)
 - The last page are folders organized by category:
-   - Productivity
+  - Productivity
   - Storage
   - Utilities
   - Devices

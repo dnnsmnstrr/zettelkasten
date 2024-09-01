@@ -8,6 +8,9 @@ A list of acronyms I like, use [alot](https://hyperboleandahalf.blogspot.com/201
 - __AIDA__ – Attention, Interest, Desire, Action ([marketing concept](https://blog.hubspot.com/marketing/aida-model))
 - __[[api]]__ – Application Programming Interface
 
+### B
+- **BOHICA** - [Bend over, here it comes again](https://arc.net/l/quote/fxkuoruh)
+
 ### D
 
 - __DIY__ - Do It Yourself
@@ -60,3 +63,4 @@ A list of acronyms I like, use [alot](https://hyperboleandahalf.blogspot.com/201
 - https://en.wikipedia.org/wiki/Lists_of_acronyms
 - https://github.com/abbrcode/abbreviations-in-code
 - https://areknawo.com/10-coding-principles-and-acronyms-demystified/
+- https://en.wikipedia.org/wiki/List_of_military_slang_terms

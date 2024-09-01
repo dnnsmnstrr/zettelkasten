@@ -4,7 +4,6 @@ tags:
   - dev
   - macos
 ---
-
 # macOS
 
 My OS of choice. The setup and configuration is managed via my [[dotfiles]].
@@ -13,14 +12,13 @@ My OS of choice. The setup and configuration is managed via my [[dotfiles]].
 
 My main  apps:
 
-- [Chrome](https://www.google.com/chrome/)
+- [Chrome](https://www.google.com/chrome/), trying out [Arc](https://arc.net)
 - [[spotify]] - [[music]] is always necessary
-- [[atom]] - [[ide]]
-- [[alfred]] - "Spotlight"-like Search/Launcher-Bar
-- [[btt]] - Gestures & Shortcuts
-- [[spotify]]
+- VSCode - [[ide]]
+- [[raycast]] - "Spotlight"-like Search/Launcher-Bar (previously: [[alfred]])
+- [[bettertouchtool]] - Gestures & Shortcuts
 
-Some open source apps I use daily:
+Some open source projects I use daily:
 
 - [[brew]]
 - [[barrier]]
@@ -37,7 +35,7 @@ Other useful apps:
 
 - Xcode
 
-Native Apps I Use:
+Native apps I use:
 
 - Xcode
 - Terminal.app
@@ -46,7 +44,8 @@ Native Apps I Use:
 - Logic
 
 
-## Reset Steps
+## Setup
+### Reset Steps
 
 1. Ensure all data is backed up or can be lost
 2. Open System Preferences
@@ -77,6 +76,7 @@ The following text shortcuts make my life easier across iOS and macOS:
   - [mactracker](mactracker://7100F247-2CF4-4C33-BE57-948881304DA7)
 - Touch bar: MacBook Pro 13" (2018)
   - [mactracker](mactracker://EB72B355-E76D-4028-BB50-B5BE4001AA65)
+- First Apple Silicon: M3 MacBook Air 13" (2024)
 
 ## Resources
 

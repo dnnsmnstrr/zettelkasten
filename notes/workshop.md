@@ -9,7 +9,6 @@ tags:
   - tools
 date: '2021-12-06'
 ---
-
 # Workshop
 Since I currently can't afford more than one room, my workshop is built into my bedroom.
 

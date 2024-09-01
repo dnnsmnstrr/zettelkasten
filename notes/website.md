@@ -4,11 +4,10 @@ tags:
   - dev/web
   - pages
 ---
-
 # My website
 
-|[View my homepage](https://dnnsmnstrr.github.io)|
-|---|
+| [View my homepage](https://dnnsmnstrr.github.io) |
+| ------------------------------------------------ |
 
 Hosting on Github [[pages]] is free, but domains usually are not, so I tend to switch domains fairly regularly (whenever renewal would be too expensive). Due to this reason, I usually use `https://dnnsmnstrr.github.io` as the url in most places, which automatically redirects to the current domain.
 
