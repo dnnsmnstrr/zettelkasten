@@ -1,5 +1,6 @@
 ---
 date: 2020-08-11
+updated: 2024-09-25
 tags:
   - life
   - wisdom
@@ -33,7 +34,7 @@ Abraham Lincoln
 
 ---
 
->Design concerns itself with the overall formal solution to a problem [of building]
+>Design concerns itself with the overall formal solution to a problem (of building)
 
 George Nelson
 
@@ -55,3 +56,8 @@ My grandpa
 
 Mary Poppins (taken from Endymion by John Keats)
 
+---
+
+> Stop Starting, Start Finishing
+
+Digital Product School (probably some agile coach before)

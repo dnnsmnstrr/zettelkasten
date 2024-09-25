@@ -1,3 +1,7 @@
+---
+tags:
+  - language
+---
 # Acronyms
 
 A list of acronyms I like, use [alot](https://hyperboleandahalf.blogspot.com/2010/04/alot-is-better-than-you-at-everything.html) or want to remember
