@@ -49,3 +49,14 @@ Initially, I used [Jekyll](https://jekyllrb.com/) to build my website, but I'm r
 - https://dnnsmnstrr.onuniverse.com/
 - https://y.at/🤖💻📱⌚🎧
 - Blockchain: `muensterer.crypto`, [`muensterer.vet`](https://muensterer.vet.ms/)
+
+## Inspiration
+
+Some cool personal websites I really like or have taken inspiration from:
+
+- https://brianlovin.com/
+- https://www.birobirobiro.dev/
+- https://brittanychiang.com/
+- https://bruno-simon.com/
+- https://stephango.com/
+- https://nat.org/
