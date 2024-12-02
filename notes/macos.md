@@ -82,6 +82,7 @@ The following text shortcuts make my life easier across iOS and macOS:
 
 - [`mac-cli`](https://github.com/guarinogabriel/Mac-CLI) - useful command line tools for macOS [[dev]]s
 - [Setup Guides](https://sourabhbajaj.com/mac-setup/)
+- list of my installed applications in [gist](https://gist.github.com/dnnsmnstrr/41
 
 ## See also
 
