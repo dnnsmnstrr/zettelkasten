@@ -11,3 +11,4 @@ pods/service-connections
 .backup
 docs
 *.log
+.DS_Store
