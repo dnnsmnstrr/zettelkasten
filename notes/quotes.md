@@ -55,3 +55,8 @@ My grandpa
 
 Mary Poppins (taken from Endymion by John Keats)
 
+---
+
+> One is none and two is one
+
+https://youtu.be/Tge7YMi4gJs?t=1076&si=45Zx9a1K2IMoyZj2

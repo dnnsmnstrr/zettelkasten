@@ -38,7 +38,7 @@ A list of what I use:
 - iCloud
 - Google Drive
 - Dropbox
-- Bitwarden
+- [[bitwarden]]
 
 ### Dev
 
@@ -47,7 +47,7 @@ A list of what I use:
 
 #### Languages
 
-- JavaScript
+- [[js]]
 - Swift
 - Python
 

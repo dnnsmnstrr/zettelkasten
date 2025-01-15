@@ -19,6 +19,15 @@ Some domains I've had:
 - muensterer.codes (managed by name.com)
 - muensterer.lol (namecheap)
 
+## Slashes 
+
+I enjoy hopping on trends for [Slashpages](https://slashpages.net/) 
+Some of the pages I have created:
+- [[uses]]
+- [[defaults]]
+- [[ideas]]
+- [[interests]]
+- [[now]]
 ## API
 
 I also run a personal [[api]] service on Vercel, which provides data to some of my [[projects]], as well as a [[redirect]] service with dynamic aliases, so I don't have to remember any links and can just add what I'm looking for to the url of my website.
