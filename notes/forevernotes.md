@@ -5,4 +5,3 @@ My favorite concept is the pinned [home note](https://www.myforevernotes.com/doc
 
 Other things I adopted from this system:
 - [Collections](https://www.myforevernotes.com/docs/collections) for gathering tagged notes
-- 
