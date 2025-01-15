@@ -4,12 +4,11 @@ tags:
   - favorite
   - likes
 ---
-
 # My Favorites
 
 Some of the things I like most. ❤️
 
-## Movies 🎥
+## [[movies]] 🎥
 
 - Wes Anderson (Grand Budapest Hotel is my all time favorite)
 - Tarantino (really liked Django, Inglorious Basterds and Once upon a time in Hollywood)

@@ -3,7 +3,6 @@ date: 2021-03-17
 tags:
 - dev
 ---
-
 # Redirecting
 
 While working on my #[[api]], I figured out a way to set up a system of dynamic redirects with alias matching.

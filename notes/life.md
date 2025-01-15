@@ -4,7 +4,7 @@ date: 2020-09-16
 
 # Life
 
-I've moved around a bunch, as can be seen by looking at a timeline of my life:
+Throughout my life, I've moved around a bunch, as can be seen by looking at a timeline of my life:
 
 ## [Timeline](https://github.com/dnnsmnstrr/life)
 
@@ -12,8 +12,7 @@ In this visualization, each block represents one week of my life.
 
 <iframe src="https://dnnsmnstrr.github.io/life" title="Life Timeline" width='100%' height='90%' style="min-height:600px"></iframe>
 
-### [Markwhen](https://markwhen.com/)
-
+The data for the timeline is currently served under this URL of my [[api]]: `https://dnnsmnstrr.vercel.app/api/events`
 <iframe src="https://timeline.markwhen.com/dm/life" width='100%' height='100%' style="min-height:600px" />
 
 ```

@@ -1,0 +1,1 @@
+# Laziness Paradox

@@ -11,7 +11,6 @@ tags:
   - uses
 date: '2023-08-15T00:00:00.000Z'
 ---
-
 # Uses
 
 A list of what I use:
@@ -21,7 +20,7 @@ A list of what I use:
 ### Applications
 
 - [[spotify]]
-- Google Chrome
+- Arc ~~Google Chrome~~
 - [[raycast]]
 - [[bettertouchtool]]
 - [Obsidian](https://obsidian.md/)
@@ -30,8 +29,8 @@ A list of what I use:
 
 ### Web
 
-- GitHub and GitLab for version control with [[git]]
-- [[social]] media (Instagram, Twitter, etc.)
+- GitHub for version control with [[git]]
+- [[social]] media (Instagram, Twitter/X, etc.)
 
 #### Services
 
@@ -61,7 +60,7 @@ A list of what I use:
 ### Devices
 
 - iPhone 13 mini
-- MacBook Pro 13"
+- M3 MacBook Air 13" ([[macos]])
 - Apple Watch Series 6
 - Steam Deck
 - Oculus Quest for VR-[[gaming]]
@@ -88,7 +87,7 @@ A list of what I use:
 
 See also: [[makerer]]
 
-- Creality CR6-SE for [[3DPrinting]]
+- Creality CR6-SE for [[3DPrinting]] (recently got a second unit)
 - Dremel
 
 ## Resources

@@ -1,10 +1,9 @@
 ---
 date: 2022-07-15
 ---
-
 # [Gist](https://gist.github.com/)
 
-Github's gist service let's you store [text files](https://gist.github.com/7279503e6c3fc923447cbce6a1e4d9f9) that can be embedded in websites.
+Github's gist service let's you store [text files](https://gist.github.com/7279503e6c3fc923447cbce6a1e4d9f9) that can be embedded in websites. I often store code snippets or small scripts I created here, so they can be found and used by other people.
 
 ## [[api]]
 By hosting json files such as [response.json](https://gist.github.com/dnnsmnstrr/09a2559a9a970de5e8e9e5c2eaf1183b#file-response-json), I can serve static "API" responses to some of my own projects and services, such as my [[redirect]] api

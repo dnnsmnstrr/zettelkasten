@@ -13,7 +13,7 @@ A list of things I want to make. Some of them might become [[projects]].
 - [ ] AI-music-generator
 - [ ] Custom Font (https://fontforge.org/en-US/)
 - [ ] [Gist](https://developer.github.com/v3/gists/) API generator
-- [ ] Digital advent calendar based on HSON config
+- [ ] Digital advent calendar based on JSON config
 - [x] E-Cajon
 - [x] Redirect API service
 	- [ ] Fuzzy matching 	
@@ -23,6 +23,36 @@ A list of things I want to make. Some of them might become [[projects]].
 
 ___
 
+## Ideation
+
+> Ideas are created within ourselves and are triggered by certain things
+
+Subconscious mind vs. Conscious mind
+- subconscious generates ideas
+- conscious mind form these ideas to coherent thoughts
+
+How to kickstart the subconscious mind:
+1. Take a break
+2. Move to a different location
+3. See other people
+4. Let go of ideas
+
+> CREATIVITY ≠ ARTISTRY
+
+- creativity is problem solving, with relevance and novelty
+- https://www.youtube.com/watch?v=9JoAtxSrmkg
+### Methods
+
+- Brainstorming
+	- Prioritize quantity, really good ideas can come after really dumb ideas
+	- Cluster similar ideas after initial collection
+	- Decide on winning ideas and run another brainstorming round based off these ideas
+- [Oblique Strategies](https://en.wikipedia.org/wiki/Oblique_Strategies)
+
+
+
+---
+
 ## I.D.E.A.
 Four Steps of intuitive thinking by [Zach Freedman](https://youtu.be/6r8-o2WpoCA?t=655)
 
@@ -30,3 +60,5 @@ Four Steps of intuitive thinking by [Zach Freedman](https://youtu.be/6r8-o2WpoCA
 - **D**owntime
 - **E**xploration
 - **A**ction
+
+

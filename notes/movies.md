@@ -1,13 +1,16 @@
 # Movies
+
 Some of my favorite movies: 
 
+- The Grand Budapest Hotel
 - Star Wars
 - The Martian
-- The Grand Budapest Hotel
 - The Great Gatsby
 - Drive
 - Her
+- Paddington
 
 
 ## Links
-- [IMDB Profile](https://www.imdb.com/user/ur31201407)
+
+- My [IMDB Profile](https://www.imdb.com/user/ur31201407)
