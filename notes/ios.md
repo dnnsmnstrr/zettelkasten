@@ -104,6 +104,17 @@ Each of these modes has a related lock screen and watch face, which automaticall
 5. Wait for device to reset
 6. Log in
 
+### Setup Steps
+1. Log in to iCloud
+2. Disable Apps being installed to the Home Screen (Newly downloaded apps->App Library Only)
+3. Run “Install Main Apps” Shortcut
+4. Log in to [[bitwarden]]
+5. Sync Zettelkasten to Obsidian with Working Copy
+6. Configure Home Screen & Focus Modes
+7. Customize Lock Screens & Control Center
+8. Log in to all the apps
+9. Profit!
+
 ## Devices
 iOS devices I've owned and their storage capacity:
 - [iPod Touch 4th Generation](mactracker://9894184F-B501-4FBC-9662-7BF7C81165B5) - 32GB
@@ -111,6 +122,7 @@ iOS devices I've owned and their storage capacity:
 - [iPad Air](mactracker://19926A5E-013C-45C4-AA3E-FC6CB18F37D5) - 16GB
 - [iPhone 6s](mactracker://0F3A4840-6FFE-4A69-B55D-A5CD397FA647) - 64GB
 - [iPhone 13 mini](mactracker://EEA8E01A-0CFC-4F20-B6CF-58A8E5EE728C) - 128GB
+- [iPhone 16e](mactracker://031F4152-F3C0-4D54-AAA1-98DB157A1C52) - 128GB
 
 
 ## See also
