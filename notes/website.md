@@ -70,3 +70,4 @@ Some cool personal websites I really like or have taken inspiration from:
 - https://bruno-simon.com/
 - https://stephango.com/
 - https://nat.org/
+- https://liyuxuan.dev
