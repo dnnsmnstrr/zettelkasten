@@ -1,10 +1,8 @@
 ---
 date: 2021-09-17
 tags:
-- fun
-- hobby
+  - fun
 ---
-
 # Gaming
 
 My [Steam](https://steamcommunity.com/id/dnnsmnstrr) library is full of games, mainly because I buy a lot of [Humble Bundles](https://humblebundle.com/). I've made some of my duplicate keys [freely available](https://dnnsmnstrr.github.io/humblekeys/). Check it out and snag some games, if there are some unused keys, but please leave some for others. 🙏

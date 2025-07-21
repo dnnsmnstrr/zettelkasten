@@ -3,9 +3,8 @@ date: 2022-05-16
 tags:
   - productivity
   - projects
-  - open source
+  - devices
 ---
-
 # [Freetouchdeck](https://freetouchdeck.com/)
 
 - [Wiki](https://github.com/DustinWatts/FreeTouchDeck/wiki)

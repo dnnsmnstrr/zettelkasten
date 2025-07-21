@@ -1,3 +1,7 @@
+---
+tags:
+  - making
+---
 # Klipper
 
 I have a [YUMI Smart Pad](https://wiki.yumi-lab.com/KlipperSmartPad/SmartPad_specifications/) from a [[kickstarter]] campaign. It's kinda crappy, but it does work with my [[3DPrinting]] setup.

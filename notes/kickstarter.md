@@ -2,6 +2,7 @@
 date: 2020-08-25
 tags:
   - web
+  - finances
 ---
 # [Kickstarter](https://www.kickstarter.com/profile/dennismuensterer)
 

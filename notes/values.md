@@ -1,3 +1,7 @@
+---
+tags:
+  - life
+---
 # Values
 
 These are my main values or core beliefs that form the basis of my thinking and how I find my position in an argument. I tend to end up in the middle, between extreme sides, as I try to consider all viewpoints and often see valid opinions on both ends of a discussion. 

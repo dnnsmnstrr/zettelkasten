@@ -4,7 +4,6 @@ tags:
   - presentation
   - education
 ---
-
 # Slides.com
 
 ## Parameters

@@ -1,7 +1,8 @@
 ---
 date: 2020-09-16
+tags:
+  - life
 ---
-
 # Life
 
 Throughout my life, I've moved around a bunch, as can be seen by looking at a timeline of my life:

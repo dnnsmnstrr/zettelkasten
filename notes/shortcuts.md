@@ -4,9 +4,8 @@ tags:
   - iOS
   - macOS
   - apple
-  - todo
+  - workflow
 ---
-
 # Shortcuts
 
 Shortcuts are supported on [[ios]], [[macos]] and Apple Watch. I love being able to customize my devices (to the extent that Apple allows, would obviously be great to get even more access)

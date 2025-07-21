@@ -1,8 +1,8 @@
 ---
 date: 2020-08-03
 tags:
-  - zettelkasten
   - learning
+  - notes
 ---
 
 # [Zettelkasten](https://de.wikipedia.org/wiki/Zettelkasten)

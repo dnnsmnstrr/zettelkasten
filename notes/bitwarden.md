@@ -1,3 +1,8 @@
+---
+tags:
+  - backup
+---
+
 # Bitwarden
 
 My go-to Password manager

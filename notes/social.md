@@ -1,10 +1,9 @@
 ---
 date: 2020-08-03
 tags:
-  - social
   - web
+  - social
 ---
-
 # Social Media
 
 I try to have a presence on as many platforms as possible, but the ones I actively use at this point are Instagram, Twitter and TikTok. The latter being my channel of choice for the [[makerer]]# project.

@@ -7,27 +7,19 @@ date: 2024-09-25
 ---
 ## What I’m doing now 
 
-> Last updated: 2025-01-15
+> [muensterer.tech/now](https://muensterer.tech/now)
 
-Living in: Mainz
-
-Joined [3st](https://3st.de) as a Full-Stack Developer 
+I keep my now page content in a GitHub [[gist]] in JSON format: https://gist.github.com/dnnsmnstrr/f18bfa6e4f02dc480426d05cf7adff79
 
 ---
 
-Current playlist: [Warten](https://muensterer.tech/playlists/current)
-Current [theme](https://www.themesystem.com/) : `Year of contact`
+<script src="https://gist.github.com/dnnsmnstrr/f18bfa6e4f02dc480426d05cf7adff79.js"></script>
 
-#### [[projects]]
+---
+## Editor
 
-Continually updating my [[website]] with new pages. I added [playlists](https://muensterer.tech/playlists) and a [uses](https://muensterer.tech/uses) page. Planning to add more [slashpages](https://slashpages.net/).
-
-While playing piano, I got frustrated by the Ultimate Guitar Tabs app, so I built my own chords app with Expo and React Native. I'm now on the third revision, back to using React Native after an attempt with SwiftUI. Hope to release the project on the App Store as soon as I get iCloud syncing to work consistently.
-
-I'm also developing the idea of an app to create and manage organizational systems for physical items. Working title: **OrgSys**
-
-#### Activities
-- Just saw the RTO and Jan Böhmermann in Cologne
+I built a web-editor for my now data with [[expo]]. It is hosted at [now.expo.app](https://now.expo.app/).
+A basic GitHub token with Gist permissions is required.
 ## Links 
 - [nownownow.com profile](https://nownownow.com/p/xPQ6) - [link to edit data](https://my.nownownow.com/)
 - [Derek Sivers - The now page movement](https://sive.rs/nowff)

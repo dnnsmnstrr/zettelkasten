@@ -1,10 +1,24 @@
 {
 	"nodes":[
-		{"id":"0c2052872dc7b400","x":-940,"y":-300,"width":1600,"height":440,"type":"group","label":"Apps"},
-		{"id":"f3a7efe92343a492","x":-337,"y":-280,"width":400,"height":400,"type":"file","file":"bettertouchtool.md"},
-		{"id":"57465702b0743ff4","x":-920,"y":-280,"width":400,"height":400,"type":"file","file":"alfred.md"},
-		{"id":"8002adc384f2d054","x":240,"y":-280,"width":400,"height":400,"type":"file","file":"raycast.md"},
-		{"id":"9b5016bc29b35673","x":-337,"y":-800,"width":400,"height":400,"type":"file","file":"macos.md"}
+		{"id":"de570037c77ff7a2","x":80,"y":-800,"width":2240,"height":2160,"type":"group","label":"Homelab"},
+		{"id":"483885b29c84ddd9","x":-2400,"y":-800,"width":1982,"height":1182,"type":"group","label":"Computing"},
+		{"id":"0c2052872dc7b400","type":"group","x":-2258,"y":-209,"width":1600,"height":500,"label":"Apps"},
+		{"id":"4ecf07ec4ec2c931","x":960,"y":680,"width":400,"height":400,"type":"file","file":"notes/homeassistant.md"},
+		{"id":"d2fdb164c80df85e","x":1600,"y":-80,"width":400,"height":400,"type":"file","file":"nextcloud.md"},
+		{"id":"8002adc384f2d054","type":"file","file":"notes/raycast.md","x":-2218,"y":-149,"width":400,"height":400},
+		{"id":"9b5016bc29b35673","type":"file","file":"notes/macos.md","x":-1655,"y":-720,"width":400,"height":400},
+		{"id":"f3a7efe92343a492","type":"file","file":"notes/bettertouchtool.md","x":-1655,"y":-149,"width":400,"height":400},
+		{"id":"b9ab0918f89f75b2","x":-1098,"y":-149,"width":400,"height":400,"type":"file","file":"notes/spotify.md"},
+		{"id":"bb5325d27f330d70","x":160,"y":680,"width":400,"height":400,"type":"file","file":"notes/smarthome.md"},
+		{"id":"da70247bda1f0002","x":160,"y":-520,"width":400,"height":400,"type":"file","file":"notes/homelab.md"},
+		{"id":"467254711a2379d9","x":960,"y":-80,"width":400,"height":400,"type":"file","file":"notes/raspberrypi.md"},
+		{"id":"29518714dde20e4b","x":1280,"y":-720,"width":400,"height":400,"type":"file","file":"notes/nas.md"}
 	],
-	"edges":[]
+	"edges":[
+		{"id":"cc7955b08eecafa9","fromNode":"bb5325d27f330d70","fromSide":"right","toNode":"4ecf07ec4ec2c931","toSide":"left"},
+		{"id":"dd9dd5cbd345b0ee","fromNode":"467254711a2379d9","fromSide":"right","toNode":"d2fdb164c80df85e","toSide":"left"},
+		{"id":"ea5efb3f012be714","fromNode":"da70247bda1f0002","fromSide":"right","toNode":"467254711a2379d9","toSide":"left"},
+		{"id":"af9e670c36e408f4","fromNode":"9b5016bc29b35673","fromSide":"bottom","toNode":"0c2052872dc7b400","toSide":"top"},
+		{"id":"f1dae538ddc2bbd7","fromNode":"da70247bda1f0002","fromSide":"right","toNode":"29518714dde20e4b","toSide":"left"}
+	]
 }

@@ -1,9 +1,12 @@
 ---
 id: sqcvKX8rTSiLayhVwdrfb
 title: Backup
-desc: ''
+desc: ""
 updated: 1639059935975
 created: 1639059344340
+tags:
+  - homelab
+  - backup
 ---
 # Backup
 I don't worry much about losing files, because most of my data is stored in multiple cloud services, as well as on local hard drives.

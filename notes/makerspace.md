@@ -1,5 +1,7 @@
 ---
 date: 2024-06-18
+tags:
+  - making
 ---
 # Makerspace
 

@@ -3,6 +3,7 @@ date: 2021-12-19
 tags:
   - storage
   - hardware
+  - homelab
 ---
 # Network Attached Storage
 

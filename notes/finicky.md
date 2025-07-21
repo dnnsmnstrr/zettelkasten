@@ -1,7 +1,7 @@
 ---
 date: 2021-05-14
 tags:
-  - macOS
+  - macos
 ---
 
 # [Finicky](https://github.com/johnste/finicky)

@@ -3,8 +3,8 @@ date: 2022-08-26
 tags:
   - hardware
   - setup
+  - devices
 ---
-
 # Mx Master
 
 This mouse by Logitech has really cool features. The magnetic scroll wheel is amazing and the side buttons and  vertical scroll wheel are great.
