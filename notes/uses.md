@@ -21,7 +21,7 @@ A list of what I use:
 ### Applications
 
 - [[spotify]]
-- Google Chrome
+- Arc (replacing Google Chrome)
 - [[raycast]]
 - [[bettertouchtool]]
 - [Obsidian](https://obsidian.md/)
@@ -40,21 +40,25 @@ A list of what I use:
 - Dropbox
 - Bitwarden
 
+See also: [[subscriptions]]
 ### Dev
 
 - [VS Code](https://code.visualstudio.com/)
 - [Xcode](https://developer.apple.com/xcode/)
+- Cursor
 
 #### Languages
 
-- JavaScript
+- JavaScript/TypeScript 
 - Swift
 - Python
+- Bash
 
 #### Frameworks
 
 - [[react]] & [[react-native]]
 - Svelte/SvelteKit
+- shadcn/ui
 
 ## Hardware
 
