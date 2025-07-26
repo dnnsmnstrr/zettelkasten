@@ -1,9 +1,8 @@
 ---
 date: 2020-09-07
 tags:
-  - memes
+  - fun
 ---
-
 # Memes
 
 ## Favorite memes

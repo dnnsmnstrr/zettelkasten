@@ -1,20 +1,17 @@
 ---
 id: t7b53dduvmhi0d2lpuxyegi
 title: Stack
-desc: ''
+desc: ""
 updated: 1692095815000
 created: 1631059200000
 tags:
   - dev
   - tech
-  - overview
-  - uses
-date: '2023-08-15T00:00:00.000Z'
+date: 2023-08-15T00:00:00.000Z
 ---
-
 # Uses
 
-A list of what I use:
+A list of what I use (more up-to-date version on [muensterer.tech/uses](https://muensterer.tech/uses))
 
 ## Software
 
@@ -24,21 +21,21 @@ A list of what I use:
 - Arc (replacing Google Chrome)
 - [[raycast]]
 - [[bettertouchtool]]
-- [Obsidian](https://obsidian.md/)
+- [[obsidian]]
 - [[bitwarden]]
 - [Logi Options+](https://www.logitech.com/en-us/software/logi-options-plus.html) for configuring my mouse and keyboard
 
 ### Web
 
-- GitHub and GitLab for version control with [[git]]
-- [[social]] media (Instagram, Twitter, etc.)
+- GitHub for version control with [[git]]
+- [[social]] media (Instagram, Twitter/X, etc.)
 
 #### Services
 
 - iCloud
 - Google Drive
 - Dropbox
-- Bitwarden
+- [[bitwarden]]
 
 See also: [[subscriptions]]
 ### Dev
@@ -49,7 +46,7 @@ See also: [[subscriptions]]
 
 #### Languages
 
-- JavaScript/TypeScript 
+- [[js]]
 - Swift
 - Python
 - Bash
@@ -65,7 +62,7 @@ See also: [[subscriptions]]
 ### Devices
 
 - iPhone 13 mini
-- MacBook Pro 13"
+- M3 MacBook Air 13" ([[macos]])
 - Apple Watch Series 6
 - Steam Deck
 - Oculus Quest for VR-[[gaming]]
@@ -92,7 +89,7 @@ See also: [[subscriptions]]
 
 See also: [[makerer]]
 
-- Creality CR6-SE for [[3DPrinting]]
+- Creality CR6-SE for [[3DPrinting]] (recently got a second unit)
 - Dremel
 
 ## Resources

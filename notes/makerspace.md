@@ -1,3 +1,8 @@
+---
+date: 2024-06-18
+tags:
+  - making
+---
 # Makerspace
 
 As a huge fan of makerspaces, I was really excited to find out that the [Offene Werkstatt](https://offenewerkstattmainz.de/) was opening in Mainz. 

@@ -1,3 +1,7 @@
+---
+tags:
+  - macos
+---
 # App Defaults
 
 My default apps. I have sorted the categories alphabetically and added some new ones like [[gaming]], [[journaling]], smart home or 3d-printing slicer

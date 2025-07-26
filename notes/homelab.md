@@ -1,9 +1,8 @@
 ---
 date: 2022-05-13
 tags:
-  - homeserver
+  - homelab
 ---
-
 # Homelab
 
 My homelab journey started off by running various services on an old Dell Optiplex PC, mostly in [[docker]] containers. For the OS I had chosen [Linux Mint](https://www.linuxmint.com/).

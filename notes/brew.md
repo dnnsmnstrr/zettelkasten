@@ -1,8 +1,7 @@
 ---
 date: 2021-11-30
 tags:
-- macos
-- brew
+  - macos
 ---
 
 # [Brew](https://brew.sh/)

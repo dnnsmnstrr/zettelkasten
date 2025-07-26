@@ -1,9 +1,8 @@
 ---
 date: 2022-05-04
 tags:
-  - smart home
+  - homelab
 ---
-
 # Homeassistant
 
 Now that the chip shortage is slowly subsiding, I was able to get my hands on a [Home Assistant Yellow](https://www.home-assistant.io/yellow/) and a CM4 with 4GB of RAM. 

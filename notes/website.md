@@ -2,13 +2,11 @@
 date: 2020-08-04
 tags:
   - dev/web
-  - pages
 ---
-
 # My website
 
-|[View my homepage](https://dnnsmnstrr.github.io)|
-|---|
+| [View my homepage](https://dnnsmnstrr.github.io) |
+| ------------------------------------------------ |
 
 Hosting on Github [[pages]] is free, but domains usually are not, so I tend to switch domains fairly regularly (whenever renewal would be too expensive). Due to this reason, I usually use `https://dnnsmnstrr.github.io` as the url in most places, which automatically redirects to the current domain.
 
@@ -18,6 +16,16 @@ Some domains I've had:
 - muensterer.link
 - muensterer.codes (managed by name.com)
 - muensterer.lol (namecheap)
+
+## Slashes 
+
+I enjoy hopping on trends for [Slashpages](https://slashpages.net/) 
+Some of the pages I have created:
+- [[uses]]
+- [[defaults]]
+- [[ideas]]
+- [[interests]]
+- [[now]]
 
 ## API
 
@@ -50,3 +58,15 @@ Initially, I used [Jekyll](https://jekyllrb.com/) to build my website, but I'm r
 - https://dnnsmnstrr.onuniverse.com/
 - https://y.at/🤖💻📱⌚🎧
 - Blockchain: `muensterer.crypto`, [`muensterer.vet`](https://muensterer.vet.ms/)
+
+## Inspiration
+
+Some cool personal websites I really like or have taken inspiration from:
+
+- https://brianlovin.com/
+- https://www.birobirobiro.dev/
+- https://brittanychiang.com/
+- https://bruno-simon.com/
+- https://stephango.com/
+- https://nat.org/
+- https://liyuxuan.dev

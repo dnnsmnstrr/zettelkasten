@@ -2,8 +2,8 @@
 date: 2020-08-07
 tags:
   - workflow
+  - macos
 ---
-
 # [Karabiner Elements](https://karabiner-elements.pqrs.org/)
 Used for [[hyperkey]]
 

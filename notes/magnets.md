@@ -1,9 +1,7 @@
 ---
 id: 9nigr3dz4oi3n6gznutun2e
 title: Magnets
-desc: ''
-updated: 1684359616820
-created: 1684359616820
+date: 2024-06-18
 ---
 # Magnets
 

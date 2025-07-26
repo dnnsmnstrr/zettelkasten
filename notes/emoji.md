@@ -1,9 +1,7 @@
 ---
 date: 2021-12-03
 ---
-
 # Emoji
-![](https://emojipedia.org/static/img/logo/emojipedia-logo-140@2x.0a561abc1c83.png)
 
 ## Favorites
 Some of my most used emoji:

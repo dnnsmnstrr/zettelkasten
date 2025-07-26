@@ -1,9 +1,11 @@
 ---
 id: wz2gqxnclzb8vg08nya02ci
 title: Clipboard
-desc: ''
+desc: ""
 updated: 1684359616816
 created: 1684359616816
+tags:
+  - dev
 ---
 # Clipboard 
 

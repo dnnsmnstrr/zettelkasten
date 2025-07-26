@@ -1,5 +1,7 @@
 ---
 date: 2022-07-15
+tags:
+  - dev
 ---
 # [Gist](https://gist.github.com/)
 

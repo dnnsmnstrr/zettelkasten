@@ -1,3 +1,7 @@
+---
+tags:
+  - making
+---
 Modular things somehow tickle my brain in the right place.
 
 This is a non-comprehensive list of things and systems in my [[life]] that have interconnected pieces:

@@ -1,3 +1,7 @@
+---
+tags:
+  - language
+---
 # Acronyms
 
 A list of acronyms I like, use [alot](https://hyperboleandahalf.blogspot.com/2010/04/alot-is-better-than-you-at-everything.html) or want to remember
@@ -7,6 +11,9 @@ A list of acronyms I like, use [alot](https://hyperboleandahalf.blogspot.com/201
 - __AAA__ - Arrange, Act, Assert (for [writing good tests](https://automationpanda.com/2020/07/07/arrange-act-assert-a-pattern-for-writing-good-tests/))
 - __AIDA__ – Attention, Interest, Desire, Action ([marketing concept](https://blog.hubspot.com/marketing/aida-model))
 - __[[api]]__ – Application Programming Interface
+
+### B
+- **BOHICA** - [Bend over, here it comes again](https://arc.net/l/quote/fxkuoruh)
 
 ### D
 
@@ -60,3 +67,4 @@ A list of acronyms I like, use [alot](https://hyperboleandahalf.blogspot.com/201
 - https://en.wikipedia.org/wiki/Lists_of_acronyms
 - https://github.com/abbrcode/abbreviations-in-code
 - https://areknawo.com/10-coding-principles-and-acronyms-demystified/
+- https://en.wikipedia.org/wiki/List_of_military_slang_terms

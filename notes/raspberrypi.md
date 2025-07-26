@@ -1,11 +1,11 @@
 ---
 date: 2020-09-23
 tags:
-- dev
-- linux
-- making
+  - dev
+  - linux
+  - making
+  - homelab
 ---
-
 # [Raspberry Pi](https://www.raspberrypi.org)
 My Pi Collection
 - Pi 3B

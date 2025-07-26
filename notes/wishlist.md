@@ -15,4 +15,3 @@ Here are some things I have been wanting to get or think might be cool gifts to 
 - [This is Fine Brickset](https://www.mocpixel.com/products/61-403pcs-dog-this-is-fine-moc-building-block-bricks)
 - [Apple TV](https://www.apple.com/de/apple-tv-4k/) (whenever a new one comes out)
 - [Mini projector](https://de.seenebula.com/)
-- ~~Pasta maker~~
