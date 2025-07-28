@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notes/obsidian.md",
+                "file": "notes/music.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "obsidian"
+              "title": "music"
             }
           }
         ]
@@ -49,7 +49,7 @@
         "state": {
           "type": "search",
           "state": {
-            "query": "",
+            "query": "tag:backup",
             "matchingCase": false,
             "explainSearch": false,
             "collapseAll": false,
@@ -86,7 +86,7 @@
         }
       }
     ],
-    "currentTab": 0
+    "currentTab": 1
   },
   "right": {
     "id": "bb81b39add9974aa",
@@ -98,7 +98,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "notes/obsidian.md",
+            "file": "notes/music.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -117,7 +117,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "notes/obsidian.md",
+            "file": "notes/music.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           },
@@ -131,7 +131,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "notes/obsidian.md",
+            "file": "notes/music.md",
             "followCursor": false,
             "showSearch": false,
             "searchQuery": ""
@@ -158,6 +158,10 @@
   },
   "active": "9270eefa5560c676",
   "lastOpenFiles": [
+    "notes/backup.md",
+    "notes/bitwarden.md",
+    "notes/freetouchdeck.md",
+    "notes/obsidian.md",
     "TestUntitled.md"
   ]
 }

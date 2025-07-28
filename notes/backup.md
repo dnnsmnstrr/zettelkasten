@@ -32,6 +32,7 @@ backup-disk/
 ├── books/
 ├── documents/
 ├── games/
+├── [[music]]/
 ├── photos/
 ├── movies/
 └── videos/
