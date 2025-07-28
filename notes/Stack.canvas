@@ -4,7 +4,7 @@
 		{"id":"483885b29c84ddd9","x":-2400,"y":-800,"width":1982,"height":1182,"type":"group","label":"Computing"},
 		{"id":"0c2052872dc7b400","type":"group","x":-2258,"y":-209,"width":1600,"height":500,"label":"Apps"},
 		{"id":"4ecf07ec4ec2c931","x":960,"y":680,"width":400,"height":400,"type":"file","file":"notes/homeassistant.md"},
-		{"id":"d2fdb164c80df85e","x":1600,"y":-80,"width":400,"height":400,"type":"file","file":"nextcloud.md"},
+		{"id":"d2fdb164c80df85e","x":1600,"y":-80,"width":400,"height":400,"type":"file","file":"notes/nextcloud.md"},
 		{"id":"8002adc384f2d054","type":"file","file":"notes/raycast.md","x":-2218,"y":-149,"width":400,"height":400},
 		{"id":"9b5016bc29b35673","type":"file","file":"notes/macos.md","x":-1655,"y":-720,"width":400,"height":400},
 		{"id":"f3a7efe92343a492","type":"file","file":"notes/bettertouchtool.md","x":-1655,"y":-149,"width":400,"height":400},
