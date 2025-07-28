@@ -1,1 +1,6 @@
-{}
+{
+  "promptDelete": false,
+  "newFileLocation": "folder",
+  "newFileFolderPath": "notes",
+  "attachmentFolderPath": "./assets"
+}

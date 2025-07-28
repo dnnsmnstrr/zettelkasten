@@ -8,7 +8,7 @@ tags:
 
 
 ## Mobile
-The [mobile app](https://apps.apple.com/de/app/obsidian-connected-notes/id1557175442?l=en) lets me edit my [[zettelkasten]] on the go. To use the custom mobile config, open `Settings -> About` and scroll down to *Advanced*.
+The [mobile app](https://apps.apple.com/de/app/obsidian-connected-notes/id1557175442?l=en) lets me edit my [[zettelkasten]] on the go. To use the custom mobile config, open `Settings -> Files and Links` and scroll down to *Advanced*.
 Replace the override config folder path with
 ```
 .obsidian-mobile

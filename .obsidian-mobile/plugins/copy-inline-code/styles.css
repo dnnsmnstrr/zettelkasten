@@ -1,0 +1,53 @@
+.copy-to-clipboard-icon {
+	cursor: pointer;
+}
+
+.copy-to-clipboard-icon svg {
+	vertical-align: text-bottom;
+	pointer-events: none;
+}
+
+.icon-margin-left {
+	margin-left: 0.25em;
+}
+
+.show-on-hover {
+	cursor: pointer;
+	opacity: 0;
+}
+
+/* Source Mode */
+.cm-line:hover .show-on-hover {
+	opacity: 1;
+}
+/* Reading Mode */
+code:hover .show-on-hover {
+	opacity: 1;
+}
+
+.tasks-setting-important {
+	color: red;
+	font-weight: bold;
+}
+
+.regex-input-error {
+	border-color: var(--text-error) !important;
+}
+
+.icon-input-container {
+	width: 100%;
+	display: flex;
+	align-items: center;
+	gap: 10px;
+}
+
+.preview-icon {
+	color: var(--text-normal);
+	display: flex;
+	align-items: center;
+	justify-content: center;
+}
+
+.invalid-preview-icon {
+	color: var(--text-error) !important;
+}
