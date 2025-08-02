@@ -1,11 +1,10 @@
 ---
 id: e86ac3ab-dbe1-47a1-bcd7-9df0d0490b40
-title: Quickstart
+title: Dendron
 desc: ''
-updated: 1612656857336
+updated: 1754149590999
 created: 1595170096361
 stub: false
-nav_order: 1
 tags:
   - notes
   - zettelkasten
@@ -31,7 +30,7 @@ This section covers the basics of Dendron. Get started on the right foot and sta
 - [ ] Insert an [image](https://www.dendron.so/notes/a91fd8da-6895-49fe-8164-a17acd8d9a17.html)
 - [ ] Create some [links](https://www.dendron.so/notes/3472226a-ff3c-432d-bf5d-10926f39f6c2.html)
 - [ ] Explore additional features from [Dendron's bundled extensions](https://www.dendron.so/notes/301e4129-6933-4be7-a4bd-8125171360d8.html)
-- [ ] [Publish](https://www.dendron.so/notes/73d395c9-5041-4d0d-9db7-080d9586136e.html) your vault
+- [x] [Publish](https://www.dendron.so/notes/73d395c9-5041-4d0d-9db7-080d9586136e.html) your vault - it's at `https://dnnsmnstrr.gitlab.io/zettelkasten`
 - [ ] Join us on [discord](https://discord.com/invite/6j85zNX) and discuss all things knowledge management with your fellow trail blazers.
 
 ## The Woods 🌲
