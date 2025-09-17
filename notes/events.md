@@ -19,37 +19,41 @@ When it's possible and I don't have to stay at home because of a pandemic, I lik
 
 A list of concerts I've been to:
 
-| Artist | Date/Year | Venue |
-| ------ | ---- | ----- |
-| Die Prinzen | 2009-09-05 | Leipzig Parkbühne |
-| Tua |2016-09-13 | Leipzig Täubchenthal |
-| Ahzumjot & Lance Butters | 2016-11-24 | München Backstage |
-| Fatoni & Mine | 2017-12-10 | Schlachthof Wiesbaden |
-| Tristan Brusch | 2018-08-08 | Schon Schön Mainz |
-| Rockstah | 2018-11-15 | Zoom Frankfurt |
-| Fatoni | 2019-12-17 | Schlachthof Wiesbaden |
-| Mia Morgan | 2022-05-20 | Frankfurt Ponyhof |
-| Drangsal | 2022-07-22 | Frankfurt Batschkapp |
-| Ahzumjot | 2022-10-09 | Zoom Frankfurt |
-| BLVTH | 2022-10-13 | Schon Schön Mainz |
-| Paula Hartmann | 2022-10-19 | Frankfurt Ponyhof |
-| Mine | 2022-10-20 | Schlachthof Wiesbaden |
-| Casper | 2022-12-13 | Palladium, Köln |
-| Dermot Kennedy | 2023-03-15 | Jahrhunderthalle Frankfurt |
+| Artist                   | Date/Year  | Venue                      |
+| ------------------------ | ---------- | -------------------------- |
+| Die Prinzen              | 2009-09-05 | Leipzig Parkbühne          |
+| Tua                      | 2016-09-13 | Leipzig Täubchenthal       |
+| Ahzumjot & Lance Butters | 2016-11-24 | München Backstage          |
+| Fatoni & Mine            | 2017-12-10 | Schlachthof Wiesbaden      |
+| Tristan Brusch           | 2018-08-08 | Schon Schön Mainz          |
+| Rockstah                 | 2018-11-15 | Zoom Frankfurt             |
+| Fatoni                   | 2019-12-17 | Schlachthof Wiesbaden      |
+| Mia Morgan               | 2022-05-20 | Frankfurt Ponyhof          |
+| Drangsal                 | 2022-07-22 | Frankfurt Batschkapp       |
+| Ahzumjot                 | 2022-10-09 | Zoom Frankfurt             |
+| BLVTH                    | 2022-10-13 | Schon Schön Mainz          |
+| Paula Hartmann           | 2022-10-19 | Frankfurt Ponyhof          |
+| Mine                     | 2022-10-20 | Schlachthof Wiesbaden      |
+| Casper                   | 2022-12-13 | Palladium, Köln            |
+| Dermot Kennedy           | 2023-03-15 | Jahrhunderthalle Frankfurt |
+| Savvy                    | 2024-05-15 | Altmünsterkirche Mainz     |
+| Mia Morgan               | 2025-04-01 | Frankfurt Ponyhof          |
+| AB Syndrom               | 2025-04-30 | Schon Schön Mainz          |
+| MELE                     | 2025-05-08 | Schon Schön Mainz          |
 
 ## Festivals
 
-Where I've been to:
-
-| Name            | Year |
-| --------------- | ---- |
-| Splash          | 2015 |
-| Rock am Ring    | 2016 |
-| Puls Open Air   | 2017 |
-| Kosmonaut       | 2017 |
-| Highfield       | 2017 |
-| Stadt ohne Meer | 2021 |
-| Highfield       | 2022 |
+| Name                 | Year             | Location           |
+| -------------------- | ---------------- | ------------------ |
+| Splash               | 2015             | Ferropolis         |
+| Rock am Ring         | 2016             | Mendig             |
+| Puls Open Air        | 2017             | Schloss Kaltenberg |
+| Kosmonaut            | 2017             | Stausee Rabenstein |
+| Highfield            | 2017, 2022       | Störmthaler See    |
+| Stadt ohne Meer      | 2021, 2023, 2024 | Gießen             |
+| Stadt ohne Meer Köln | 2024             | Cologne            |
+| Oben Ohne Open Air   | 2023, 2024, 2025 | Munich             |
+| Open Ohr             | 2025             | Mainz              |
 
 I go to festivals for the [[music]], not to waste time on the camping grounds. But I do enjoy camping, when I can be well prepared:
 
@@ -66,10 +70,11 @@ What to remember for the camping part:
 
 ## Hackathons 
 
-| Name                       | Year | Location |
-| -------------------------- | ---- | -------- |
-| Funk Hackday for Democracy | 2017 | Mainz    |
-| Techfest 17                | 2017 | Munich   |
-| [Rütüta](https://www.ruetueta.de/)                  | 2019 | Rüspel   |
-| Techfest 19                | 2019 | Munich   |
-| Medienberghack 19          | 2019 | Mainz    |
+| Name                               | Year | Location |
+| ---------------------------------- | ---- | -------- |
+| Funk Hackday for Democracy         | 2017 | Mainz    |
+| Techfest 17                        | 2017 | Munich   |
+| [Rütüta](https://www.ruetueta.de/) | 2019 | Rüspel   |
+| Techfest 19                        | 2019 | Munich   |
+| Medienberghack 19                  | 2019 | Mainz    |
+| Circular Hackfest                  | 2023 | Munich   |

@@ -27,3 +27,5 @@ For syncing the [[git]] repo, I use [Working Copy](https://workingcopyapp.com/)
 - [kroki](https://github.com/gregzuro/obsidian-kroki)
 - [mind map](https://github.com/lynchjames/obsidian-mind-map)
 - [mdx](https://github.com/mkozhukharenko/mdx-as-md-obsidian)/[jsx](https://github.com/elias-sundqvist/obsidian-react-components)
+
+

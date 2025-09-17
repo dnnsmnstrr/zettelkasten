@@ -70,6 +70,11 @@ The following text shortcuts make my life easier across iOS and macOS:
 - `@@@` -> `dennismuensterer@gmail.com`
 - `@@@@` -> `dennismuensterer@icloud.com`
 
+### Cleanup
+
+Remove images from `/System/Library/AssetsV2/`
+- `xcrun simctl runtime list` and `xcrun simctl runtime delete <id>`
+
 ## Hardware
 
 - My first Mac: MacBook Pro 13" (early 2011)
