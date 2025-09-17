@@ -3,8 +3,9 @@ date: 2022-07-22
 tags:
   - dev
   - automation
+  - macos
+  - workflow
 ---
-
 # Raycast
 
 A launch bar similar to [[alfred]]. I have begun porting some of my workflows to Raycast, as it offers more flexibility in the presentation of the [[ui]].

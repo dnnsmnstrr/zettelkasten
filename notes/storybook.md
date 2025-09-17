@@ -1,7 +1,7 @@
 ---
 date: 2020-08-24
 tags:
-  - dev/react-native
+  - dev
 ---
 
 # [Storybook](https://storybook.js.org/)

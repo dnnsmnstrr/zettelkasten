@@ -1,3 +1,7 @@
+---
+tags:
+  - life
+---
 # Interests
 
 These are some of my main areas of interest:

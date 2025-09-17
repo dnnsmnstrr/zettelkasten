@@ -1,12 +1,10 @@
 ---
 date: 2020-08-03
 tags:
-  - overview
   - workflow/dotfiles
   - workflow/automation
   - dev
 ---
-
 # [Dotfiles](https://github.com/dnnsmnstrr/dotfiles)
 
 I keep my dotfiles in version control using [[git]] and [dotbot](https://github.com/anishathalye/dotbot).

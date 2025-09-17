@@ -4,7 +4,6 @@ tags:
   - food
   - eating
 ---
-
 # Food
 
 I used to really like eating meat, but that has dwindled over the years, since more and more alternative products have become available. I'm not a vegetarian, but I try to eat less meat (especially when cooking with others).

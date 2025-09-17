@@ -1,11 +1,12 @@
 ---
 id: 9ni7IRzeaNszIctQIGPjH
 title: Popclip
-desc: ''
+desc: ""
 updated: 1638868970489
 created: 1638820744136
+tags:
+  - macos
 ---
-
 # [Popclip](https://pilotmoon.com/popclip/)
 
 ## Extensions

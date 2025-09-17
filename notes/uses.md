@@ -1,29 +1,27 @@
 ---
 id: t7b53dduvmhi0d2lpuxyegi
 title: Stack
-desc: ''
+desc: ""
 updated: 1692095815000
 created: 1631059200000
 tags:
   - dev
   - tech
-  - overview
-  - uses
-date: '2023-08-15T00:00:00.000Z'
+date: 2023-08-15T00:00:00.000Z
 ---
 # Uses
 
-A list of what I use:
+A list of what I use (more up-to-date version on [muensterer.tech/uses](https://muensterer.tech/uses))
 
 ## Software
 
 ### Applications
 
 - [[spotify]]
-- Arc ~~Google Chrome~~
+- Arc (replacing Google Chrome)
 - [[raycast]]
 - [[bettertouchtool]]
-- [Obsidian](https://obsidian.md/)
+- [[obsidian]]
 - [[bitwarden]]
 - [Logi Options+](https://www.logitech.com/en-us/software/logi-options-plus.html) for configuring my mouse and keyboard
 
@@ -39,21 +37,25 @@ A list of what I use:
 - Dropbox
 - [[bitwarden]]
 
+See also: [[subscriptions]]
 ### Dev
 
 - [VS Code](https://code.visualstudio.com/)
 - [Xcode](https://developer.apple.com/xcode/)
+- Cursor
 
 #### Languages
 
 - [[js]]
 - Swift
 - Python
+- Bash
 
 #### Frameworks
 
 - [[react]] & [[react-native]]
 - Svelte/SvelteKit
+- shadcn/ui
 
 ## Hardware
 

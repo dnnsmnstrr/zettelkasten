@@ -3,7 +3,6 @@ date: 2021-03-24
 tags:
 - education
 ---
-
 # Presentation
 I have held various presentations throughout my time in school, university and apprenticeship.
 

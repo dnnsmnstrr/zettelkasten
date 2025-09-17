@@ -1,9 +1,7 @@
 ---
-id: root
-title: root
-desc: ""
-created: 1595961348801
-stub: false
+id: ev8gj1facxw9zai04eq3ktk
+title: Zettelkasten
+desc: ''
+updated: 1754148496671
+created: 1754147384848
 ---
-
-This is the root for my Dendron vault.

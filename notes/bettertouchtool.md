@@ -4,6 +4,7 @@ tags:
   - btt
   - automation
   - workflow
+  - macos
 ---
 
 # [BetterTouchTool](https://folivora.ai)

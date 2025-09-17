@@ -1,9 +1,8 @@
 ---
 date: 2021-11-30
 tags:
-- dev
-- js
-- todo
+  - dev
+  - dev/js
 ---
 
 # [Electron](https://github.com/electron/electron)

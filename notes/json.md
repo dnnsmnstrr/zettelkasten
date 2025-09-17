@@ -1,11 +1,12 @@
 ---
 id: jo9kLbLraSqUfUhpditDp
 title: JSON
-desc: ''
+desc: ""
 updated: 1638787486109
 created: 1638787472224
+tags:
+  - dev
 ---
-
 # JSON
 
 Many configurations or data-sources for my projects are stored in this format

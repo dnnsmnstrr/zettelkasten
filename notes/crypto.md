@@ -1,9 +1,11 @@
 ---
 id: kP1vGA4PlCchUHfQgjfmM
 title: Crypto
-desc: ''
+desc: ""
 updated: 1638914598596
 created: 1638914507006
+tags:
+  - dev
 ---
 # Crypto
 

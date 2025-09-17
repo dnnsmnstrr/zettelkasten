@@ -1,3 +1,8 @@
+---
+tags:
+  - life
+  - notes
+---
 # Journaling
 
 In the beginning of 2023, I decided to give journaling a try. I had used the Day One app for a bit before, but never got into it.

@@ -1,12 +1,6 @@
 [
   "table-editor-obsidian",
-  "obsidian-excalidraw-plugin",
-  "templater-obsidian",
-  "obsidian-emoji-toolbar",
-  "code-block-copy",
-  "obsidian-icon-folder",
   "find-unlinked-files",
   "various-complements",
-  "obsidian-frontmatter-tag-suggest",
-  "obsidian-html-tags-autocomplete"
+  "copy-inline-code"
 ]

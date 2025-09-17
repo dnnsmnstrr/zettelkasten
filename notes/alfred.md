@@ -1,9 +1,7 @@
 ---
 date: 2020-08-04
 tags:
-  - overview
-  - workflow/alfred
-  - mac
+  - macos
 ---
 # [Alfred](https://www.alfredapp.com)
 

@@ -1,3 +1,7 @@
+---
+tags:
+  - notes
+---
 # Notes
 
 For quick notes in my day-to-day life I prefer using Apple Notes, as these are quickly available on all my devices and synchronize over iCloud.

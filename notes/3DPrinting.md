@@ -10,13 +10,13 @@ I tend to create modular designs using proven systems like [Polypanels](https://
 
 ## My Printer
 
-- Creality [CR6-SE](https://www.kickstarter.com/projects/3dprintmill/creality-cr-6-se-leveling-free-diy-3d-printer-kit) - got it from [[kickstarter]]
+- Creality [CR6-SE](https://www.kickstarter.com/projects/3dprintmill/creality-cr-6-se-leveling-free-diy-3d-printer-kit) - got it from [[kickstarter]] (and a second one from ebay)
 
 ## [Octoprint](https://octoprint.org/)
-My Octoprint instance runs on a [Raspberry Pi](./raspberrypi.md) Zero 2 and lets me control my printer over the local network. ([Don't just make your printer available to the public internet](https://octoprint.org/blog/2018/09/03/safe-remote-access/))
+My Octoprint instance runs on a [Raspberry Pi](./raspberrypi.md) 4 and lets me control my printer over the local network. ([Don't just make your printer available to the public internet](https://octoprint.org/blog/2018/09/03/safe-remote-access/))
 
 ### Setup
-- [Octoprint on Raspberry Pi](https://community.octoprint.org/t/guide-install-octoprint-on-a-raspberry-pi-running-raspbian/2337)
+- [Octoprint on Raspberry Pi](https://community.octoprint.org/t/guide-install-octoprint-on-a-raspberry-pi-running-raspbian/2337) + [[klipper]]
 - Printer Profile: CR6-SE
   - Bed Size: 235 x 235 x 250
 ### Plugins
@@ -30,7 +30,7 @@ My Octoprint instance runs on a [Raspberry Pi](./raspberrypi.md) Zero 2 and lets
 - Cable Clips
 - [Polypanels](https://www.makeanything.design/polypanels) (shoutout @ [makeanything](https://www.youtube.com/channel/UCVc6AHfGw9b2zOE_ZGfmsnw) - one of my favorite makers on [[youtube]])
 - a MagSafe mount for my iPhone
-- Gridfinity storage modules for my [[workshop]], desk and more - designed by [Zack Freedman](https://www.youtube.com/@ZackFreedman), another favorite YouTuber of mine)
+- [[gridfinity]] storage modules for my [[workshop]], desk and more - designed by [Zack Freedman](https://www.youtube.com/@ZackFreedman), another favorite YouTuber of mine)
 
 ## Design Philosophy
 - avoid support material

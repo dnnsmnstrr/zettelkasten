@@ -1,8 +1,8 @@
 ---
 date: 2020-08-03
 tags:
-  - zettelkasten
   - learning
+  - notes
 ---
 
 # [Zettelkasten](https://de.wikipedia.org/wiki/Zettelkasten)
@@ -34,6 +34,14 @@ My [Zettelkasten-Workflow](https://github.com/dnnsmnstrr/alfred-zettelkasten) fo
 - [[dendron]] at https://dnnsmnstrr.gitlab.io/zettelkasten/
 - [Flowershow](https://flowershow.app/) at https://zettelkasten-flowershow.vercel.app/
 - [GitHub](https://github.com/dnnsmnstrr/zettelkasten)
+
+## [Rules](https://medium.com/@davidbclear/zettelkasten-wie-ein-deutscher-gelehrter-so-unglaublich-produktiv-war-b3d29385f103) of Zettelkasten
+
+1. [Atomizität](https://zettelkasten.de/posts/create-zettel-from-reading-notes/)
+2. [Autonomie](https://omxi.se/2015-06-21-living-with-a-zettelkasten.html)
+3. [Linking](https://neuron.zettel.page/2011504.html)
+4. Sources
+5. Overview notes
 
 ## Resources
 - [r/zettelkasten](https://zk.zettel.page/)

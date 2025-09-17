@@ -1,3 +1,9 @@
+---
+tags:
+  - apple
+  - notes
+  - macos
+---
 # [Forever Notes](https://myforevernotes.com/)
 
 To organize my Apple Notes setup, I have implemented the Forever ✱ Notes system. 

@@ -1,14 +1,13 @@
 ---
 id: vmdumfzqepejr2m3f2eln9y
 title: Events
-desc: ''
+desc: ""
 updated: 1679871436273
 created: 1661126400000
 tags:
   - life
   - music
-  - events
-date: '2022-08-22T00:00:00.000Z'
+date: 2022-08-22T00:00:00.000Z
 ---
 
 # Events

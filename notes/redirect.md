@@ -1,7 +1,8 @@
 ---
 date: 2021-03-17
 tags:
-- dev
+  - dev
+  - dev/web
 ---
 # Redirecting
 

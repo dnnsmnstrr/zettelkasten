@@ -2,9 +2,8 @@
 date: 2020-08-04
 tags:
   - dev
-  - todo
+  - github
 ---
-
 # Publishing with [Pages](https://pages.github.com/)
 
 GitHub can host static webpages for free with their Pages-Service. This is how I host most of my websites and apps.

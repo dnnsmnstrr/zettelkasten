@@ -1,12 +1,12 @@
 ---
 date: 2021-09-08
 tags:
-- dev/js
+  - dev/js
+  - dev/react
 ---
 
 # React
 
-## Hooks
 
-## Add to website
+### Add to website
 https://reactjs.org/docs/add-react-to-a-website.html

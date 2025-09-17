@@ -1,12 +1,11 @@
 ---
 date: 2022-02-04
 tags:
-  - narcissism
+  - life
 ---
-
 # About Me
 
-I'm Dennis. I'm a 27 year old software developer and maker.
+I'm Dennis. I'm a 28 year old software developer and maker.
 
 Find out what I'm doing [[now]]. 
 
