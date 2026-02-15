@@ -19,6 +19,6 @@ For syncing the [[git]] repo, I use [Working Copy](https://workingcopyapp.com/)
 
 ## Plugins
 
-- [git](obsidian://show-plugin?id=obsidian-git)
 - [advanced-slides](obsidian://show-plugin?id=obsidian-advanced-slides) - https://mszturc.github.io/obsidian-advanced-slides/
+- [git](obsidian://show-plugin?id=obsidian-git)
 - [copy-inline-code](obsidian://show-plugin?id=copy-inline-code)

@@ -7,10 +7,10 @@ cache:
 pages:
   image: node:20
   script:
-    - npm install
-    - (test -d .next) && (echo 'updating dendron next...' && cd .next && git reset --hard && git clean -f && git pull) || (echo 'init dendron next' && npx dendron publish init)
+    - npm install -g @dendronhq/dendron-cli@0.122.0
+    - (test -d .next) && (echo 'updating dendron next...' && cd .next && git reset --hard && git clean -f && git pull) || (echo 'init dendron next' && npx @dendronhq/dendron-cli@0.122.0 publish init)
     - cd .next && npm install && cd ..
-    - npx dendron publish build
+    - npx @dendronhq/dendron-cli@0.122.0 publish build
     - cd .next && yarn export && cd ..
     - (test -d docs && rm -rf docs) || echo skipping
     - cd .next && mv out ../public

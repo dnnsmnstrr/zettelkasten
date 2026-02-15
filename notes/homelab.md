@@ -5,17 +5,20 @@ tags:
 ---
 # Homelab
 
-My homelab journey started off by running various services on an old Dell Optiplex PC, mostly in [[docker]] containers. For the OS I had chosen [Linux Mint](https://www.linuxmint.com/).
+My homelab journey started off by running various services on an old Dell Optiplex PC, mostly with [[docker]] containers. For the OS I had chosen [Linux Mint](https://www.linuxmint.com/).
 After noticing how high the power consumption of the old computer was, I switched to running multiple [[raspberrypi]] devices, totaling to just a portion of what the PC was using in energy. 
 
 ### Mini-Rack
 While upgrading to a raspberry pi 5, I created a tiny server rack using aluminum extrusion profiles cut to about 20cm in length and multiple screw-together [[gridfinity]] baseplates. 
 The following devices are housed in this setup:
 - Networking switch
-- Pi 2b and Pi 5
-- Home Assistant Yellow
+- Pi 2b and Pi 5 + CM5
+- Home Assistant Yellow with CM4
 - Flic Hub LR
 - Samsung T5 SSD
+
+### NAS
+My [[nas]] runs some of my local services, mainly related to entertainment and data backups
 
 ## Services
 
@@ -33,15 +36,16 @@ The following devices are housed in this setup:
 ### Nextcloud
 
 - Local cloud storage
-- Installed with snap
-- https://snapcraft.io/nextcloud
+- Runs on a Raspberry Pi Compute Module 5 with nextcloudpi
 
 ## Infrastructure
 
 ### Router
 
 Currently a [FRITZ!Box](http://fritz.box/).
-For wired connections I use a Netgear GS308 Switch with 8 Ports.
+Wired connections go through a Netgear GS308 Switch with 8 Ports.
+
+> **Warning:** This is a warning section. Please take note of the important information here.
 
 ### Pi Hole
 
