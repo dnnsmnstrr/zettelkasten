@@ -6,7 +6,7 @@ tags:
 # Journaling
 
 In the beginning of 2023, I decided to give journaling a try. I had used the Day One app for a bit before, but never got into it.
-Now my goal is to continue for at least for a year, writing down the events of every single day
+My goal was to continue for at least for a year, writing down the events of every single day (Update: I did it for exactly one year and immediately stopped 🤦‍♂️)
 
 ## Requirements
 - For my goal to work, the journaling environment has to be mobile first

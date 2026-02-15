@@ -6,11 +6,12 @@ tags:
 # 3D-Printing
 
 Whenever possible, I try to print things instead of buying them. This makes me more conscious of the actual value of an item and gives me control over how it will be designed and how it will function in the context of my existing setup.
-I tend to create modular designs using proven systems like [Polypanels](https://www.makeanything.design/polypanels), [Gridfinity](https://gridfinity.xyz/) or the GoPro-mount, so they will be reusable and replacement parts are easily reproduced when needed. In this way there are also many designs created by other people that will immediately be compatible with mine.
+I tend to create modular designs using proven systems like [Gridfinity](https://gridfinity.xyz/) or the GoPro-mount, so they will be reusable and replacement parts are easily reproduced when needed. That way there are many designs created by other people that will immediately be compatible with my creations.
 
-## My Printer
+## My Printers
 
 - Creality [CR6-SE](https://www.kickstarter.com/projects/3dprintmill/creality-cr-6-se-leveling-free-diy-3d-printer-kit) - got it from [[kickstarter]] (and a second one from ebay)
+- Voron 0.2
 
 ## [Octoprint](https://octoprint.org/)
 My Octoprint instance runs on a [Raspberry Pi](./raspberrypi.md) 4 and lets me control my printer over the local network. ([Don't just make your printer available to the public internet](https://octoprint.org/blog/2018/09/03/safe-remote-access/))

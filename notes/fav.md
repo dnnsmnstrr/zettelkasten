@@ -14,12 +14,17 @@ Some of the things I like most. ❤️
 - Tarantino (really liked Django, Inglorious Basterds and Once upon a time in Hollywood)
 - Nolan: Interstellar, Inception, Tenet, also enjoyed Oppenheimer
 - Star Wars
+- Her
+- 
 
 ## TV Shows 📺
 
 - Breaking Bad & Better Call Saul (best of all time IMO)
+- Black Mirror
 - Stranger Things
 - Dark
+- Severance
+- For All Mankind
 
 ## Books 📚
 

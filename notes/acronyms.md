@@ -1,6 +1,8 @@
 ---
 tags:
   - language
+aliases:
+  - abbreviations
 ---
 # Acronyms
 

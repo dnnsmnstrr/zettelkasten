@@ -24,11 +24,8 @@ Below is a list of extensions I use.
 - https://www.raycast.com/raycast/github
 - https://www.raycast.com/koinzhang/github-gist
 - https://www.raycast.com/mrmartineau/search-github-stars
-- https://www.raycast.com/mrmartineau/search-npm
 - https://www.raycast.com/moored/git-repos
 - https://www.raycast.com/nhojb/brew
-- https://www.raycast.com/antonreshetov/masscode
-- https://www.raycast.com/asubbotin/shell
 
 ### Documentation
 

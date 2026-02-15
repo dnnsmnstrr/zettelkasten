@@ -9,6 +9,7 @@ Might be a bit late to the party, but here are my themes
 | 2023 | Year of ~~Documentation~~ the docs |
 | 2024 | Year of Release                    |
 | 2025 | Year of Contact                    |
+| 2026 | KISS                               |
 
 ## Resources
 - [themesystem.com](https://themesystem.com)
