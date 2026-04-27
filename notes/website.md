@@ -65,8 +65,10 @@ Some cool personal websites I really like or have taken inspiration from:
 
 - https://brianlovin.com/
 - https://www.birobirobiro.dev/
-- https://brittanychiang.com/
+- https://brittanychiang.com/ ([v3](https://v3.brittanychiang.com/), [v4](https://v4.brittanychiang.com/))
 - https://bruno-simon.com/
 - https://stephango.com/
 - https://nat.org/
 - https://liyuxuan.dev
+- [https://marijanapav.com/](https://marijanapav.com/)
+- [https://neal.fun/](https://neal.fun/)
